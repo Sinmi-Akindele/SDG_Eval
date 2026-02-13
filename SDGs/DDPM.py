@@ -54,7 +54,7 @@ from typing import Any, Callable, Dict, List, Optional, Tuple, Type, Union, cast
 basePath = # INSERT PATH
 filePath = # INSERT PATH
 tomlPath = # INSERT PATH
-MASTER_TOML_PATH = 
+MASTER_TOML_PATH = # INSERT PATH
 seeds = [42, 50, 61, 79, 83]
 datasets = [
     "compas-scores-two-years"
