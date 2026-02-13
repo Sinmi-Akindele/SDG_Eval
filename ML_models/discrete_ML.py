@@ -1,4 +1,3 @@
-
 # Import methods
 import os
 import warnings
