@@ -3,8 +3,8 @@ import pandas as pd
 from sklearn.metrics import accuracy_score
 
 # Paths for files
-basePath = "/home/ntk378/MlEfficacy/"
-filePath = "/home/ntk378/CompiledResults/"
+basePath = # INSERT PATH
+filePath = # INSERT PATH
 
 # Define the SDG models, datasets, and ML models with their metrics
 synthetic_models = ["TabDDPM", "CTABGAN", "TabSyn"]  # Order matters to avoid partial matches
