@@ -1,6 +1,6 @@
 # Variable declaration
-basePath = #INSERT PATH
-filePath = #INSERT PATH
+basePath = # INSERT PATH
+filePath = # INSERT PATH
 seeds = [42, 50, 61, 79, 83]
 
 # Import methods
