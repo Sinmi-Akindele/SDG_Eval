@@ -1,0 +1,1030 @@
+ID,SEX_CODE,PAT_AGE,RACE,ETHNICITY,PAT_ZIP,ALL_DIAG_CODES,FIRST_PAYMENT_SRC,PHARM_AMOUNT,MEDSURG_AMOUNT,OP_AMOUNT,TOTAL_CHARGES
+1,M,55-59,White,Not of Hispanic Origin,75002,"Dysphagia,Esophagitis,Gastritis,Esophagitis,Hypertension,Asthma,Arthritis,Thyroid_disorder,Hormone_replacement_therapy,Drug_therapy",Medicaid,0,0,6684,6684
+2,M,50-54,White,Not of Hispanic Origin,75041,"Heartburn,Stomach_disease,Gastroesophageal_reflux,Hypertension,Hypercholesterolemia,Thyroid_disorder,Hormone_replacement_therapy",Medicaid,0,0,6684,6684
+3,M,45-49,White,Hispanic Origin,75148,"Colon_disease,Hypertension,Atherosclerosis,Hyperlipidemia,Drug_therapy",Health Maintenance Organization (HMO),0,0,10727,10727
+4,M,60-64,Other,Not of Hispanic Origin,75089,"Colon_disease,Hypertension,Diabetes,Drug_therapy",Preferred Provider Organization (PPO),0,0,10727,10727
+5,M,50-54,White,Not of Hispanic Origin,75007,"Rotator_strain,Hypertension,Nicotine_dependence,Impingement,Synovitis_tenosynovitis,Biceps_strain",Workers Compensation Health Claim,0,5729.4,125894,131623.4
+6,F,55-59,Black,Not of Hispanic Origin,75002,"Cataract,Hypertension",Preferred Provider Organization (PPO),0,268,8218,8486
+7,M,70-74,White,Not of Hispanic Origin,75060,"Cataract,Hypertension,Hypercholesterolemia,Diabetes,Drug_therapy,Atherosclerotic,Atrial_fibrillation,Thyroid_disorder,Hormone_replacement_therapy,Drug_therapy",Health Maintenance Organization (HMO),0,268,8118,8386
+8,F,65-69,Other,Not of Hispanic Origin,75024,"Polyp,Hypertension,Nicotine_dependence",Medicare Part B,0,0,13584,13584
+9,F,70-74,Black,Not of Hispanic Origin,75061,"Cataract,Hypertension",Health Maintenance Organization (HMO),0,270,8118,8388
+10,F,40-44,Other,Hispanic Origin,75088,"Body_pain,Esophagitis,Hypertension,Nicotine_dependence",Medicaid,0,0,6684,6684
+11,F,45-49,Other,Not of Hispanic Origin,75001,"Colon_disease,Hypertension,Heartburn,Gastritis,Esophagitis,Bariatric_surgery",Medicaid,0,0,17411,17411
+12,F,65-69,Black,Not of Hispanic Origin,75180,"Body_pain,Biliary_tract_disease,Pancreatitis,Pulmonary_disease,Gastritis,Gastroesophageal_reflux,Hypertension,Nicotine_dependence",Health Maintenance Organization (HMO),0,500,13368,13868
+13,F,60-64,White,Not of Hispanic Origin,76643,"Epiphora,Hypertension,Hypercholesterolemia,Drug_therapy,Cystitis,Stenosis,Nose_disorder",Preferred Provider Organization (PPO),0,405,73810,74215
+14,M,80-84,White,Not of Hispanic Origin,75205,"Cataract,Atrial_fibrillation,Hypertension,Drug_therapy",Medicare Part B,0,250,8118,8368
+15,M,45-49,Other,Not of Hispanic Origin,75056,"Pancreatitis,Gallbladder_disease,Drug_therapy,Nicotine_dependence,Gastritis,Esophagitis,Hypertension",Medicaid,0,0,13368,13368
+16,F,60-64,Other,Not of Hispanic Origin,75104,"Heartburn,Hernia,Gastritis,Hypertension,Bariatric_surgery",Preferred Provider Organization (PPO),0,0,6684,6684
+17,M,60-64,White,Hispanic Origin,75040,"Colon_disease,Hypertension,Nicotine_dependence",Preferred Provider Organization (PPO),0,0,10727,10727
+18,M,60-64,Other,Not of Hispanic Origin,75235,"Colon_disease,Diverticulosis,Hypertension,Hyperlipidemia,Nicotine_dependence",Preferred Provider Organization (PPO),0,0,10727,10727
+19,F,65-69,Other,Not of Hispanic Origin,75081,"Ulcer,Osteomyelitis,Diabetes,Insulin_use,Hypoglycemic_drug_use,Hypercholesterolemia,Asthma,Hypertension,Drug_therapy",Health Maintenance Organization (HMO),0,274.93,10727,11001.93
+20,M,55-59,White,Not of Hispanic Origin,75041,"Cataract,Hypertension,Pulmonary_disease,Atherosclerotic,Nicotine_dependence,Drug_therapy,Glaucoma",Health Maintenance Organization (HMO),0,1270,16236,17506
+21,F,60-64,White,Not of Hispanic Origin,75238,"Colon_disease,Hypertension,Diabetes,Insulin_use,Drug_therapy,Nicotine_dependence,Drug_therapy",Medicaid,0,0,10727,10727
+22,F,40-44,White,Not of Hispanic Origin,75150,"Dysphagia,Heartburn,Gastritis,Gastroesophageal_reflux,Hypertension,Diabetes,Insulin_use,Drug_therapy",Medicaid,0,540.98,13368,13908.98
+23,F,45-49,Black,Not of Hispanic Origin,75126,"Change_in_bowel_habit,Body_pain,Hypertension,Arthritis",Medicaid,0,0,10727,10727
+24,M,60-64,Other,Not of Hispanic Origin,75228,"Weight_loss,Hernia,Gastritis,Esophagitis,Hypertension,Nicotine_dependence",Medicaid,0,0,6684,6684
+25,M,85-89,White,Not of Hispanic Origin,75042,"Cataract,Hypertension,Hypercholesterolemia,Thyroid_disorder,Hormone_replacement_therapy,Drug_therapy",Health Maintenance Organization (HMO),0,250,8118,8368
+26,F,45-49,Other,Not of Hispanic Origin,75211,"Cataract,Hypertension",Preferred Provider Organization (PPO),0,268,8118,8386
+27,F,75-79,Other,Not of Hispanic Origin,75460,"Cataract,Diabetes,Hypertension,Hormone_replacement_therapy",Medicare Part B,0,2030,8118,10148
+28,F,65-69,Other,Hispanic Origin,75150,"Cataract,Astigmatism,Hypertension,Nicotine_dependence",Preferred Provider Organization (PPO),0,268,8118,8386
+29,F,45-49,Other,Not of Hispanic Origin,75035,"Cataract,Hypercholesterolemia,Diabetes,Insulin_use,Drug_therapy,Hypertension",Preferred Provider Organization (PPO),0,2238,8118,10356
+30,F,65-69,White,Not of Hispanic Origin,75454,"Cataract,Hypertension,Asthma,Arthritis,Drug_therapy",Health Maintenance Organization (HMO),0,268,8118,8386
+31,M,80-84,White,Not of Hispanic Origin,75248,"Cataract,Atrial_fibrillation,Hypertension,Hypercholesterolemia,Nicotine_dependence,Drug_therapy",Medicare Part B,0,582.93,8118,8700.93
+32,F,75-79,White,Not of Hispanic Origin,75150,"Cataract,Hypertension,Atherosclerosis,Hypercholesterolemia,Nicotine_dependence,Drug_therapy",Health Maintenance Organization (HMO),0,250,8118,8368
+33,M,70-74,Black,Not of Hispanic Origin,76010,"Colon_disease,Hypertension",Health Maintenance Organization (HMO),0,0,10727,10727
+34,F,65-69,Asian or Pacific Islander,Not of Hispanic Origin,75040,"Cataract,Hypertension,Hypercholesterolemia,Thyroid_disorder,Hormone_replacement_therapy",Health Maintenance Organization (HMO),0,270,8118,8388
+35,F,60-64,White,Not of Hispanic Origin,75075,"Arthritis,Ankle_and_foot_strain,Hypertension,Hypercholesterolemia,Nicotine_dependence,Hormone_replacement_therapy",Preferred Provider Organization (PPO),0,296.8,15726,16022.8
+36,F,65-69,White,Not of Hispanic Origin,75227,"Hammer_Osteophyte,Diabetes,Drug_therapy,Neoplasm,Hypertension,Hypercholesterolemia,Drug_therapy",Health Maintenance Organization (HMO),0,0,36674,36674
+37,M,60-64,Other,Not of Hispanic Origin,75057,"Colon_disease,Hypertension,Hypercholesterolemia,Diabetes",Medicaid,0,0,10727,10727
+38,F,65-69,White,Hispanic Origin,75061,"Colon_disease,Hypertension,Hyperlipidemia,Diabetes,Insulin_use,Drug_therapy",Medicaid,0,0,10727,10727
+39,M,70-74,Black,Not of Hispanic Origin,75083,"Colon_disease,Hypertension",Other Federal Program,0,0,10727,10727
+40,M,70-74,Other,Not of Hispanic Origin,75043,"Cataract,Hypertension,Atherosclerosis,Diabetes,Drug_therapy,Nicotine_dependence",Health Maintenance Organization (HMO),0,270,8118,8388
+41,F,50-54,Other,Not of Hispanic Origin,75040,"Colon_disease,Polyp,Hypertension,Diabetes,Insulin_use,Drug_therapy,Arthritis",Health Maintenance Organization (HMO),0,0,10727,10727
+42,F,55-59,Black,Not of Hispanic Origin,75042,"Heartburn,Gastritis,Gastroesophageal_reflux,Hernia,Hypertension,Hypercholesterolemia,COPD,Nicotine_dependence,Drug_therapy",Medicaid,0,0,6684,6684
+43,F,60-64,White,Not of Hispanic Origin,76248,"Neoplasm,Hypertension,Hypercholesterolemia,Diabetes,Thyroid_disorder,Hormone_replacement_therapy,Drug_therapy",Other Federal Program,0,0,12865,12865
+44,F,45-49,White,Not of Hispanic Origin,76109,"Nevus,Hypertension,Asthma,Arthritis,Neoplasm",Preferred Provider Organization (PPO),0,0,33350,33350
+45,M,55-59,Black,Not of Hispanic Origin,75149,"Colon_disease,Hypertension,Nicotine_dependence",Other Federal Program,0,0,10727,10727
+46,F,75-79,Other,Not of Hispanic Origin,75082,"Cataract,Diabetes,Hypertension,Atrial_fibrillation,Asthma,Drug_therapy,Hormone_replacement_therapy",Health Maintenance Organization (HMO),0,268,8118,8386
+47,M,55-59,Other,Hispanic Origin,75234,"Heartburn,Dysplasia,Esophagitis,Stomach_disease,Hernia,Hypertension,Hyperlipidemia,Drug_therapy",Preferred Provider Organization (PPO),0,0,6684,6684
+48,F,50-54,Other,Not of Hispanic Origin,75241,"Esophagitis,Gastritis,Hypertension,Arthritis",Preferred Provider Organization (PPO),0,0,6684,6684
+49,F,70-74,Other,Not of Hispanic Origin,75115,"Body_pain,Dysphagia,Hernia,Hypertension,Hypercholesterolemia,Diabetes,Drug_therapy,Thyroid_disorder,Hormone_replacement_therapy,Drug_therapy",Medicare Part B,0,0,6684,6684
+50,F,50-54,Black,Not of Hispanic Origin,75241,"Colon_disease,Diabetes,Insulin_use,Drug_therapy,Hypertension",Medicaid,0,0,21454,21454
+51,F,60-64,Black,Not of Hispanic Origin,75006,"Colon_disease,Diverticulosis,Intestinal_bypass,Hypertension,Heartburn,Hernia,Gastritis,Gastroesophageal_reflux,Esophagitis,Hypercholesterolemia,Arthritis,Drug_therapy",Preferred Provider Organization (PPO),0,0,17411,17411
+52,M,75-79,White,Not of Hispanic Origin,75189,"Cataract,Hypertension,Hypercholesterolemia,Nicotine_dependence,Hormone_replacement_therapy",Health Maintenance Organization (HMO),0,250,8118,8368
+53,F,60-64,Black,Not of Hispanic Origin,76137,"Cataract,Hypertension",Preferred Provider Organization (PPO),0,270,8118,8388
+54,M,85-89,Other,Not of Hispanic Origin,75062,"Cataract,Hypertension,Diabetes,Drug_therapy",Health Maintenance Organization (HMO),0,270,8118,8388
+55,M,65-69,Other,Not of Hispanic Origin,75124,"Gastritis,Hiccup,Esophagitis,Diabetes,Hypertension,Nicotine_dependence",Medicare Part B,0,0,6684,6684
+56,M,80-84,White,Not of Hispanic Origin,75093,"Cataract,Hypertension,Hypercholesterolemia,Diabetes,Drug_therapy",Medicare Part B,0,250,8118,8368
+57,F,80-84,Other,Not of Hispanic Origin,75080,"Cataract,Hypertension",Health Maintenance Organization (HMO),0,600.93,8118,8718.93
+58,M,65-69,White,Hispanic Origin,79549,"Cataract,Hypertension,Hypercholesterolemia,Nicotine_dependence",Medicare Part B,0,250,8118,8368
+59,M,65-69,White,Not of Hispanic Origin,75061,"Cataract,Astigmatism,Hypertension,Hypercholesterolemia,Diabetes,Drug_therapy,Pulmonary_disease,Nicotine_dependence,Drug_therapy",Health Maintenance Organization (HMO),0,268,8118,8386
+60,F,70-74,Other,Not of Hispanic Origin,75039,"Cataract,Astigmatism,Hypertension,Hypercholesterolemia,Nicotine_dependence",Health Maintenance Organization (HMO),0,268,8118,8386
+61,M,60-64,White,Not of Hispanic Origin,75060,"Cataract,Hypercholesterolemia,Hypertension",Preferred Provider Organization (PPO),0,250,8118,8368
+62,M,65-69,Other,Hispanic Origin,76207,"Cataract,Hypertension",Commercial Insurance,0,602.93,8118,8720.93
+63,M,70-74,Other,Not of Hispanic Origin,75240,"Cataract,Hypertension,Hypercholesterolemia",Health Maintenance Organization (HMO),0,250,8118,8368
+64,M,70-74,Other,Hispanic Origin,75043,"Cataract,Hypertension,COPD,Diabetes,Drug_therapy,Nicotine_dependence,Hypercholesterolemia",Health Maintenance Organization (HMO),0,270,8118,8388
+65,F,65-69,White,Hispanic Origin,75041,"Cataract,Hypertension,Hypercholesterolemia,Diabetes,Insulin_use,Nicotine_dependence,Drug_therapy",Health Maintenance Organization (HMO),0,270,8118,8388
+66,F,60-64,White,Not of Hispanic Origin,75401,"Cataract,Hypertension,Hypercholesterolemia,Diabetes,Nicotine_dependence,Drug_therapy,Opiate_analgesic_use",Medicaid,0,270,8118,8388
+67,F,65-69,Black,Not of Hispanic Origin,75040,"Cataract,Hypertension,Hypercholesterolemia,Diabetes,Drug_therapy,Asthma,Arthritis,Drug_therapy",Health Maintenance Organization (HMO),0,270,8118,8388
+68,F,40-44,White,Not of Hispanic Origin,75040,"Cataract,Hypertension,Diabetes,Drug_therapy",Medicaid,0,300,8118,8418
+69,M,60-64,White,Not of Hispanic Origin,75150,"Cataract,Hypertension,Asthma,Hormone_replacement_therapy",Medicaid,0,270,8118,8388
+70,F,50-54,Other,Not of Hispanic Origin,75235,"Colon_disease,Hypertension,Nicotine_dependence,Drug_therapy",Medicaid,0,0,10727,10727
+71,F,55-59,Black,Not of Hispanic Origin,75181,"Colon_disease,Neoplasm,Colon_disease,Hypertension,Nicotine_dependence,Drug_therapy",Health Maintenance Organization (HMO),0,0,10727,10727
+72,F,55-59,Other,Hispanic Origin,75211,"Colon_disease,Hypertension,Pulmonary_disease,Diabetes ",Medicare Part B,0,0,10727,10727
+73,F,50-54,Other,Not of Hispanic Origin,75287,"Pancreatitis,Stomach_disease,Diarrhea,Hypertension,Nicotine_dependence",Preferred Provider Organization (PPO),0,0,13368,13368
+74,F,50-54,Other,Not of Hispanic Origin,75227,"Colon_disease,Diverticulosis,Hypertension,COPD,Nicotine_dependence",Medicaid,0,0,10727,10727
+75,F,55-59,Other,Not of Hispanic Origin,75232,"Colon_disease,Diverticulosis,Hypertension,Arthritis",Medicaid,0,0,10727,10727
+76,F,65-69,Other,Not of Hispanic Origin,75215,"Colon_disease,Diverticulosis,Hypertension,Diabetes,Insulin_use,Drug_therapy",Health Maintenance Organization (HMO),0,0,10727,10727
+77,F,35-39,Other,Not of Hispanic Origin,75126,"Gastroesophageal_reflux,Stomach_disease,Hypertension,Asthma,Diabetes,Drug_therapy",Preferred Provider Organization (PPO),0,0,6684,6684
+78,M,65-69,Other,Not of Hispanic Origin,76427,"Nerve_lesion,Hypertension",Medicare Part B,0,0,16443,16443
+79,F,35-39,White,Hispanic Origin,75234,"Sterilization,Abdominal_adhesions,Hypertension,Nicotine_dependence",Preferred Provider Organization (PPO),0,1201.88,57796,58997.88
+80,F,60-64,White,Not of Hispanic Origin,75201,"Cataract,Hypertension,Colon_disease,Hormone_replacement_therapy",Preferred Provider Organization (PPO),0,1990,8218,10208
+81,M,75-79,Other,Not of Hispanic Origin,75234,"Cataract,Diabetes,Hypertension,Atherosclerosis",Health Maintenance Organization (HMO),0,268,8118,8386
+82,F,75-79,White,Not of Hispanic Origin,75248,"Cataract,Diabetes,Hypertension,Atherosclerosis,Drug_therapy",Medicare Part B,0,268,8118,8386
+83,F,50-54,Other,Not of Hispanic Origin,75169,"Body_pain,Hypertension,Gastritis,Esophagitis,Hernia",Preferred Provider Organization (PPO),0,0,13368,13368
+84,F,60-64,Black,Not of Hispanic Origin,75043,"Colon_disease,Diverticulosis,Hypertension,Nicotine_dependence",Medicaid,0,0,10727,10727
+85,M,50-54,Other,Not of Hispanic Origin,75243,"Heartburn,Gastroesophageal_reflux,Esophagitis,Hypertension,Asthma,Diabetes,Insulin_use",Medicaid,0,0,6684,6684
+86,M,55-59,Other,Hispanic Origin,75217,"Heartburn,Gastritis,Esophagitis,Hypertension,Diabetes,Insulin_use,Drug_therapy,Nicotine_dependence",Medicaid,0,0,6684,6684
+87,F,55-59,Black,Not of Hispanic Origin,75210,"Heartburn,Gastritis,Hypertension,Nicotine_dependence",Medicaid,0,0,6684,6684
+88,M,70-74,Other,Hispanic Origin,75211,"Cataract,Hypertension,Diabetes,Drug_therapy,Nicotine_dependence",Health Maintenance Organization (HMO),0,270,8118,8388
+89,M,65-69,White,Not of Hispanic Origin,75060,"Cataract,Hypertension,Hyperlipidemia,Thyroid_disorder,Hormone_replacement_therapy",Health Maintenance Organization (HMO),0,270,8118,8388
+90,F,60-64,Other,Not of Hispanic Origin,75043,"Change_in_bowel_habit,Colitis,Hypercholesterolemia,Hypertension",Preferred Provider Organization (PPO),0,0,10727,10727
+91,M,55-59,Other,Not of Hispanic Origin,75215,"Colon_disease,Hypertension,Nicotine_dependence,Drug_therapy",Medicaid,0,0,10727,10727
+92,M,50-54,Black,Not of Hispanic Origin,75232,"Colon_disease,Hypertension,Nicotine_dependence",Medicaid,0,0,10727,10727
+93,M,75-79,Black,Not of Hispanic Origin,75246,"Colon_disease,Hypertension,Diabetes,Nicotine_dependence",Health Maintenance Organization (HMO),0,0,10727,10727
+94,F,45-49,White,Not of Hispanic Origin,75154,"Colon_disease,Hypertension,Diabetes,Drug_therapy,Hormone_replacement_therapy",Medicaid,0,0,10727,10727
+95,F,65-69,Other,Not of Hispanic Origin,75044,"Cataract,Hypertension,Hypercholesterolemia,Arthritis",Health Maintenance Organization (HMO),0,2000,8443,10443
+96,M,70-74,Other,Not of Hispanic Origin,75214,"Cataract,Hypertension,Drug_therapy",Medicare Part B,0,250,8443,8693
+97,M,70-74,Other,Not of Hispanic Origin,75044,"Cataract,Hypertension,Arthritis,Opioid_analgesic_use,Drug_therapy",Medicare Part B,0,250,8118,8368
+98,M,60-64,White,Not of Hispanic Origin,75063,"Colon_disease,Polyp,Neoplasm,Hemorrhoids,Hypertension,Hypercholesterolemia,Nicotine_dependence",Preferred Provider Organization (PPO),0,0,10727,10727
+99,F,55-59,White,Not of Hispanic Origin,75023,"Cataract,Asthma,Hypercholesterolemia,Hypertension,Thyroid_disorder,Hormone_replacement_therapy,Nicotine_dependence,Drug_therapy",Preferred Provider Organization (PPO),0,2030,8443,10473
+100,M,75-79,White,Not of Hispanic Origin,75219,"Cataract,Atherosclerotic,Hypertension,Hypercholesterolemia,Parkinsons_disease,Nicotine_dependence,Drug_therapy",Health Maintenance Organization (HMO),0,990,8443,9433
+101,F,65-69,Other,Not of Hispanic Origin,75044,"Cataract,Hypertension,Arthritis,Hypoglycemic_drug_use",Health Maintenance Organization (HMO),0,2000,8443,10443
+102,F,45-49,Other,Not of Hispanic Origin,75093,"Cataract,Hypertension,Asthma",Health Maintenance Organization,0,268,8118,8386
+103,F,45-49,Other,Not of Hispanic Origin,75211,"Cataract,Astigmatism,Hypertension",Preferred Provider Organization (PPO),0,268,8118,8386
+104,F,65-69,White,Not of Hispanic Origin,75454,"Cataract,Hypertension,Asthma,Arthritis,Drug_therapy",Health Maintenance Organization (HMO),0,268,8118,8386
+105,F,55-59,White,Hispanic Origin,75061,"Cataract,Astigmatism,Hypertension,Opiate_analgesic_use,Drug_therapy",Health Maintenance Organization,0,300,8118,8418
+106,F,65-69,Asian or Pacific Islander,Not of Hispanic Origin,75038,"Cataract,Astigmatism,Hypertension,Hypercholesterolemia,Diabetes,Drug_therapy,Nicotine_dependence",Medicare Part B,0,300,8118,8418
+107,F,55-59,Black,Not of Hispanic Origin,75210,"Nausea,Hernia,Gastritis,Stomach_infection,Hypertension,Asthma,Hypercholesterolemia,Arthritis,Drug_therapy",Medicaid,0,0,6684,6684
+108,M,60-64,Other,Not of Hispanic Origin,75241,"Colon_disease,Colitis,Hemorrhoids,Hypertension,Diabetes,Drug_therapy",Health Maintenance Organization,0,0,10727,10727
+109,F,40-44,Black,Not of Hispanic Origin,75068,"Hemorrhage,Hemorrhoidal_skin_tags,Hypertension,Arthritis,Drug_therapy",Preferred Provider Organization (PPO),0,0,10727,10727
+110,F,50-54,White,Not of Hispanic Origin,75243,"Colon_disease,Diverticulosis,Hypertension,Hypercholesterolemia,Diabetes,Hypoglycemic_drug_use,Thyroid_disorder,Hormone_replacement_therapy,Arthritis",Medicaid,0,0,10727,10727
+111,M,55-59,Black,Not of Hispanic Origin,75223,"Colon_disease,Diverticulosis,Hyperlipidemia,Hypertension,Pulmonary_disease,Arthritis,Nicotine_dependence,Drug_therapy",Medicaid,0,0,10727,10727
+112,M,65-69,White,Not of Hispanic Origin,75225,"Cataract,Hypertension,Hypercholesterolemia,Nicotine_dependence,Drug_therapy",Preferred Provider Organization (PPO),0,990,8443,9433
+113,F,60-64,White,Not of Hispanic Origin,75149,"Colon_disease,Diverticulosis,Hypertension,Hypercholesterolemia,Diabetes,Drug_therapy,Nicotine_dependence",Medicaid,0,0,10727,10727
+114,F,35-39,Black,Not of Hispanic Origin,75044,"Dysphagia,Gastritis,Esophagitis,Hypertension,Nicotine_dependence",Health Maintenance Organization (HMO),0,540.98,13368,13908.98
+115,M,55-59,Black,Not of Hispanic Origin,75040,"Cataract,Hypertension,Hypercholesterolemia,Drug_therapy",Preferred Provider Organization (PPO),0,270,8118,8388
+116,M,90+,Asian or Pacific Islander,Not of Hispanic Origin,75228,"Cataract,Hypertension,Diabetes,Nicotine_dependence,Hypoglycemic_drug_use",Medicare Part B,0,280,8118,8398
+117,F,55-59,Other,Hispanic Origin,75062,"Pterygium,Hypertension,Diabetes,Drug_therapy",Health Maintenance Organization,0,1442.13,13714,15156.13
+118,F,55-59,Other,Hispanic Origin,75160,"Cataract,Miosis,Hypertension,Diabetes,Drug_therapy",Preferred Provider Organization (PPO),0,600.93,8118,8718.93
+119,M,65-69,White,Not of Hispanic Origin,75002,"Cataract,Hypertension,Hypercholesterolemia,Diabetes,Glaucoma",Health Maintenance Organization (HMO),0,1507.5,16236,17743.5
+120,F,65-69,Asian or Pacific Islander,Not of Hispanic Origin,75182,"Cataract,Hypercholesterolemia,Diabetes,Drug_therapy,Hypertension,Drug_therapy",Health Maintenance Organization (HMO),0,270,8118,8388
+121,M,70-74,White,Not of Hispanic Origin,75046,"Cataract,Hypertension,Hypercholesterolemia",Health Maintenance Organization (HMO),0,270,8118,8388
+122,F,65-69,Black,Not of Hispanic Origin,75119,"Gastroesophageal_reflux,Esophagitis,Body_pain,Gastritis,Hernia,Nausea,Hypertension,Diabetes,Hypercholesterolemia,Arthritis",Health Maintenance Organization (HMO),0,0,6684,6684
+123,M,35-39,Other,Not of Hispanic Origin,75217,"Body_pain,Gastritis,Hypertension,Diabetes,Drug_therapy",Medicaid,0,0,6684,6684
+124,F,60-64,Black,Not of Hispanic Origin,75228,"Colon_disease,Neoplasm,Colon_disease,Hypertension,Diabetes,Drug_therapy",Medicaid,0,0,10727,10727
+125,F,45-49,Other,Not of Hispanic Origin,75204,"Body_pain,Hernia,Gastritis,Hypertension,Pulmonary_disease,Diabetes,Drug_therapy",Medicaid,0,0,6684,6684
+126,F,55-59,White,Not of Hispanic Origin,75158,"Colon_disease,Hypertension,Nicotine_dependence",Medicaid,0,0,10727,10727
+127,M,75-79,White,Not of Hispanic Origin,75071,"Cosmetic_surgery,Skin_disorder,Hypertension,Hypercholesterolemia","Charity, Indigent or Unknown",0,0,13558,13558
+128,F,65-69,Other,Not of Hispanic Origin,75072,"Orbit_cyst,Hypertension,Hypercholesterolemia,Drug_therapy",Medicare Part B,0,0,18262,18262
+129,M,70-74,Other,Not of Hispanic Origin,75062,"Cataract,Hypertension,Hypercholesterolemia,Diabetes,Hypoglycemic_drug_use,Insulin_use,Drug_therapy",Health Maintenance Organization (HMO),0,270,8118,8388
+130,M,65-69,White,Hispanic Origin,75220,"Cataract,Hypertension,Nicotine_dependence",Health Maintenance Organization (HMO),0,270,8118,8388
+131,M,75-79,Other,Not of Hispanic Origin,75234,"Cataract,Hypertension,Nicotine_dependence",Health Maintenance Organization (HMO),0,270,8118,8388
+132,M,65-69,Black,Not of Hispanic Origin,75243,"Colon_disease,Diverticulosis,Hypertension,Hypercholesterolemia,Thyroid_disorder,Hormone_replacement_therapy,Opioid_analgesic_use,Drug_therapy",Health Maintenance Organization (HMO),0,0,10727,10727
+133,F,75-79,Other,Not of Hispanic Origin,75075,"Colon_disease,Colitis,Hypertension,Atrial_fibrillation,Fibromyalgia,Thyroid_disorder,Hormone_replacement_therapy,Drug_therapy,Nicotine_dependence",Health Maintenance Organization (HMO),0,0,10727,10727
+134,M,50-54,Asian or Pacific Islander,Not of Hispanic Origin,75042,"Colon_disease,Anus_rectum_disease,Hypertension,Hypercholesterolemia",Preferred Provider Organization (PPO),0,0,10727,10727
+135,M,65-69,White,Not of Hispanic Origin,75180,"Colon_disease,Neoplasm,Hypertension",Health Maintenance Organization (HMO),0,0,10727,10727
+136,F,75-79,White,Hispanic Origin,75219,"Cataract,Hypertension,Thyroid_disorder,Glaucoma",Health Maintenance Organization (HMO),0,1507.5,16236,17743.5
+137,M,75-79,White,Hispanic Origin,75041,"Cataract,Hypertension,Diabetes,Drug_therapy,Cornea_foreign_body,Hypercholesterolemia,Nicotine_dependence",Health Maintenance Organization (HMO),0,270,8700,8970
+138,F,75-79,White,Not of Hispanic Origin,75042,"Cataract,Retinopathy,Hypertension,Hypercholesterolemia,Diabetes,Drug_therapy,Arthritis,Nicotine_dependence,Glaucoma,Drug_therapy,Hormone_replacement_therapy,Glaucoma",Preferred Provider Organization (PPO),0,1507.5,16236,17743.5
+139,M,55-59,White,Hispanic Origin,75228,"Cataract,Hypertension,Atherosclerosis,Hypercholesterolemia,Diabetes,Insulin_use,Drug_therapy,Nicotine_dependence,Drug_therapy",Preferred Provider Organization (PPO),0,270,8118,8388
+140,M,75-79,White,Hispanic Origin,75180,"Cataract,Hypertension,Hypercholesterolemia,Diabetes,Nicotine_dependence,Drug_therapy",Health Maintenance Organization (HMO),0,270,8118,8388
+141,F,50-54,Black,Not of Hispanic Origin,75228,"Cataract,Hypertension,Hyperlipidemia,Drug_therapy",Medicaid,0,235,8118,8353
+142,F,40-44,White,Not of Hispanic Origin,75040,"Cataract,Hypertension,Diabetes,Drug_therapy",Medicaid,0,300,8118,8418
+143,M,70-74,Asian or Pacific Islander,Not of Hispanic Origin,75042,"Cataract,Hypertension,Hypercholesterolemia,Diabetes",Health Maintenance Organization (HMO),0,270,8118,8388
+144,F,55-59,White,Not of Hispanic Origin,75023,"Cataract,Asthma,Hypertension,Thyroid_disorder,Nicotine_dependence,Drug_therapy",Preferred Provider Organization (PPO),0,2030,8443,10473
+145,M,65-69,Other,Not of Hispanic Origin,75214,"Cataract,Hypercholesterolemia,Hypertension,Nicotine_dependence",Health Maintenance Organization (HMO),0,990,8443,9433
+146,M,70-74,White,Not of Hispanic Origin,75707,"Cataract,Hypertension",Preferred Provider Organization (PPO),0,2000,8443,10443
+147,F,75-79,White,Not of Hispanic Origin,75219,"Cataract,Diabetes,Hypercholesterolemia,Hypertension,Thyroid_disorder,Hormone_replacement_therapy",Medicare Part B,0,250,8443,8693
+148,M,65-69,White,Hispanic Origin,79549,"Cataract,Hypertension,Hypercholesterolemia,Nicotine_dependence",Medicare Part B,0,300,8118,8418
+149,M,70-74,White,Hispanic Origin,75212,"Cataract,Astigmatism,Hypertension,Hypercholesterolemia,Nicotine_dependence,Hormone_replacement_therapy",Health Maintenance Organization (HMO),0,268,8118,8386
+150,M,60-64,White,Not of Hispanic Origin,75060,"Cataract,Hypertension,Hypercholesterolemia,Nicotine_dependence",Preferred Provider Organization (PPO),0,300,8118,8418
+151,M,70-74,White,Hispanic Origin,75240,"Cataract,Hypertension,Diabetes,Drug_therapy,Hormone_replacement_therapy",Medicare Part B,0,250,8118,8368
+152,M,70-74,Other,Not of Hispanic Origin,75240,"Cataract,Hypertension,Hypercholesterolemia",Health Maintenance Organization (HMO),0,250,8118,8368
+153,M,70-74,White,Not of Hispanic Origin,75707,"Cataract,Hypertension",Preferred Provider Organization (PPO),0,2000,8443,10443
+154,F,70-74,White,Not of Hispanic Origin,75209,"Cataract,Hypercholesterolemia,Asthma,Hypertension",Medicare Part B,0,250,8118,8368
+155,M,75-79,White,Not of Hispanic Origin,75189,"Cataract,Hypertension,Hypercholesterolemia,Nicotine_dependence,Hormone_replacement_therapy",Health Maintenance Organization (HMO),0,250,8118,8368
+156,M,70-74,Other,Not of Hispanic Origin,75044,"Cataract,Hypertension,Arthritis,Opioid_analgesic_use,Drug_therapy",Medicare Part B,0,250,8118,8368
+157,F,70-74,Other,Not of Hispanic Origin,75206,"Cataract,Hypertension,Atrial_fibrillation,Diabetes,Insulin_use,Drug_therapy,Nicotine_dependence",Health Maintenance Organization (HMO),0,268,8118,8386
+158,F,55-59,Black,Not of Hispanic Origin,75180,"Colon_disease,Diverticulosis,Hypertension,Hormone_replacement_therapy",Preferred Provider Organization (PPO),0,0,10727,10727
+159,M,65-69,Other,Not of Hispanic Origin,75063,"Colon_disease,Hypertension,Diabetes,Drug_therapy",Preferred Provider Organization (PPO),0,0,10727,10727
+160,F,55-59,Other,Not of Hispanic Origin,75063,"Colon_disease,Hypertension",Preferred Provider Organization (PPO),0,0,10727,10727
+161,M,60-64,Other,Not of Hispanic Origin,75215,"Colon_disease,Diverticulosis,Pulmonary_disease,Atrial_fibrillation,Hypertension,Nicotine_dependence,Drug_therapy,Hormone_replacement_therapy",Medicaid,0,0,10727,10727
+162,F,55-59,Other,Not of Hispanic Origin,75226,"Colon_disease,Hypertension,Diabetes,Insulin_use,Drug_therapy,Nicotine_dependence,Drug_therapy",Medicaid,0,0,10727,10727
+163,F,65-69,Other,Not of Hispanic Origin,75231,"Colon_disease,Diverticulosis,Hypertension",Medicaid,0,0,10727,10727
+164,M,65-69,Black,Not of Hispanic Origin,75374,"Colon_disease,Hemorrhoids,Diabetes,Drug_therapy,Anemia,Dyspepsia,Gastritis,Stomach_infection,Hypertension,Hyperlipidemia,Drug_therapy",Other Federal Program,0,0,17411,17411
+165,M,50-54,Other,Hispanic Origin,75051,"Body_pain,Hernia,Gastritis,Esophagitis,Hypertension,Atherosclerosis,Drug_therapy",Medicaid,0,0,6684,6684
+166,M,50-54,Other,Not of Hispanic Origin,75252,"Colon_disease,Neoplasm,Colon_disease_disease,Diverticulosis,Hypertension,Diabetes,Drug_therapy,Nicotine_dependence",Other Federal Program,0,0,10727,10727
+167,F,40-44,White,Not of Hispanic Origin,75149,"Heartburn,Stomach_disease,Esophagitis,COPD,Hypertension,Arthritis,Nicotine_dependence",Medicaid,0,0,6684,6684
+168,F,65-69,Black,Not of Hispanic Origin,75241,"Colon_disease,Diverticulosis,Hypertension,Diabetes,Drug_therapy",Health Maintenance Organization (HMO),0,0,10727,10727
+169,M,70-74,White,Not of Hispanic Origin,75243,"Tear,Hypertension",Workers Compensation Health Claim,0,290,34555,34845
+170,F,55-59,Other,Not of Hispanic Origin,75180,"Colon_disease,Neoplasm,Polyp,Hypertension,Diabetes,Drug_therapy",Preferred Provider Organization (PPO),0,0,10727,10727
+171,M,60-64,Black,Not of Hispanic Origin,75104,"Colon_disease,Diverticulosis,Hypertension,Diabetes,Drug_therapy,Nicotine_dependence",Preferred Provider Organization (PPO),0,0,10727,10727
+172,F,60-64,White,Not of Hispanic Origin,75236,"Body_pain,Arthritis,Nicotine_dependence,Stomach_infection,Esophagitis,Hypertension,Pancreatitis,Gastritis",Medicaid,0,0,13368,13368
+173,F,60-64,Other,Not of Hispanic Origin,75040,"Colon_disease,Hypertension,Diabetes,Drug_therapy,Nicotine_dependence",Medicaid,0,0,10727,10727
+174,F,50-54,Other,Not of Hispanic Origin,75075,"Dysphagia,Heartburn,Gastritis,Hypertension",Preferred Provider Organization (PPO),0,448.5,13368,13816.5
+175,F,65-69,Other,Not of Hispanic Origin,75080,"Gastroesophageal_reflux,Esophagitis,Hypertension,Hypercholesterolemia,Fibromyalgia,Nicotine_dependence",Medicare Part B,0,0,6684,6684
+176,F,65-69,Other,Not of Hispanic Origin,75143,"Ptosis,Visual_disturbance,Hypertension,Arthritis,Ectropion,Conjunctivitis,Drug_therapy,Cosmetic_surgery",Health Maintenance Organization (HMO),0,0,99498,99498
+177,M,55-59,Asian or Pacific Islander,Not of Hispanic Origin,75044,"Colon_disease,Colon_disease_disease,Hypertension",Medicaid,0,0,10727,10727
+178,M,50-54,Other,Not of Hispanic Origin,75040,"Heartburn,Gastritis,Gastric_intestinal_metaplasia,Hypertension,Diabetes,Drug_therapy,Atherosclerosis",Preferred Provider Organization (PPO),0,0,6684,6684
+179,F,65-69,White,Hispanic Origin,75235,"Cataract,Hypertension,Diabetes,Drug_therapy,Thyroid_disorder,Hormone_replacement_therapy",Health Maintenance Organization (HMO),0,270,8118,8388
+180,M,65-69,White,Hispanic Origin,75220,"Cataract,Hypertension,COPD,Diabetes,Drug_therapy,Hyperlipidemia,Drug_therapy,Nicotine_dependence",Health Maintenance Organization (HMO),0,270,8118,8388
+181,F,55-59,Black,Not of Hispanic Origin,75230,"Dysphagia,Esophagitis,Gastritis,Duodenitis,Esophagitis,Hernia,Postprocedural_examination,Hypertension,Nicotine_dependence,Drug_therapy",Medicaid,0,448.5,13368,13816.5
+182,F,55-59,Black,Not of Hispanic Origin,75230,"Dysphagia,Esophagitis,Hernia,Gastritis,Hypertension,Drug_therapy",Medicaid,0,448.5,13368,13816.5
+183,M,70-74,White,Not of Hispanic Origin,75231,"Cataract,Hypertension,Atherosclerosis,Drug_therapy",Medicare Part B,0,2000,8443,10443
+184,M,70-74,Other,Not of Hispanic Origin,75248,"Cataract,Hypertension,Hypercholesterolemia,Arthritis,Drug_therapy,Opiate_analgesic_use,Drug_therapy",Medicare Part B,0,990,8443,9433
+185,M,75-79,White,Not of Hispanic Origin,75219,"Cataract,Hypertension,Atherosclerotic,Nicotine_dependence,Drug_therapy",Health Maintenance Organization (HMO),0,990,8443,9433
+186,M,70-74,Other,Not of Hispanic Origin,75205,"Cataract,Hypertension,Diabetes,Drug_therapy",Preferred Provider Organization (PPO),0,2030,8443,10473
+187,M,65-69,Other,Not of Hispanic Origin,75214,"Cataract,Hypercholesterolemia,Hypertension,Nicotine_dependence",Health Maintenance Organization (HMO),0,250,8543,8793
+188,M,60-64,White,Not of Hispanic Origin,75002,"Cataract,Hypertension,Hypercholesterolemia,Asthma",Preferred Provider Organization (PPO),0,250,8118,8368
+189,M,60-64,Black,Not of Hispanic Origin,75232,"Colon_disease,Diverticulosis,Hypertension,Diabetes,Drug_therapy",Preferred Provider Organization (PPO),0,0,10727,10727
+190,M,70-74,Other,Hispanic Origin,75040,"Cataract,Hypertension,Hypercholesterolemia,Diabetes,Drug_therapy,Nicotine_dependence,Arthritis,COVID-19,Drug_therapy",Health Maintenance Organization (HMO),0,270,8118,8388
+191,M,70-74,Black,Not of Hispanic Origin,75042,"Cataract,Hypertension,Atrial_fibrillation,Hypercholesterolemia,Drug_therapy",Other Federal Program,0,1507.5,16236,17743.5
+192,M,70-74,Other,Hispanic Origin,75043,"Cataract,Hypertension,Pulmonary_disease,Diabetes,Nicotine_dependence,Drug_therapy",Health Maintenance Organization (HMO),0,270,8118,8388
+193,F,65-69,Other,Not of Hispanic Origin,75040,"Cataract,Hypertension,Hypercholesterolemia,Diabetes,Drug_therapy,Arthritis,Drug_therapy",Health Maintenance Organization (HMO),0,270,8118,8388
+194,F,75-79,White,Not of Hispanic Origin,75042,"Cataract,Hypertension,Glaucoma,Diabetes,Arthritis,Hypercholesterolemia,Hormone_replacement_therapy,Drug_therapy,Hypoglycemic_drug_use,Diabetes",Preferred Provider Organization (PPO),0,1507.5,16236,17743.5
+195,F,70-74,Asian or Pacific Islander,Not of Hispanic Origin,75040,"Cataract,Hypertension,Hyperlipidemia,Drug_therapy",Health Maintenance Organization (HMO),0,270,8118,8388
+196,F,70-74,Asian or Pacific Islander,Not of Hispanic Origin,75098,"Cataract,Hypertension,Hypercholesterolemia,Diabetes,Drug_therapy,Nicotine_dependence,Arthritis",Health Maintenance Organization (HMO),0,270,8118,8388
+197,F,60-64,White,Not of Hispanic Origin,75401,"Cataract,Hypertension,Hypercholesterolemia,Diabetes,Drug_therapy,Asthma,Arthritis,Narcotic_analgesic_use,Nicotine_dependence,Drug_therapy",Medicaid,0,270,8118,8388
+198,F,70-74,White,Not of Hispanic Origin,75002,"Cataract,Hypertension,Atrial_fibrillation,Hyperlipidemia,Nicotine_dependence",Medicare Part B,0,2212.5,8118,10330.5
+199,M,40-44,Other,Not of Hispanic Origin,75474,"Cataract,Hypertension,Nicotine_dependence",Health Maintenance Organization,0,250,8118,8368
+200,F,50-54,Other,Not of Hispanic Origin,75043,"Cataract,Astigmatism,Hypertension",Preferred Provider Organization (PPO),0,300,8118,8418
+201,F,55-59,White,Hispanic Origin,75061,"Cataract,Astigmatism,Hypertension,Opiate_analgesic_use,Drug_therapy",Health Maintenance Organization,0,300,8118,8418
+202,F,65-69,Asian or Pacific Islander,Not of Hispanic Origin,75038,"Cataract,Astigmatism,Hypertension,Hypercholesterolemia,Nicotine_dependence,Drug_therapy",Medicare Part B,0,300,8118,8418
+203,F,70-74,White,Not of Hispanic Origin,75063,"Cataract,Astigmatism,Hypertension,Hypercholesterolemia,Arthritis,Fibromyalgia,Nicotine_dependence,Hormone_replacement_therapy",Health Maintenance Organization (HMO),0,280,8118,8398
+204,F,70-74,Other,Not of Hispanic Origin,75167,"Cataract,Hypertension,Hypercholesterolemia,Diabetes,Drug_therapy,Arthritis",Medicare Part B,0,250,8443,8693
+205,F,70-74,Other,Not of Hispanic Origin,75006,"Cataract,Asthma,Hypertension,Drug_therapy",Medicare Part B,0,990,8443,9433
+206,M,70-74,Other,Not of Hispanic Origin,75214,"Cataract,Hypertension,Drug_therapy",Medicare Part B,0,250,8443,8693
+207,M,75-79,White,Not of Hispanic Origin,75252,"Cataract,Asthma,Hypertension,Nicotine_dependence",Medicare Part B,0,250,8118,8368
+208,F,60-64,Other,Not of Hispanic Origin,75081,"Colon_disease,Hypertension,Atherosclerosis,Diabetes,Insulin_use,Hyperlipidemia,Kidney_disease,Proteinuria",Health Maintenance Organization (HMO),0,0,10727,10727
+209,F,50-54,Black,Not of Hispanic Origin,75243,"Colon_disease,Hypertension,Hypercholesterolemia,Nicotine_dependence,Kidney_disease",Medicaid,0,0,10727,10727
+210,M,80-84,White,Not of Hispanic Origin,75044,"Nausea,Hernia,Gastroesophageal_reflux,Hypertension,Atrial_fibrillation,Diabetes,Insulin_use,Drug_therapy,Hyperlipidemia",Medicare Part B,0,0,6684,6684
+211,F,45-49,Black,Not of Hispanic Origin,75201,"Change_in_bowel_habit,Hemorrhoids,Hypertension,Hypercholesterolemia,Arthritis,Drug_therapy",Medicaid,0,0,10727,10727
+212,M,60-64,White,Hispanic Origin,75056,"Colon_disease,Neoplasm,Diverticulosis,Hypertension,Atherosclerosis,Hyperlipidemia,Arthritis,Nicotine_dependence,Drug_therapy",Medicaid,0,0,10727,10727
+213,M,60-64,White,Not of Hispanic Origin,75240,"Colon_disease,Polyp,Hypertension,Arthritis",Preferred Provider Organization (PPO),0,0,10727,10727
+214,F,65-69,Other,Not of Hispanic Origin,75229,"Colon_disease,Diverticulosis,Intestinal_obstruction,Hypertension",Health Maintenance Organization (HMO),0,0,10727,10727
+215,M,50-54,Other,Hispanic Origin,75051,"Colon_disease,Hypertension,Atherosclerosis,Hyperlipidemia",Medicaid,0,0,10727,10727
+216,M,55-59,Black,Not of Hispanic Origin,75115,"Colon_disease,Hypertension,Asthma,Arthritis,Drug_therapy",Medicaid,0,0,10727,10727
+217,M,40-44,White,Not of Hispanic Origin,75231,"Anemia,Hypertension,Hypercholesterolemia,Diabetes,Drug_therapy,Arthritis",Health Maintenance Organization (HMO),0,0,10727,10727
+218,F,60-64,Black,Not of Hispanic Origin,75238,"Colon_disease,Neoplasm,Polyp,Diverticulosis,Hypertension,COPD,Nicotine_dependence",Medicaid,0,0,10727,10727
+219,F,50-54,White,Hispanic Origin,77346,"Rotator_strain,Impingement,Synovitis_tenosynovitis,Diabetes,Hypertension",Preferred Provider Organization (PPO),2004,25133,0,47121
+220,F,65-69,White,Not of Hispanic Origin,77303,"Arthritis,Hypertension,Gastroesophageal_reflux,Drug_therapy",Point of Service (POS),1438.75,40643,0,76891.75
+221,M,50-54,White,Not of Hispanic Origin,77373,"Trigger_finger,Hypertension,Hyperlipidemia",Preferred Provider Organization (PPO),816.75,36,0,13412.75
+222,M,70-74,White,Not of Hispanic Origin,88888,"Arthritis,Hypertension,Hyperlipidemia",Medicare Part A,1467.25,41025,0,74307.25
+223,F,70-74,White,Not of Hispanic Origin,77306,"Arthritis,Hypertension,Diabetes,Hyperlipidemia,COPD,Sleep_apnea,Restless_legs_syndrome,Gastroesophageal_reflux,Nicotine_dependence,Drug_therapy",Medicare Part A,1600.5,38317,0,70700.5
+224,M,75-79,White,Not of Hispanic Origin,77304,"Arthritis,Atrial_fibrillation,Hypercholesterolemia,Sleep_apnea,Hypertension,Hyperplasia,Nicotine_dependence,Drug_therapy",Health Maintenance Organization (HMO),1484,36337,0,69790
+225,F,70-74,White,Not of Hispanic Origin,77316,"Trigger_finger,Hypertension,Atherosclerosis,Hyperlipidemia,Gastroesophageal_reflux,Esophagitis,Thyroid_disorder,Drug_therapy,Hormone_replacement_therapy,Drug_therapy",Medicare Part A,137.5,36,0,10426.5
+226,F,70-74,White,Not of Hispanic Origin,77340,"Arthritis,Hypertension,Sleep_apnea,Drug_therapy",Medicare Part A,1372,40921,0,73520
+227,F,60-64,Black,Not of Hispanic Origin,77304,"Tendon_strain,Elbow_contracture,Gastroesophageal_reflux,Asthma,Atherosclerosis,Hypercholesterolemia,Sleep_apnea,Hypertension,Steroid_use,Drug_therapy",Preferred Provider Organization (PPO),739.75,6914,0,24591.75
+228,M,80-84,White,Not of Hispanic Origin,77380,"Atrial_fibrillation,Mitral_valve_insufficiency,Atherosclerosis,Hypertension,Hyperlipidemia",Medicare Part A,190.25,0,0,12814.25
+229,M,50-54,Other,Hispanic Origin,77356,"Arthritis,Joint_disorders,Diabetes,Hypertension,Neuropathy,Insulin_use,Drug_therapy,Arthrodesis",Point of Service (POS),2080.25,45187,0,82295.25
+230,M,75-79,White,Not of Hispanic Origin,77356,"Tear,Chondromalacia,Arthritis,Hypertension,Mitral_valve_prolapse,Gastroesophageal_reflux,Irritable_bowel_syndrome,Venous_insufficiency,Hypercholesterolemia,Sleep_apnea",Medicare Part A,753.5,36,0,16474.5
+231,F,70-74,White,Not of Hispanic Origin,77340,"Arthritis,Effusion,Synovitis_tenosynovitis,Fracture,Hypertension,Hypercholesterolemia,Drug_therapy,Coagulation",Health Maintenance Organization (HMO),2053.5,37147,0,76348.5
+232,M,70-74,White,Not of Hispanic Origin,77340,"Tear,Impingement,Tendinitis,Shoulder_derangements,Hypertension,Hyperlipidemia,Drug_therapy",Medicare Part A,1092.25,18653,0,46160.25
+233,F,65-69,White,Not of Hispanic Origin,77356,"Arthritis,Hypertension,Hypercholesterolemia,Sleep_apnea,Diabetes",Medicare Part A,1482.5,37693,0,71511.5
+234,F,75-79,White,Not of Hispanic Origin,77340,"Arthritis,Tear",Medicare Part A,1513,32724,0,65624
+235,F,65-69,White,Not of Hispanic Origin,77301,"Arthritis,Hypertension,Thyroid_disorder,COVID-19,Gastroesophageal_reflux,Insomnia,Drug_therapy",Medicare Part A,1680.25,38528,0,73410.25
+236,M,70-74,White,Not of Hispanic Origin,77318,"Tear,Impingement,Hypertension,Hypercholesterolemia",Medicare Part A,1166.75,8184,0,28486.75
+237,M,65-69,White,Not of Hispanic Origin,77064,"Arthritis,Edema,Atrial_fibrillation,Hypertension,Anemia,Kidney_failure,Sleep_apnea,Arthritis,Gout,Obesity,Nicotine_dependence",Health Maintenance Organization (HMO),1962.5,28333,0,57716.5
+238,M,75-79,White,Not of Hispanic Origin,77429,"Arthritis,Hypertension,Nicotine_dependence,Drug_therapy,Hyperplasia,Asthma,Drug_therapy",Health Maintenance Organization (HMO),1770.25,27606,0,55515.25
+239,M,50-54,White,Hispanic Origin,77327,"Tear,Chondromalacia,Diabetes,Hypertension,COVID-19,Drug_therapy",Preferred Provider Organization (PPO),946,36,0,16847
+240,F,65-69,White,Not of Hispanic Origin,77301,"Atherosclerosis,Hypertension,Hyperlipidemia,Diabetes,Sleep_apnea,Nicotine_dependence,Drug_therapy",Health Maintenance Organization (HMO),107.5,2022,0,30755.5
+241,F,60-64,White,Not of Hispanic Origin,77355,"Stenosis,Hyperlipidemia,Hypertension,Obesity,Drug_therapy",Medicare Part A,1863,18744,0,55146
+242,M,50-54,Black,Not of Hispanic Origin,77379,"Impingement,Chondromalacia,Synovitis_tenosynovitis,Shoulder_loose_body,Hypertension,Diabetes,Hypercholesterolemia,Sleep_apnea,Nicotine_dependence",CHAMPUS,971.5,36,0,21341.5
+243,M,55-59,White,Not of Hispanic Origin,75862,"Tear,Chondromalacia,Arthritis,Hypertension,Hyperlipidemia,Gastroesophageal_reflux,Pulmonary_disease,Body_pain,Dorsalgia,Nicotine_dependence,Drug_therapy",Health Maintenance Organization (HMO),845.5,36,0,13985.5
+244,M,65-69,Other,Hispanic Origin,77086,"Arthritis,Hypertension,Diabetes,Hypercholesterolemia,Gastroesophageal_reflux,Drug_therapy",Health Maintenance Organization (HMO),1944.25,32439,0,60496.25
+245,F,70-74,White,Not of Hispanic Origin,77382,"Stenosis,Spondylolisthesis,Radiculopathy,Hypokalemia,Anemia,Body_pain,Sciatica,Hypertension,Gastroesophageal_reflux,Hyperlipidemia",Medicare Part A,1360.25,85274,0,122255.51
+246,F,70-74,White,Not of Hispanic Origin,77663,"Stenosis,Claudication,Diabetes,Obesity,Arthritis,Hypertension,Obesity,Drug_therapy",Medicare Part A,1814,12350,0,49000.39
+247,M,70-74,White,Not of Hispanic Origin,77316,"Stenosis,Claudication,Postlaminectomy_syndrome,Body_pain,Sciatica,Arthritis,Pulmonary_disease,Atherosclerotic,Esophagitis,Gastroesophageal_reflux,Hypercholesterolemia,Hypertension",Medicare Part A,1719,198179,0,237366
+248,F,85-89,White,Not of Hispanic Origin,77379,"Atrial_fibrillation,Hypertension,Hypercholesterolemia,Diabetes,Bypass_graft",Health Maintenance Organization (HMO),183.75,0,0,13393.75
+249,F,75-79,White,Not of Hispanic Origin,77386,"Carpal_tunnel_syndrome,Arthritis,Hypertension,Hyperlipidemia,Drug_therapy",Medicare Part A,574,72,0,12878
+250,F,75-79,White,Not of Hispanic Origin,77377,"Arthritis,Hypertension,Obesity,Drug_therapy,COVID-19",Health Maintenance Organization (HMO),1769.75,26314,0,54735.75
+251,F,65-69,Asian or Pacific Islander,Not of Hispanic Origin,77064,"Arthritis,Hypertension,Drug_therapy",Health Maintenance Organization (HMO),2174.75,29665,0,54942.75
+252,F,75-79,White,Not of Hispanic Origin,77316,"Arthritis,Diabetes,Pulmonary_disease,Hypertension,Hypercholesterolemia,Atherosclerosis,Gastroesophageal_reflux,Nicotine_dependence,Drug_therapy",Medicare Part A,1861.75,63350,0,98681.31
+253,M,70-74,White,Not of Hispanic Origin,77356,"Body_pain,Atrial_fibrillation,Sleep_apnea,Hypertension,Pacemaker_use,Drug_therapy",Health Maintenance Organization (HMO),172.75,0,0,5445.75
+254,F,75-79,White,Not of Hispanic Origin,77302,"Arthritis,Hypertension,Atherosclerosis,Diabetes,Sleep_apnea,Gastroesophageal_reflux,Muscle_spasm,Osteoporosis,Thyroid_disorder,Hormone_replacement_therapy",Medicare Part A,1570.5,34339,0,61191.5
+255,F,65-69,White,Not of Hispanic Origin,77378,"Arthritis,Gastroesophageal_reflux,Epilepsy,Hypertension,Drug_therapy",Health Maintenance Organization (HMO),1793.5,37693,0,73088.5
+256,M,70-74,White,Not of Hispanic Origin,77340,"Arthritis,Hypertension,Hypercholesterolemia,Drug_therapy",Medicare Part A,1311.5,38541,0,71384.5
+257,M,70-74,White,Not of Hispanic Origin,77302,"Neuropathy,Carpal_tunnel_syndrome,Arthritis,Nicotine_dependence,Hypertension,Insomnia,Artificial_hip_joint,Drug_therapy",Health Maintenance Organization (HMO),648,72,0,19533
+258,M,65-69,White,Not of Hispanic Origin,77354,"Carpal_tunnel_syndrome,Upper_limb_malformation,Prosthetic_device_pain,Hypertension,Sleep_apnea,Arthritis,Nicotine_dependence,Glucose_level_abnormal",Medicare Part A,1166.5,2184,0,23911.5
+259,F,60-64,White,Not of Hispanic Origin,77304,"Arthritis,Chondromalacia,Arthritis,Hypertension,Gastroesophageal_reflux,Thyroid_disorder,Mood_disturbance,Body_pain,Dorsalgia,Drug_therapy",Preferred Provider Organization (PPO),1746,43560,0,75790
+260,F,80-84,White,Not of Hispanic Origin,77373,"Atherosclerosis,Stenosis,Hypertension,Atherosclerosis,Occlusion,Diabetes,Myocardial_infarction,Edema,Atrial_fibrillation,Hypertension,Hyperlipidemia",Medicare Part A,107.5,5083,0,37837.5
+261,M,75-79,White,Not of Hispanic Origin,77389,"Atrial_fibrillation,Atherosclerosis,Hypertension,Gastroesophageal_reflux,Hypertension",Medicare Part A,129.25,0,0,9356.25
+262,F,60-64,White,Hispanic Origin,77373,"Carpal_tunnel_syndrome,Upper_limb_malformation,Atherosclerosis,Atrial_fibrillation,Hypertension,Diabetes,Hyperlipidemia,Sleep_apnea,Gastroesophageal_reflux,Stroke,Infarction,COVID-19,Insulin_use",Blue Cross/Blue Shield,565,36,0,12992
+263,M,60-64,White,Not of Hispanic Origin,77389,"Arthritis,Hypertension,Testicular_hypofunction,Drug_therapy",Point of Service (POS),1657,43345,0,73522
+264,M,50-54,White,Not of Hispanic Origin,77382,"Hypertension,Obesity,Hyperlipidemia,Atherosclerosis","Charity, Indigent or Unknown",0,0,0,793
+265,F,65-69,White,Not of Hispanic Origin,77365,"Arthritis,Hypertension,Liver_disease,Obesity,Nicotine_dependence,Drug_therapy",Health Maintenance Organization (HMO),2109.75,32142,0,63065.75
+266,F,80-84,White,Not of Hispanic Origin,77318,"Atrial_fibrillation,COVID-19,Diabetes,Hypertension,Arthritis,Mitral_valve_prolapse,Edema,Drug_therapy",Health Maintenance Organization (HMO),221.25,0,0,10400.25
+267,M,75-79,White,Not of Hispanic Origin,77354,"Syncope,Hypertension,COPD,Nicotine_dependence",Point of Service (POS),50.75,27463,0,50902.75
+268,F,60-64,White,Not of Hispanic Origin,77328,"Stenosis,Claudication,Arthrodesis,Hypertension,Hyperlipidemia,Nicotine_dependence",Medicare Part A,172.75,0,0,6754.75
+269,M,60-64,White,Not of Hispanic Origin,77318,"Arthritis,Hypercholesterolemia,Thyroid_disorder,Obesity,Hyperplasia,Hypertension,Sleep_apnea,Obesity,Drug_therapy",Blue Cross/Blue Shield,2352.5,44001,0,77877.5
+270,F,40-44,White,Hispanic Origin,77070,"Body_pain,Atherosclerosis,Diabetes,Gastroesophageal_reflux,Hyperlipidemia,Hypertension,Obesity,Heart_disease,Nicotine_dependence,Drug_therapy",Point of Service (POS),108,2113,0,31243
+271,M,50-54,White,Hispanic Origin,77447,"Stenosis,Claudication,Hypertension,Diabetes,Hypercholesterolemia,Atrial_fibrillation,Asthma,COVID-19,Drug_therapy",Point of Service (POS),1556,148069,0,191335
+272,F,50-54,White,Not of Hispanic Origin,77381,"Arthritis,Hypertension,Pulmonary_disease,Bipolar_disorder,Gastroesophageal_reflux,Obesity,Sleep_apnea,Obesity,Drug_therapy,Postprocedural_examination",Medicaid,907.5,34546,0,59150.5
+273,M,50-54,White,Hispanic Origin,77316,"Tear,Tendinitis,Bursitis,Hypertension,VitaminD_deficiency,Postprocedural_examination,COVID-19,Neoplasm,Drug_therapy",Blue Cross/Blue Shield,1509,40293,0,73569
+274,F,65-69,Black,Not of Hispanic Origin,77396,"Arthritis,Hypertension,Diabetes,Angiopathy,Hypercholesterolemia,Gastroesophageal_reflux,Obesity,Drug_therapy",Health Maintenance Organization (HMO),1405.5,37797,0,68750.5
+275,F,80-84,White,Not of Hispanic Origin,77384,"Body_pain,Hypertension,Mitral_valve_insufficiency,Stenosis,Radiculopathy,Nicotine_dependence,Steroid_use,Drug_therapy,Heart_disease,Circulatory_system_disease",Medicare Part A,107.75,822,0,29481.75
+276,M,55-59,White,Not of Hispanic Origin,77327,"Stenosis,Hypertension,Atherosclerosis,Vascular_disease,Hypercholesterolemia,Sleep_apnea,Body_pain,Gastroesophageal_reflux,Esophagitis,Nicotine_dependence,Drug_therapy",Health Maintenance Organization,1865.5,18039,0,49985.5
+277,M,70-74,White,Not of Hispanic Origin,77304,"Carpal_tunnel_syndrome,Hypertension",Point of Service (POS),709.25,358,0,14113.25
+278,M,50-54,White,Not of Hispanic Origin,77389,"Tear,Hypertension,Drug_therapy",Point of Service (POS),957,36,0,15285
+279,F,70-74,White,Not of Hispanic Origin,77302,"Stenosis,Claudication,Spondylolisthesis,Gastroesophageal_reflux,Hypercholesterolemia,Hypertension,Drug_therapy,Arthrodesis",Health Maintenance Organization (HMO),1659.75,149631,0,195948.75
+280,F,65-69,White,Not of Hispanic Origin,77381,"Syncope,Hypertension,Tachycardia",Medicare Part A,0,0,0,793
+281,F,50-54,White,Not of Hispanic Origin,77365,"Colitis,Hypertension,COVID-19",Point of Service (POS),1178.75,0,0,8536.75
+282,M,35-39,White,Not of Hispanic Origin,77306,"Hypertension,Body_pain,Bradycardia,COVID-19",Preferred Provider Organization (PPO),57.5,0,0,9264.5
+283,F,50-54,Black,Not of Hispanic Origin,77373,"Muscle_strain,Shoulder_strain,Hypertension,Body_pain,Obesity",Indemnity Insurance,2.25,0,0,2547.25
+284,F,60-64,White,Not of Hispanic Origin,77357,"Radiculopathy,Hypertension,Allergy",Preferred Provider Organization (PPO),104.5,0,0,3763.5
+285,M,70-74,White,Not of Hispanic Origin,77302,"Priapism,Hypertension,Sleep_apnea,Urinary_calculi,Drug_therapy",Medicare Part A,149.5,0,0,3289.5
+286,M,60-64,White,Not of Hispanic Origin,77365,"COVID-19,Tachycardia,Hyperlipidemia,Hypertension,Drug_therapy",Medicaid,12.25,0,0,7997.25
+287,M,50-54,Black,Not of Hispanic Origin,77009,"Hypertension,Hypercholesterolemia,Allergy",Commercial Insurance,0,0,0,4818
+288,M,65-69,Other,Not of Hispanic Origin,77060,"Urinary_retention,Diabetes,Hypertension,Hyperlipidemia,Nicotine_dependence,Drug_therapy","Charity, Indigent or Unknown",0,0,0,2545
+289,F,50-54,Black,Not of Hispanic Origin,77301,"Bronchitis,Respiratory_infection,Gastroesophageal_reflux,Hypertension,Allergy",Commercial Insurance,0,0,0,3575
+290,F,50-54,White,Hispanic Origin,77073,"Hypokalemia,Palpitations,Hypertension,Thyroid_disorder,Diabetes,Hyperlipidemia,Drug_therapy",Point of Service (POS),912.5,0,0,8618.5
+291,M,55-59,White,Not of Hispanic Origin,77382,"Tear,Hypertension,Gout,Hyperlipidemia,Drug_therapy",Preferred Provider Organization (PPO),566,36,0,15616
+292,M,70-74,White,Not of Hispanic Origin,77356,"Stenosis,Claudication,Spondylolisthesis,Hypertension,Atherosclerosis,Hypercholesterolemia,VitaminD_deficiency,Gastroesophageal_reflux,Atherosclerosis,Drug_therapy",Medicare Part A,1577.75,85837,0,120378.75
+293,M,65-69,White,Not of Hispanic Origin,77382,"Fracture,Hypertension,Thyroid_disorder,Cirrhosis",Health Maintenance Organization (HMO),113.25,0,0,12669.24
+294,M,60-64,White,Not of Hispanic Origin,77445,"Arthritis,Hypertension,Sleep_apnea,Drug_therapy",Preferred Provider Organization (PPO),1510.25,33199,0,62313.25
+295,M,70-74,White,Not of Hispanic Origin,77304,"Arthritis,Diabetes,Hypertension,Hyperlipidemia,Sleep_apnea,Urinary_calculi,Nicotine_dependence,Drug_therapy",Medicare Part A,0,0,0,7966
+296,M,80-84,White,Not of Hispanic Origin,77318,"Pulmonary_disease,Atrial_fibrillation,Hypercholesterolemia,Hypertension,Nicotine_dependence,COVID-19,Drug_therapy",Medicare Part A,78,0,0,10892
+297,F,85-89,White,Not of Hispanic Origin,77378,"Abscess,Hypertension,Atrial_fibrillation,COPD,Atherosclerotic,Hyperlipidemia,Hypertension,Thyroid_disorder,Allergy,Drug_therapy",Health Maintenance Organization (HMO),51.25,0,0,1638.25
+298,F,55-59,White,Not of Hispanic Origin,77373,"Tear,Chondromalacia",Preferred Provider Organization (PPO),742,36,0,16401
+299,F,50-54,White,Not of Hispanic Origin,77386,"Stenosis,Claudication,Spondylolisthesis,Arthritis,Hypertension,Gastroesophageal_reflux,Hyperlipidemia,Drug_therapy",Point of Service (POS),1765.25,86564,0,122350.25
+300,F,80-84,White,Not of Hispanic Origin,77384,"Colitis,Dehydration,Hypertension,Gastroesophageal_reflux,Allergy,Drug_therapy",Medicare Part A,795.25,0,0,20139.25
+301,M,70-74,White,Not of Hispanic Origin,77316,"Stenosis,Claudication,Body_pain,Hypertension,Hyperlipidemia,Arthritis,Diabetes,Neoplasm,Thyroid_disorder,Drug_therapy",Medicare Part A,1991.75,159101,0,205627.75
+302,M,55-59,White,Not of Hispanic Origin,77377,"Stenosis,Hypertension,Hyperlipidemia,Diabetes,Sleep_apnea,Nicotine_dependence,Drug_therapy",Health Maintenance Organization (HMO),1465,26517,0,62400
+303,F,70-74,White,Not of Hispanic Origin,77355,"Stenosis,Gastroesophageal_reflux,Hyperlipidemia,Hypertension,Sleep_apnea,Drug_therapy",Health Maintenance Organization (HMO),1379,41207,0,77400
+304,M,70-74,White,Not of Hispanic Origin,77304,"Atrial_fibrillation,Hypercholesterolemia,Sleep_apnea,Atherosclerotic,Hypertension,Bipolar_disorder,Hormone_replacement_therapy,Drug_therapy",Medicare Part A,129.25,0,0,10093.25
+305,F,35-39,Black,Not of Hispanic Origin,77073,"Pleurodynia,Palpitations,Asthma,Hyperlipidemia,Hypertension,Drug_therapy,COVID-19",Preferred Provider Organization (PPO),0.75,0,0,9657.75
+306,M,60-64,White,Not of Hispanic Origin,77384,"Body_pain,Dizziness,Hypertension,Asthma,Drug_therapy",Preferred Provider Organization (PPO),0,0,0,8253
+307,F,75-79,White,Not of Hispanic Origin,77387,"Infarction,Hemorrhage,Hypertension,Thyroid_disorder,Weakness,Allergy,Drug_therapy",Medicare Part A,100,0,0,22699
+308,M,70-74,White,Hispanic Origin,77380,"Body_pain,Hypertension,Diabetes,Hyperlipidemia,Atrial_fibrillation,Hyperplasia,Drug_therapy",Health Maintenance Organization (HMO),58.75,0,0,4302.75
+309,F,55-59,Black,Not of Hispanic Origin,77014,"Body_pain,Atrial_fibrillation,Hypertension,Diabetes,Asthma,Allergy",Preferred Provider Organization (PPO),100,0,0,19097
+310,M,35-39,White,Not of Hispanic Origin,77354,"Stenosis,Claudication,Hypertension,Hyperlipidemia,Sleep_apnea,Hormone_replacement_therapy,Drug_therapy,Arthrodesis",Point of Service (POS),2721,108507,0,149645
+311,M,35-39,White,Not of Hispanic Origin,76904,"Hypertension,Dizziness,Diabetes,Nicotine_dependence,Drug_therapy",Medicare Part A,0,0,0,6269
+312,F,40-44,White,Hispanic Origin,77302,"Body_pain,Hypertension,Blood_chemistry_abnormal,Obesity,COVID-19,Allergy,Obesity",Preferred Provider Organization (PPO),0,0,0,9655
+313,F,80-84,White,Not of Hispanic Origin,77389,"Atrial_fibrillation,Tachycardia,Hypertension,Varicose_veins,Hyperlipidemia,Thyroid_disorder,Drug_therapy,Hormone_replacement_therapy,Drug_therapy",Health Maintenance Organization (HMO),129.25,0,0,10081.25
+314,F,60-64,White,Not of Hispanic Origin,77088,"Atherosclerosis,Angina,Occlusion,Atherosclerosis,Hypertension,Sleep_apnea,VitaminD_deficiency,Hyperlipidemia,Thyroid_disorder,Anemia,Hormone_replacement_therapy,Drug_therapy",Preferred Provider Organization (PPO),1306.25,14362,0,68696.25
+315,M,70-74,White,Not of Hispanic Origin,77382,"Atrial_fibrillation,Atherosclerosis,Hypertension,Gastroesophageal_reflux,Hyperlipidemia,Sleep_apnea,Drug_therapy,Heart_disease,Circulatory_system_disease",Health Maintenance Organization (HMO),0,35372,0,60775
+316,M,70-74,White,Not of Hispanic Origin,77382,"Cardiac_device_adjustment,Premature_depulsion,Atrial_fibrillation,Hypertension",Medicare Part A,70.25,0,0,6099.25
+317,M,80-84,Black,Not of Hispanic Origin,77386,"Atrial_fibrillation,Hypertension,Hyperlipidemia,Infarction",Health Maintenance Organization (HMO),129.25,0,0,11075.25
+318,M,40-44,White,Not of Hispanic Origin,77303,"Nausea,Dehydration,Diabetes,Hypertension,Hyperlipidemia,Nicotine_dependence,Allergy,Drug_therapy",Medicaid,958.5,0,0,6100.5
+319,M,70-74,White,Not of Hispanic Origin,77377,"Sick_sinus_syndrome,Atherosclerotic,Atrial_fibrillation,Hypertension,Body_pain,Dorsalgia,Myocardial_infarction,Hypercholesterolemia,Obesity,Atherosclerosis",Medicare Part A,171.25,28566,0,60505.25
+320,M,60-64,White,Not of Hispanic Origin,77302,"Headache,Hypertension,Nicotine_dependence,COVID-19",Point of Service (POS),278.75,0,0,12702.75
+321,F,85-89,White,Not of Hispanic Origin,77380,"Fracture,Diabetes,Hypertension,Thyroid_disorder,Nicotine_dependence,Arthritis,Drug_therapy",Medicare Part A,0.5,0,0,8627.5
+322,M,70-74,White,Not of Hispanic Origin,77379,"Cystitis,Thyroid_disorder,Hypertension,Atherosclerosis,Diabetes,Hyperlipidemia,Nicotine_dependence,Drug_therapy,Insulin_use,COVID-19",Health Maintenance Organization (HMO),1094.75,0,0,25907.75
+323,F,60-64,Black,Not of Hispanic Origin,77386,"Hemorrhoids,Anal_fissure,Diabetes,Gastroesophageal_reflux,Hypertension,Allergy,Hypoglycemic_drug_use",Point of Service (POS),0,0,0,2545
+324,M,70-74,White,Not of Hispanic Origin,77373,Tear,Health Maintenance Organization (HMO),1360.75,36,0,16850.75
+325,F,45-49,White,Not of Hispanic Origin,77373,"COVID-19,Hypertension,Nicotine_dependence",Preferred Provider Organization (PPO),1223.25,0,0,13753.25
+326,F,50-54,Black,Not of Hispanic Origin,77375,"Carpal_tunnel_syndrome,Hyperlipidemia,Hypertension,Diabetes,Cataract,Sleep_apnea,Gastroesophageal_reflux,Arthritis,Drug_therapy",Medicaid,791.75,1048,0,16681.87
+327,F,65-69,White,Not of Hispanic Origin,77378,"Body_pain,Hypertension,Dizziness,Hematuria,Hyperlipidemia,COVID-19,Drug_therapy",Point of Service (POS),0,0,0,9447
+328,F,70-74,White,Not of Hispanic Origin,77375,"Body_pain,Hypertension,Hyperlipidemia,Allergy,Drug_therapy",Health Maintenance Organization (HMO),0,0,0,4497
+329,M,60-64,White,Not of Hispanic Origin,88888,"Influenza,Hypertension,Hyperlipidemia,Allergy,Drug_therapy,COVID-19",Health Maintenance Organization (HMO),100,0,0,14036
+330,M,70-74,White,Not of Hispanic Origin,77302,"Priapism,Hypertension,Sleep_apnea",Medicare Part A,49.75,0,0,3758.75
+331,F,55-59,White,Not of Hispanic Origin,77380,"Sprain,Hypertension,Allergy",Blue Cross/Blue Shield,100,0,0,33578
+332,F,40-44,Other,Not of Hispanic Origin,77346,"Muscle_strain,Hypertension,Nicotine_dependence","Charity, Indigent or Unknown",0.5,0,0,6916.5
+333,F,80-84,White,Not of Hispanic Origin,77304,"Influenza,Hematuria,Cystitis,Atrial_fibrillation,COPD,Diabetes,Hypertension,Thyroid_disorder,COVID-19,Allergy,Drug_therapy",Health Maintenance Organization (HMO),0.25,0,0,4795.25
+334,M,80-84,White,Not of Hispanic Origin,77304,"Influenza,Diabetes,Hypertension,Hyperlipidemia,COVID-19,Allergy",Health Maintenance Organization (HMO),0.75,0,0,4235.75
+335,M,65-69,White,Hispanic Origin,77073,"Kidney_failure,Urinary_tract_infection,Hyperplasia,Urinary_retention,Kidney_disease,Diabetes,Hypertension,Hyperlipidemia,Nicotine_dependence,COVID-19",Health Maintenance Organization (HMO),930.5,0,0,21309.5
+336,F,80-84,White,Hispanic Origin,77356,"Cystitis,Pancreatitis,Blood_chemistry_abnormal,Diabetes,Hypertension,Allergy,COVID-19",Health Maintenance Organization (HMO),249.75,0,0,28297.75
+337,F,45-49,White,Not of Hispanic Origin,77090,"Thyroid_disorder,Hypertension,Edema","Charity, Indigent or Unknown",0,0,0,3465
+338,F,55-59,White,Not of Hispanic Origin,78412,"Pharyngitis,Diabetes,Hypertension,Hyperlipidemia,Infection,Drug_therapy",Commercial Insurance,0,0,0,2545
+339,M,85-89,White,Not of Hispanic Origin,77373,"Gingival_disorders,Syncope,Dizziness,Edentulous_ridge,Atrial_fibrillation,Atherosclerotic,Diabetes,Hypertension,Hyperlipidemia,Drug_therapy,Allergy,Drug_therapy",Medicare Part A,922,0,0,5454
+340,F,50-54,White,Hispanic Origin,77303,"Hypertension,Allergy,Drug_therapy",Preferred Provider Organization (PPO),55.75,0,0,11582.75
+341,M,70-74,White,Not of Hispanic Origin,77379,"Atrial_fibrillation,Atrial_flutter,Hyperlipidemia,Sleep_apnea,Hypertension,Nicotine_dependence,Drug_therapy",Health Maintenance Organization (HMO),129.25,0,0,10268.25
+342,M,50-54,White,Not of Hispanic Origin,77335,Tear,Blue Cross/Blue Shield,700.25,36,0,13566.25
+343,F,70-74,Other,Hispanic Origin,77039,"COVID-19,Body_pain,Hypertension,Allergy,Drug_therapy",Health Maintenance Organization (HMO),100,0,0,15667
+344,M,60-64,White,Not of Hispanic Origin,77373,"Hydronephrosis,Renal_obstruction,Calculous_obstruction,Nausea,Dehydration,Hypertension,Nicotine_dependence,COVID-19,Drug_therapy",Point of Service (POS),1735.25,0,0,24103.25
+345,F,65-69,White,Hispanic Origin,77038,"Hypertension,Body_pain,Pulmonary_disease,Gastroesophageal_reflux,Allergy,Drug_therapy,Nicotine_dependence",Medicare Part A,223,0,0,16624
+346,F,70-74,White,Not of Hispanic Origin,77302,"Contusion,Hand_abrasion,Body_pain,Diabetes,Hypertension,Hyperlipidemia,Syncope,Allergy,Nicotine_dependence,Drug_therapy",Medicare Part A,233.25,0,0,24997.25
+347,M,85-89,White,Not of Hispanic Origin,77302,"Fracture,Atrial_fibrillation,Diabetes,Thyroid_disorder,Atherosclerotic,Hypertension,COPD,Embolism,Nicotine_dependence",Medicare Part A,139,0,0,5950.38
+348,M,75-79,White,Not of Hispanic Origin,77320,"Stenosis,Hypertension,Body_pain,Arthritis,Body_pain,Nicotine_dependence,Drug_therapy,Coagulation",Health Maintenance Organization (HMO),1712,2347,0,44953.5
+349,M,55-59,White,Not of Hispanic Origin,75839,"Tear,Bursitis,Hypertension,Hyperlipidemia,Sleep_apnea,Arthritis,Body_pain,Migraine,Drug_therapy",Medicare Part A,1075,4348,0,24381
+350,M,55-59,White,Not of Hispanic Origin,77830,"Rotator_strain,Hypertension,COPD,Diabetes,Sleep_apnea,Body_pain,Nicotine_dependence,Postprocedural_examination,Embolism",Medicaid,1535.25,33869,0,64173.25
+351,M,60-64,White,Not of Hispanic Origin,77301,"Carpal_tunnel_syndrome,Bursitis,Impingement,Atherosclerosis,Hypertension,Hyperlipidemia,Diabetes,Gout,Drug_therapy",Medicaid,716.25,36,0,12915.25
+352,F,65-69,White,Not of Hispanic Origin,77377,"Contusion,Hypertension,Gastroesophageal_reflux,Arthritis,Diabetes,Drug_therapy",Health Maintenance Organization (HMO),2050.75,30392,0,65248.75
+353,M,55-59,White,Hispanic Origin,77382,"Heart_disease,Hypertension,Hyperlipidemia","Charity, Indigent or Unknown",0,0,0,793
+354,M,55-59,White,Not of Hispanic Origin,77318,"Atrial_flutter,Atrial_fibrillation,Pulmonary_disease,Arthritis,Sleep_apnea,Hypertension,Weakness,Drug_therapy",Health Maintenance Organization (HMO),121.75,0,0,17815.75
+355,F,70-74,White,Not of Hispanic Origin,77304,"Arthritis,Hypertension,Hyperlipidemia,Osteoporosis,Drug_therapy",Medicare Part A,1132.25,11843,0,42009.25
+356,F,55-59,White,Not of Hispanic Origin,77385,"Arthritis,Body_pain,Cellulitis,Neuropathy,Hypertension,Gastroesophageal_reflux,Pulmonary_disease,Osteoporosis,Drug_therapy,Finger_joint_replacement,Ankle_absence",Point of Service (POS),1937.5,47467,0,83279.5
+357,F,75-79,White,Not of Hispanic Origin,77356,"Tear,Chondromalacia,Fracture,Arthritis,Synovitis_tenosynovitis,Thyroid_disorder,Allergy,Hypertension,Hypercholesterolemia,Varicose_veins,Edema",Medicare Part A,843.75,19908,0,38035.75
+358,F,65-69,White,Not of Hispanic Origin,77331,"Tear,Chondromalacia,Hypertension,Hyperlipidemia,Diabetes,Cardiac_murmur,Drug_therapy",Medicare Part A,684.25,36,0,13679.25
+359,F,65-69,White,Not of Hispanic Origin,77304,"Arthritis,Hypertension",Medicare Part A,245.5,0,0,2202.5
+360,M,70-74,White,Not of Hispanic Origin,77378,"Arthritis,Hypertension,Hyperlipidemia,Sleep_apnea,Nicotine_dependence,Postprocedural_examination,Drug_therapy",Indemnity Insurance,2202.25,37647,0,76196.63
+361,M,45-49,White,Not of Hispanic Origin,77385,"Arthritis,Fracture,Gastroesophageal_reflux,Hypertension,Insomnia,Nicotine_dependence,Drug_therapy",Medicare Part A,785.5,49820,0,79580.5
+362,F,75-79,White,Not of Hispanic Origin,77065,"Arthritis,Hypertension,Diabetes,Hypercholesterolemia,Thyroid_disorder,Hyperlipidemia,Obesity,Nicotine_dependence,Drug_therapy,Insulin_use",Health Maintenance Organization (HMO),1956.75,27606,0,53125.75
+363,M,55-59,White,Not of Hispanic Origin,77386,"Body_pain,Asthma,Hyperlipidemia,Hypertension",Point of Service (POS),0,0,0,793
+364,M,65-69,White,Not of Hispanic Origin,77320,"Atrial_flutter,Atrial_fibrillation,Hypertension,Hyperlipidemia,Gastroesophageal_reflux,COVID-19,Nicotine_dependence,Drug_therapy",Health Maintenance Organization (HMO),129.25,0,0,17862.25
+365,F,60-64,White,Not of Hispanic Origin,77331,"Diverticulosis,Kidney_disease,Dehydration,Fracture,Sequela,Fracture,Sequela,Fracture,Sequela,Fracture,Sequela,Pulmonary_disease,Diabetes,Hyperlipidemia,Hypertension",Commercial Insurance,663.25,0,0,22932.25
+366,M,75-79,Black,Not of Hispanic Origin,77069,"Arthritis,Hypertension,Thyroid_disorder,Hyperplasia,Hormone_replacement_therapy,Drug_therapy",Health Maintenance Organization (HMO),1989.25,27606,0,56702.25
+367,F,65-69,White,Not of Hispanic Origin,77306,"Tear,Arthritis,Chondromalacia,Synovitis_tenosynovitis,Gastroesophageal_reflux,Hypertension,Drug_therapy",Medicare Part A,725.5,36,0,14671.5
+368,M,55-59,White,Not of Hispanic Origin,77375,"Stenosis,Claudication,Postlaminectomy_syndrome,Radiculopathy,Hypertension,Hyperlipidemia,Gastroesophageal_reflux,Diabetes,Arthritis,VitaminD_deficiency",Preferred Provider Organization (PPO),2156,82954,0,122721
+369,F,50-54,Other,Not of Hispanic Origin,77028,"Arthritis,Pulmonary_disease,Hypertension,Sleep_apnea,Atrial_fibrillation,Artificial_hip_joint,Drug_therapy,Abnormal_imaging_findings",Medicaid,1935.75,31568,0,64703.75
+370,M,35-39,White,Hispanic Origin,77365,"Body_pain,Hypertension",Preferred Provider Organization (PPO),0,0,0,9065
+371,F,75-79,White,Not of Hispanic Origin,77356,"Tendinitis,Hypertension",Health Maintenance Organization (HMO),219.75,0,0,5005.75
+372,F,70-74,White,Not of Hispanic Origin,77302,"Atherosclerosis,Hyperlipidemia,Hypertension,Drug_therapy",Medicare Part A,207.5,3587,0,32417.5
+373,M,80-84,White,Not of Hispanic Origin,77316,"Body_pain,Gastroesophageal_reflux,Hypertension,Hyperlipidemia,Nicotine_dependence,Drug_therapy",Medicare Part A,0,0,0,24308
+374,F,35-39,White,Not of Hispanic Origin,77302,"Cough,Respiratory_syncytial_virus,COVID-19,Hypertension,Nicotine_dependence,Urinary_tract_infection",Commercial Insurance,0.5,0,0,6312.5
+375,M,65-69,White,Not of Hispanic Origin,77362,"Arthritis_hardware,Hypertension,Parkinsons_disease,Osteoporosis,Postprocedural_examination,Drug_therapy",Health Maintenance Organization (HMO),1560.25,41140,0,75931.25
+376,F,70-74,Other,Hispanic Origin,77381,"Arthritis,Hypertension,Hypercholesterolemia,Asthma,Vascular_disease,Obesity,Drug_therapy,Neoplasm",Health Maintenance Organization (HMO),1863,28989,0,53375
+377,F,55-59,White,Not of Hispanic Origin,77346,"Arthritis,Hypertension,Hyperlipidemia,Nicotine_dependence,Obesity,COVID-19,Drug_therapy",Point of Service (POS),1933.5,32439,0,57983.5
+378,F,65-69,White,Not of Hispanic Origin,77378,"Arthritis,Scoliosis,Esophagitis,Hypertension,Hyperlipidemia,Anemia,Drug_therapy,Artificial_hip_joint",Health Maintenance Organization (HMO),2093.25,33197,0,60098.25
+379,M,65-69,White,Not of Hispanic Origin,77381,"Trigger_finger,Hypertension,Gastroesophageal_reflux,Hypercholesterolemia,Gout,Trigger_finger,Postprocedural_examination,Drug_therapy",Point of Service (POS),137,36,0,7993
+380,M,75-79,White,Not of Hispanic Origin,77354,"Arthritis,Hypertension,Obesity,Atrial_fibrillation,Urinary_retention,Nicotine_dependence,Obesity",Medicare Part A,1591,32322,0,66100
+381,F,55-59,White,Not of Hispanic Origin,77356,"Arthritis,Carpal_tunnel_syndrome,Hypertension,Thyroid_disorder,Gastroesophageal_reflux,Arthritis",Point of Service (POS),801.25,574,0,23158.25
+382,F,65-69,White,Not of Hispanic Origin,77338,"Fracture,Diabetes,Hyperlipidemia,Hypertension,Gout,Ankle_and_foot_strain",Point of Service (POS),805.25,38806,0,58658.25
+383,M,35-39,White,Not of Hispanic Origin,77316,"Fracture,Diabetes,Hypertension,Insulin_use,Allergy",Health Maintenance Organization,0,0,0,3618
+384,F,75-79,White,Not of Hispanic Origin,77356,"Atherosclerosis,Occlusion,Hypertension,Hyperlipidemia,Thyroid_disorder,Gastroesophageal_reflux,Myocardial_infarction,Bypass_graft,Skin_disorder,Obesity",Medicare Part A,170.25,2701,0,34492.25
+385,F,65-69,Black,Not of Hispanic Origin,77318,"Palpitations,Migraine,Asthma,Hyperlipidemia,Hypertension,Gastroesophageal_reflux,Arthritis,Fibromyalgia,Bladder_disorder,Nicotine_dependence,Drug_therapy",Medicare Part A,7.5,0,0,6089.5
+386,M,70-74,White,Not of Hispanic Origin,77377,"Stenosis,Claudication,Spondylolisthesis,Diabetes,Hypertension,Hyperlipidemia,Sleep_apnea,Obesity,Nicotine_dependence,Drug_therapy",Health Maintenance Organization (HMO),1567.75,98043,0,137212.75
+387,M,80-84,White,Hispanic Origin,77381,"Atrial_fibrillation,Hypertension,Diabetes,Hyperlipidemia,Thyroid_disorder,Gastroesophageal_reflux,Hyperplasia,Infarction,Pacemaker_use",Medicare Part A,141.75,0,0,13240.75
+388,M,70-74,White,Not of Hispanic Origin,77356,"Atrial_fibrillation,Hypertension,Hyperplasia,Sleep_apnea,Gastroesophageal_reflux,Hypercholesterolemia",Medicare Part A,209.5,0,0,12809.5
+389,M,80-84,White,Not of Hispanic Origin,77384,"Fracture,Diabetes,Hypertension,Hyperlipidemia,Nicotine_dependence",Medicare Part A,0,0,0,6221
+390,M,80-84,White,Not of Hispanic Origin,77346,"Arthritis,Hyperlipidemia,Hypertension,Drug_therapy",Health Maintenance Organization (HMO),1711.5,30146,0,54796.5
+391,F,60-64,White,Not of Hispanic Origin,77379,Hypertension,"Charity, Indigent or Unknown",0,0,0,793
+392,M,40-44,White,Not of Hispanic Origin,77381,Hypertension,Point of Service (POS),0,0,0,5531
+393,M,35-39,White,Not of Hispanic Origin,77303,"Neoplasm,Enchondromatosis,Synovitis_tenosynovitis,Hypertension,Prediabetes,Asthma,Hypercholesterolemia",Preferred Provider Organization (PPO),808.5,144,0,17586.5
+394,M,75-79,White,Not of Hispanic Origin,77316,"Arthritis,Trigger_finger,Heart_disease,Hypertension,Hyperlipidemia,Thyroid_disorder,Gastroesophageal_reflux,Atherosclerosis,Diabetes",Health Maintenance Organization (HMO),1679.75,60118,0,93813.75
+395,M,75-79,White,Not of Hispanic Origin,77384,"Hematoma,Hypertension,Nicotine_dependence,Edema,Pulmonary_disease,Hyperlipidemia,Thyroid_disorder,Gastroesophageal_reflux",Medicare Part A,51,0,0,4311
+396,M,50-54,Black,Not of Hispanic Origin,77388,"Muscle_strain,Hypertension,Drug_therapy",Point of Service (POS),0,0,0,4497
+397,F,60-64,Other,Not of Hispanic Origin,77385,"Laceration,Diabetes,Hypertension,Drug_therapy,Immunization",Blue Cross/Blue Shield,231.25,0,0,1911.25
+398,M,60-64,White,Not of Hispanic Origin,77302,"COVID-19,Candidiasis,Hypertension,Nicotine_dependence,Allergy",Health Maintenance Organization,100,0,0,15160
+399,F,45-49,White,Not of Hispanic Origin,77301,"Pharyngitis,Conjunctivitis,Tachycardia,Diabetes,Body_pain,Hypertension,Hypoglycemic_drug_use,Allergy,COVID-19","Charity, Indigent or Unknown",2433,0,0,10609
+400,F,65-69,White,Not of Hispanic Origin,77378,"Body_pain,Atherosclerotic,Hypertension,Gastroesophageal_reflux,Hyperlipidemia,Drug_therapy,COVID-19",Point of Service (POS),4.5,0,0,8255.5
+401,M,50-54,Black,Not of Hispanic Origin,77304,"Tear,Hypertension,Gout,Bursitis,Chondromalacia,Obesity,Nicotine_dependence",Blue Cross/Blue Shield,939.25,13864,0,36149.25
+402,M,65-69,White,Not of Hispanic Origin,77378,"Atherosclerosis,Hypertension,Atrial_fibrillation,Sleep_apnea,Ventricular_premature_contraction,Hyperlipidemia,Obesity,Heart_disease,Cardiovascular_disease,Nicotine_dependence,COVID-19",Medicare Part A,285,14274,0,69530
+403,F,60-64,White,Not of Hispanic Origin,77328,"Stenosis,Claudication,Stenosis,Hypertension",Health Maintenance Organization (HMO),128,0,0,14374
+404,M,40-44,White,Not of Hispanic Origin,77386,Hypertension,"Charity, Indigent or Unknown",0,0,0,793
+405,F,80-84,White,Not of Hispanic Origin,77396,"Preprocedural_examination,Stenosis,Claudication,Body_pain,Arthritis,Hypertension,Hyperlipidemia,Diabetes,Hypercholesterolemia,Insomnia,Postprocedural_examination",Medicare Part A,194.25,0,0,35630.5
+406,M,70-74,White,Not of Hispanic Origin,77845,"Neuralgia,Hypertension",Medicare Part A,225,0,0,15389
+407,M,70-74,White,Not of Hispanic Origin,77318,"Cervical_disc_disorder,Hypertension,Arthritis,Sleep_apnea,Gastroesophageal_reflux,Urinary_retention,Diabetes,Neuropathy,Drug_therapy",Health Maintenance Organization (HMO),1441.25,25728,0,72756.24
+408,F,75-79,White,Not of Hispanic Origin,77381,"Neoplasm,Cystitis,Anemia,Hyperlipidemia,Hypertension,Gastroesophageal_reflux",Medicare Part A,113.25,0,0,7099.25
+409,M,55-59,Black,Not of Hispanic Origin,77073,"Arthritis,Hypertension,Hyperlipidemia,Nicotine_dependence,Obesity,Drug_therapy","Charity, Indigent or Unknown",1588.25,35611,0,70345.25
+410,F,80-84,White,Hispanic Origin,75801,"Stenosis,Spondylosis,Cervical_disc_displacement,Arthritis,Tear,Shoulder_strain,Synovitis_tenosynovitis,Shoulder_strain,Hypertension,COVID-19,Coagulation",Health Maintenance Organization (HMO),340.5,0,0,41019.21
+411,M,70-74,White,Not of Hispanic Origin,75862,"Headache,Hypertension,Hyperlipidemia,Gastroesophageal_reflux,Drug_therapy",Health Maintenance Organization (HMO),485,0,0,35199.64
+412,F,50-54,White,Not of Hispanic Origin,77302,"Bipolar_disorder,Hypertension,Diabetes,Pulmonary_disease,Asthma,Drug_therapy,Insulin_use,Steroid_use,Allergy,COVID-19,Sucidal_ideations",Medicaid,6.5,0,0,8248.5
+413,F,55-59,White,Not of Hispanic Origin,77072,"Syncope,Atherosclerosis,Hypertension,Diabetes,Esophagitis,Gastroesophageal_reflux,Psoriasis,Arthritis,Hypercholesterolemia,Sjogren_syndrome,Stroke,Insulin_use",Health Maintenance Organization (HMO),54.75,27463,0,50906.75
+414,M,85-89,White,Not of Hispanic Origin,77356,"Pancytopenia,Thrombocytopenia,Effusion,Heart_disease,Heart_failure,Diabetes,Angiopathy,Hypercholesterolemia,Hypertension,Nicotine_dependence,Drug_therapy,COVID-19",Health Maintenance Organization (HMO),0.5,0,0,9661.5
+415,M,75-79,White,Not of Hispanic Origin,77355,"Carpal_tunnel_syndrome,Hypertension,Gastroesophageal_reflux,Arthritis,Postprocedural_examination,Drug_therapy",Health Maintenance Organization (HMO),510.5,358,0,12947.5
+416,F,70-74,White,Not of Hispanic Origin,77386,"Carpal_tunnel_syndrome,Trigger_finger,Hypertension,Drug_therapy",Medicare Part A,714.25,72,0,14641.25
+417,M,65-69,White,Not of Hispanic Origin,77304,"Stenosis,Cervical_disc_displacement,Claudication,Hyperlipidemia,Esophagitis,Gastroesophageal_reflux,Hypertension,Nicotine_dependence,Coagulation",Health Maintenance Organization (HMO),1343,714,0,37486
+418,F,50-54,White,Not of Hispanic Origin,77362,"Fracture,Hypertension,Diabetes",Health Maintenance Organization,52.25,0,0,4627.25
+419,M,65-69,White,Not of Hispanic Origin,77302,"Atrial_fibrillation,Hyperlipidemia,Hypertension,Stenosis,COVID-19,Drug_therapy",Health Maintenance Organization (HMO),129.25,0,0,18020.25
+420,F,55-59,White,Not of Hispanic Origin,77301,"Tear,Impingement,Tendinitis",Point of Service (POS),1307,25133,0,49194
+421,F,75-79,White,Not of Hispanic Origin,77302,"Arthritis,Thyroid_disorder,Hypertension,Sleep_apnea,Gastroesophageal_reflux,Hypercholesterolemia,Thyroid_disorder,Obesity",Medicare Part A,1450,39583,0,76768
+422,F,60-64,White,Hispanic Origin,77064,"Arthritis,Arthropathy,Psoriasis,Hyperlipidemia,Psoriasis,Bradycardia,Obesity,Drug_therapy",Preferred Provider Organization (PPO),1754,26314,0,52609
+423,F,55-59,Black,Not of Hispanic Origin,77293,"Arthritis,Hypertension",Point of Service (POS),2071,28333,0,57579
+424,M,55-59,White,Not of Hispanic Origin,77380,"COVID-19,Diabetes,Hypertension,Obesity",Preferred Provider Organization (PPO),0,0,0,3205
+425,F,75-79,White,Not of Hispanic Origin,77389,"Arthritis,Fracture,Hypertension,Hyperlipidemia,Thyroid_disorder,Hormone_replacement_therapy,Drug_therapy",Health Maintenance Organization (HMO),1226,33735,0,65509.25
+426,M,50-54,White,Not of Hispanic Origin,77303,"Arthritis,Hypertension,Prediabetes",Point of Service (POS),1753.25,40401,0,78087.25
+427,F,45-49,White,Not of Hispanic Origin,77365,"Radiculopathy,Hypertension,Nicotine_dependence",Commercial Insurance,108.75,0,0,5575.75
+428,F,50-54,White,Not of Hispanic Origin,77340,"Hypotension,Bradycardia,Allergy,Ascites,COVID-19,Allergy,Hypertension,Obesity","Charity, Indigent or Unknown",110,0,0,19396
+429,M,80-84,White,Not of Hispanic Origin,77040,"Hypertension,Atrial_fibrillation,Hypercholesterolemia,Varicose_veins,Edema,Hyperkalemia,Drug_therapy",Medicare Part A,0,389,0,12654
+430,F,55-59,Other,Not of Hispanic Origin,77386,"Synovitis_tenosynovitis,Hypertension,Diabetes,Hypercholesterolemia,Thyroid_disorder ",Preferred Provider Organization (PPO),546.5,36,0,12394.5
+431,F,75-79,White,Not of Hispanic Origin,77384,"Pacemaker_use,Hypertension,Atherosclerosis,Atrial_fibrillation,Tricuspid_insufficiency,Hyperlipidemia,Thyroid_disorder,Vascular_disease,Hormone_replacement_therapy,Drug_therapy",Health Maintenance Organization (HMO),82,21896,0,46673
+432,F,70-74,Black,Not of Hispanic Origin,77373,"Sick_sinus_syndrome,Thyroid_disorder,Hypertension,Gastroesophageal_reflux,Sleep_apnea,Hyperlipidemia,Osteoporosis,Stenosis,Cardiac_murmur",Health Maintenance Organization (HMO),132,28030,0,59797
+433,F,65-69,Black,Not of Hispanic Origin,77050,"Arthritis,Hypertension,Diabetes,Hyperlipidemia,Pleurodynia,Body_pain,Obesity,Drug_therapy",Health Maintenance Organization (HMO),1855.5,27687,0,57623.5
+434,F,65-69,White,Hispanic Origin,77050,"Arthritis,Hypercholesterolemia,Diabetes,Hypertension,Drug_therapy",Health Maintenance Organization (HMO),2199.75,28661,0,57996.75
+435,M,60-64,White,Not of Hispanic Origin,77335,"Displacement_of_cardiac_electrode,Antrioventricular_block,Hypertension,Hyperlipidemia,Polycythemia,Thyroid_disorder,Hormone_replacement_therapy,Drug_therapy",Point of Service (POS),181.75,3768,0,26107.75
+436,M,65-69,White,Not of Hispanic Origin,77381,"Cardiac_device_adjustment,Atrial_fibrillation,Hypertension,Hyperlipidemia,Drug_therapy",Medicare Part A,7.5,27999,0,56545.5
+437,M,55-59,White,Not of Hispanic Origin,77005,"Body_pain,Diabetes,Hyperlipidemia,Hypertension,Insulin_use",Point of Service (POS),281.75,0,0,19771.75
+438,F,80-84,White,Not of Hispanic Origin,77301,"Pacemaker_use,Antrioventricular_block ,Antrioventricular_block,Tachycardia,Hypercholesterolemia,Hypertension,Syncope",Health Maintenance Organization (HMO),82,37486,0,70166
+439,F,60-64,Black,Not of Hispanic Origin,77078,"Diabetes,Pancreatic_disease,Bile_duct_obstruction,Cancer,Hypokalemia,Pancreatic_disease,COVID-19,Cystitis,Hematuria,Hypertension,Obesity","Charity, Indigent or Unknown",1885.75,0,0,25853.75
+440,M,80-84,White,Not of Hispanic Origin,77304,"Pneumonia,Hypoxemia,Atrial_fibrillation,Atherosclerotic,Angina,Diabetes,Hypercholesterolemia,Hypertension,Sleep_apnea,Nicotine_dependence",Medicare Part A,135.25,0,0,13410.25
+441,M,70-74,Other,Hispanic Origin,77388,"Constipation,Body_pain,Cough,Lymphadenopathy,Kidney_disease,Hypercholesterolemia,Hypertension,Sleep_apnea",Medicare Part A,485.5,0,0,21863.5
+442,F,55-59,Other,Not of Hispanic Origin,88888,"Pulmonary_disease,Body_pain,Atherosclerosis,Hypertension,Hyperlipidemia,Nicotine_dependence,COVID-19","Charity, Indigent or Unknown",187.75,0,0,14033.75
+443,F,45-49,White,Not of Hispanic Origin,77301,"Sciatica,Thyroid_disorder,Hypertension,Nicotine_dependence",Point of Service (POS),0.5,0,0,2545.5
+444,F,45-49,White,Not of Hispanic Origin,77304,"Sprain,Hypertension,Drug_therapy","Charity, Indigent or Unknown",0,0,0,3707
+445,M,65-69,White,Hispanic Origin,77060,"COVID-19,Atherosclerotic,Hypertension,Nicotine_dependence,Drug_therapy",Health Maintenance Organization (HMO),58.5,0,0,10010.5
+446,F,55-59,White,Not of Hispanic Origin,77301,"Dehydration,Body_pain,Diarrhea,Nausea,Hypertension,COVID-19,Allergy,Drug_therapy",CHAMPUS,1669.75,0,0,23937.75
+447,F,50-54,White,Not of Hispanic Origin,77385,"Bronchitis,Lung_abnormality,Hypertension,Nicotine_dependence,Drug_therapy",Health Maintenance Organization,1.25,0,0,5514.25
+448,M,45-49,White,Hispanic Origin,77073,"Hemorrhoidal_skin_tags,Enzyme_level_abnormal,Diabetes,Hyperlipidemia,Hypertension,Allergy,Drug_therapy",Health Maintenance Organization,0,0,0,4891
+449,M,55-59,White,Not of Hispanic Origin,75915,"Spinal_cord_disease,Sciatica,Atherosclerotic,Hyperlipidemia,Hypertension,Myocardial_infarction,Drug_therapy,COVID-19",Preferred Provider Organization (PPO),0,0,0,5734
+450,M,55-59,White,Not of Hispanic Origin,77331,"Mitral_valve_prolapse,Mitral_valve_insufficiency,Hypertension,Migraine,Hyperlipidemia,Drug_therapy,Heart_disease",Blue Cross/Blue Shield,197,0,0,12805
+451,F,65-69,White,Not of Hispanic Origin,77354,"Body_pain,Diabetes,Hypertension,Hypercholesterolemia,Sleep_apnea,Atrial_fibrillation,Drug_therapy,Postprocedural_examination,Arthrodesis",Health Maintenance Organization (HMO),127.75,0,0,9451.75
+452,M,55-59,White,Not of Hispanic Origin,77386,"Atherosclerosis,Hypertension,Thyroid_disorder,Stenosis,Drug_therapy,Hormone_replacement_therapy,Drug_therapy,Infarction",Point of Service (POS),1393,14502,0,71008
+453,M,70-74,White,Not of Hispanic Origin,77484,"Atrial_fibrillation,Hypercholesterolemia,Gastroesophageal_reflux,Hypertension,Atherosclerosis,Drug_therapy,Bypass_graft,Neuropathy,Diabetes,Myocardial_infarction",Medicare Part A,141.75,0,0,13147.75
+454,M,75-79,White,Not of Hispanic Origin,77389,"Atherosclerosis,Atrial_fibrillation,Hypertension,Hyperlipidemia,Gastroesophageal_reflux,Esophagitis,Antrioventricular_block,Pacemaker_use,Bypass_graft,Angioplasty_implant,Drug_therapy",Medicare Part A,170.25,2474,0,34176.25
+455,F,70-74,White,Not of Hispanic Origin,77357,"Trigger_finger,Hypertension,Migraine,Gastroesophageal_reflux,Hyperlipidemia,Sleep_apnea,Diabetes,Thyroid_disorder,Postprocedural_examination,Drug_therapy,Insulin_use",Health Maintenance Organization (HMO),137.5,36,0,8149.5
+456,M,75-79,White,Not of Hispanic Origin,77385,"Tear,Arthropathy,Knee_injury,Hyperlipidemia,Hypertension,Thyroid_disorder,Hyperplasia,Claustrophobia,Obesity",Medicare Part A,543.5,6523,0,24588.5
+457,F,90+,White,Not of Hispanic Origin,77381,"Bronchospasm,Hyperlipidemia,Hypertension,Drug_therapy,COVID-19",Health Maintenance Organization (HMO),0.5,0,0,8833.5
+458,M,60-64,White,Not of Hispanic Origin,77304,"Palpitations,Hypertension,Thyroid_disorder,Hormone_replacement_therapy,Drug_therapy",CHAMPUS,59.75,27463,0,50911.75
+459,F,80-84,White,Not of Hispanic Origin,77389,"Arthritis,Hypertension,Diabetes,Hyperlipidemia,Nicotine_dependence,Drug_therapy",Medicare Part A,223.25,0,0,4951.25
+460,M,35-39,Other,Hispanic Origin,77372,"Tonsillitis,Hypertension,Obesity,Heart_failure,Tachycardia,COVID-19",Medicaid,3079.5,0,0,12746.5
+461,M,65-69,White,Not of Hispanic Origin,77340,"Tear,Arthropathy,Chondromalacia,Arthritis,Hypertension,Claustrophobia,Infarction,Drug_therapy",Health Maintenance Organization (HMO),845,36,0,16240
+462,M,70-74,White,Not of Hispanic Origin,77381,"Atrial_fibrillation,Atrial_flutter,Ventricular_premature_contraction,Stenosis,Aortic_valve_rheumatic_disorders,Hypertension,Drug_therapy",Health Maintenance Organization (HMO),129.25,0,0,10056.25
+463,M,75-79,White,Not of Hispanic Origin,77306,"Arthritis,Hypertension,Atherosclerosis,Hyperlipidemia,Diabetes,Sleep_apnea,Pulmonary_disease,Obesity,Atherosclerosis",Health Maintenance Organization (HMO),1665.5,45024,0,84986.5
+464,M,80-84,White,Not of Hispanic Origin,77328,"Atrial_fibrillation,Atrial_flutter,Bundle_branch_block,Aortic_aneurysm,Hypertension,Bipolar_disorder,Epilepsy,Heart_disease,Drug_therapy",Medicare Part A,57.25,27463,0,50909.25
+465,F,50-54,White,Not of Hispanic Origin,77385,"Wound,Hypertension,Hyperlipidemia,Nicotine_dependence, Nicotine_dependence",Preferred Provider Organization (PPO),109.5,0,0,3349.5
+466,F,70-74,White,Not of Hispanic Origin,77375,"Arthritis,Hypertension,Diabetes,Hyperlipidemia,Thyroid_disorder,Anemia,Drug_therapy,Hormone_replacement_therapy,Drug_therapy",Health Maintenance Organization (HMO),1212.5,33146,0,60231.5
+467,M,65-69,White,Not of Hispanic Origin,77382,"Palpitations,Hypertension,Hyperlipidemia,Allergy,COVID-19",Preferred Provider Organization (PPO),0.5,0,0,9527.5
+468,M,70-74,White,Not of Hispanic Origin,77381,"Atrial_fibrillation,Hypertension,Parkinsons_disease,Hyperplasia,Ventricular_premature_contraction,Bundle_branch_block,Hyperlipidemia,Drug_therapy,Postprocedural_examination,Drug_therapy",Medicare Part A,129.25,0,0,17863.25
+469,F,70-74,White,Not of Hispanic Origin,77378,"Respiratory_failure,Hypoxia,Pneumonia,Hypokalemia,Leukocytosis,COPD,Hypertension,Hyperlipidemia,Nicotine_dependence,COVID-19",Medicare Part A,1940.75,0,0,21856.75
+470,F,75-79,White,Not of Hispanic Origin,77382,"Heart_disease,Hypertension,Hyperlipidemia,Thyroid_disorder,Postprocedural_examination,Drug_therapy,Nicotine_dependence,Drug_therapy,Hormone_replacement_therapy,Drug_therapy",Medicare Part A,59.75,27463,0,50911.75
+471,F,60-64,White,Not of Hispanic Origin,77306,"Arthritis,Diabetes,Asthma,Gastroesophageal_reflux,Hyperlipidemia,Hypertension,Nicotine_dependence,Hypoglycemic_drug_use,Drug_therapy",CHAMPUS,1375.25,33146,0,65428.84
+472,M,65-69,White,Not of Hispanic Origin,77354,"Arthritis,Chondromalacia,Hypertension,Esophagitis,Hypercholesterolemia,Nervous_system_disease",Medicare Part A,1407.75,31584,0,63141.34
+473,F,75-79,White,Not of Hispanic Origin,77302,"Head_injury,Headache,Dizziness,Nausea,Hypertension,Gastroesophageal_reflux,Hyperlipidemia,Allergy",Health Maintenance Organization (HMO),51,0,0,10632
+474,F,50-54,Black,Not of Hispanic Origin,77373,"Stenosis,Claudication,Hypertension,Arthritis,Prediabetes",Preferred Provider Organization (PPO),2500.25,88650,0,133789.62
+475,M,75-79,White,Not of Hispanic Origin,77389,"Atrial_fibrillation,Hyperlipidemia,Hypertension,Atherosclerosis,Atrial_fibrillation",Health Maintenance Organization (HMO),141.75,0,0,12913.75
+476,M,65-69,White,Not of Hispanic Origin,77304,"Arthritis,Thyroid_disorder,Atrial_fibrillation,Hypertension,Drug_therapy",Health Maintenance Organization (HMO),1647.75,43451,0,72474.75
+477,F,45-49,White,Hispanic Origin,77301,"Radiculopathy,Hypertension,Nicotine_dependence",Point of Service (POS),0,0,0,3305
+478,M,40-44,White,Not of Hispanic Origin,77303,"Nerve_lesion,Shoulder_strain,Diabetes,Hyperlipidemia,Hypertension,Nicotine_dependence,Allergy,Drug_therapy",Medicaid,1,0,0,4696
+479,F,70-74,White,Not of Hispanic Origin,77373,"Kidney_disease,Liver_disease,Acetonuria,Hyperlipidemia,Hypertension,Drug_therapy",Health Maintenance Organization (HMO),152,0,0,21373
+480,M,65-69,White,Not of Hispanic Origin,77354,"Arthritis,Hypertension,Diabetes,Hypercholesterolemia,Atrial_fibrillation,Drug_therapy",Health Maintenance Organization (HMO),1605.5,40207,0,77327.5
+481,F,75-79,White,Not of Hispanic Origin,77371,"Arthritis,Hypertension,Hypercholesterolemia,Gastroesophageal_reflux,Drug_therapy",Health Maintenance Organization (HMO),1502,38353,0,71870
+482,F,80-84,White,Not of Hispanic Origin,77304,"Tear,Fracture,Hyperlipidemia,Esophagitis,Hypertension,Drug_therapy","Charity, Indigent or Unknown",639.5,14866,0,32797.5
+483,M,65-69,White,Not of Hispanic Origin,77382,"Arthritis,Hypertension,Atrial_fibrillation,Hyperlipidemia,Hyperplasia,Urinary_tract_infection,Prediabetes,Sleep_apnea,Testicular_hypofunction,ProteinC_resistance,COVID-19",Health Maintenance Organization (HMO),1999,34489,0,69073.99
+484,F,35-39,White,Not of Hispanic Origin,77381,"Thorax_abrasion,Body_pain,Hypertension","Charity, Indigent or Unknown",0,0,0,2545
+485,M,70-74,White,Not of Hispanic Origin,77328,"Body_pain,Hypertension",Medicare Part A,57.75,0,0,5742.75
+486,M,65-69,Other,Not of Hispanic Origin,77316,"Hypertension,Appendicitis,Calculus,COVID-19",Preferred Provider Organization (PPO),1299.5,0,0,22023.5
+487,F,60-64,White,Not of Hispanic Origin,77372,"Hypertension,Neuralgia,Nicotine_dependence",Health Maintenance Organization (HMO),0.25,0,0,4497.25
+488,F,50-54,White,Not of Hispanic Origin,77303,"Lupus,Atrial_fibrillation,Diabetes,Hypertension,Hyperlipidemia,Allergy,Nicotine_dependence",Point of Service (POS),55,0,0,9715
+489,F,60-64,White,Not of Hispanic Origin,77363,"Carpal_tunnel_syndrome,Hypertension,Thyroid_disorder,Arthritis,Glaucoma,Hormone_replacement_therapy,Drug_therapy",Commercial Insurance,777.75,12407,0,29839.75
+490,F,50-54,White,Not of Hispanic Origin,77358,"Rotator_cuff_tear,Impingement,Shoulder_strain,COVID-19,Sleep_apnea,Arthritis,Hypertension,Drug_therapy",Preferred Provider Organization (PPO),1061.25,8184,0,32357.25
+491,F,70-74,Black,Not of Hispanic Origin,77096,"Body_pain,Anemia,Hypertension,Diabetes,Hyperlipidemia,Nicotine_dependence,COVID-19",Point of Service (POS),100.5,0,0,15383.5
+492,M,60-64,White,Not of Hispanic Origin,77384,"Hypertension,Ventricular_premature_contraction,Body_pain,Heart_disease","Charity, Indigent or Unknown",0,0,0,793
+493,M,70-74,White,Not of Hispanic Origin,77357,Hypertension,Medicare Part A,0,0,0,793
+494,M,40-44,Other,Hispanic Origin,77014,"Hypertension,Body_pain,Nicotine_dependence,COVID-19","Charity, Indigent or Unknown",640.75,0,0,21828.75
+495,F,55-59,Black,Not of Hispanic Origin,77385,"Body_pain,Hypertension,Allergy,Drug_therapy",Health Maintenance Organization (HMO),263.75,0,0,21095.75
+496,M,45-49,White,Hispanic Origin,77379,"Hydronephrosis,Renal_obstruction,Ureteral_obstruction,Cystitis,Hematuria,Hypertension,Obesity,Drug_therapy",Preferred Provider Organization (PPO),386.25,0,0,22124.25
+497,M,40-44,White,Not of Hispanic Origin,73034,"Body_pain,Palpitations,Hypertension,Obesity",Blue Cross/Blue Shield,54,0,0,10149
+498,F,70-74,Black,Not of Hispanic Origin,77073,"Head_injury,Hypertension,Atherosclerosis,Myocardial_infarction,Hyperlipidemia,Hypercholesterolemia,Nicotine_dependence,Infarction",Health Maintenance Organization (HMO),156.75,0,0,21816.75
+499,F,75-79,White,Not of Hispanic Origin,77382,"Atrial_fibrillation,Hypertension,Thyroid_disorder,Gastroesophageal_reflux,Hyperlipidemia,Sleep_apnea,Atherosclerotic,Drug_therapy,Nicotine_dependence,Drug_therapy,Hormone_replacement_therapy",Medicare Part A,129.25,0,0,17752.25
+500,M,55-59,White,Hispanic Origin,77339,"Cellulitis,Nail_disorders,Skin_infection,Nicotine_dependence,Hypertension,Nicotine_dependence","Charity, Indigent or Unknown",53,0,0,10500
+501,F,65-69,White,Not of Hispanic Origin,77338,"Fracture,Sprain,Diabetes,Hypertension,Polymyalgia_rheumatica,Gout,Sleep_apnea,Drug_therapy,Postprocedural_examination",Point of Service (POS),1255.75,13146,0,40623.75
+502,M,55-59,White,Hispanic Origin,77365,"Bursitis,Hypertrophic_scar,Gastroesophageal_reflux,Hypertension,Sleep_apnea,Diabetes,Hyperlipidemia,Obesity,Insulin_use,Drug_therapy",Blue Cross/Blue Shield,1050.25,1598,0,17320.25
+503,F,75-79,White,Not of Hispanic Origin,77384,"Hypertension,Pulmonary_disease,Hypertension,Diabetes,Hyperlipidemia,Nicotine_dependence,Drug_therapy",Medicare Part A,20,389,0,20002
+504,M,70-74,White,Not of Hispanic Origin,77062,"Arthritis,Hypercholesterolemia,Hypertension,Drug_therapy",Medicare Part A,1189.75,36966,0,71483.75
+505,F,80-84,White,Not of Hispanic Origin,77378,"Atrial_fibrillation,Hypertension,Diabetes,Gastroesophageal_reflux,Hyperlipidemia,Gout,Body_pain,Dorsalgia,Thyroid_disorder,Stroke,Infarction,Drug_therapy",Medicare Part A,199.5,0,0,13624.5
+506,M,85-89,White,Not of Hispanic Origin,77381,"Pacemaker_use,Antrioventricular_block,Claudication,Atrial_flutter,Atherosclerosis,Edema,Myocardial_infarction,Hypertension,Diabetes,Hyperlipidemia",Medicare Part A,121.25,27999,0,51065.25
+507,F,80-84,White,Not of Hispanic Origin,77069,"Arthritis,Chondromalacia,Hyp",Medicare Part A,1551.5,43987,0,72979.5
+508,M,75-79,White,Not of Hispanic Origin,77365,"Arthritis,Sleep_apnea,Gastroesophageal_reflux,Hypertension,Hyperlipidemia,Body_pain,Dorsalgia,Nicotine_dependence,Neoplasm",Health Maintenance Organization (HMO),1578.5,27606,0,54309.5
+509,M,65-69,White,Hispanic Origin,77084,"Arthritis,Hypertension,Thyroid_disorder,Diabetes,Hyperlipidemia,Nicotine_dependence,Drug_therapy",Health Maintenance Organization (HMO),1872,27606,0,54304
+510,F,70-74,White,Hispanic Origin,77060,"Arthritis,Hypertension,Diabetes,Hyperlipidemia,Asthma,Drug_therapy",Health Maintenance Organization (HMO),1737,32869,0,59260
+511,M,65-69,White,Not of Hispanic Origin,78662,"Arthritis,Hypertension,Hyperlipidemia,Hyperplasia,Obesity,Drug_therapy",Health Maintenance Organization (HMO),2162.75,32439,0,58493.75
+512,F,65-69,White,Not of Hispanic Origin,77015,Arthritis,Health Maintenance Organization (HMO),1907.5,65996,0,97366.49
+513,M,70-74,White,Not of Hispanic Origin,77373,"Atherosclerosis,Angina,Atrial_fibrillation,Diabetes,Hyperlipidemia,Hypertension,Myocardial_infarction,Obesity,Bypass_graft,Obesity,Drug_therapy",Health Maintenance Organization (HMO),207.5,1859,0,33690.5
+514,F,60-64,White,Hispanic Origin,77373,"Trigger_finger,Hypertension,Diabetes,Drug_therapy",Preferred Provider Organization (PPO),605.5,36,0,13421.5
+515,F,60-64,White,Not of Hispanic Origin,77378,"Arthritis,Tear,Hypercholesterolemia,Hypertension",Point of Service (POS),1712.75,40897,0,73123.75
+516,M,75-79,White,Not of Hispanic Origin,77386,"Carpal_tunnel_syndrome,Upper_limb_malformation,COPD,Hypercholesterolemia,Atrial_fibrillation,Hypertension,Thyroid_disorder,Infarction,Steroid_use,Hormone_replacement_therapy,Drug_therapy",Medicare Part A,643.5,321,0,12297.5
+517,M,60-64,Black,Not of Hispanic Origin,77357,"Aseptic_necrosis,Hypercholesterolemia,Sleep_apnea,Hypertension,Diabetes,Nicotine_dependence,Drug_therapy",Point of Service (POS),1891.75,43987,0,70465.75
+518,F,70-74,Black,Not of Hispanic Origin,77375,"Arthritis,Hypertension,Obesity,Drug_therapy",Health Maintenance Organization (HMO),1997,28333,0,57240
+519,M,70-74,Other,Hispanic Origin,77090,"Cervical_disc_disorder,Radiculopathy,Cervical_disc_displacement,Radiculopathy,Stenosis,Hypertension,Hyperplasia,Arthritis,Hormone_replacement_therapy,Drug_therapy",Health Maintenance Organization (HMO),1618.25,36664,0,94689.23
+520,F,65-69,White,Not of Hispanic Origin,75979,"Body_pain,Gastroesophageal_reflux,Hypertension,Sleep_apnea,Nicotine_dependence,Drug_therapy",Health Maintenance Organization (HMO),831.25,36,0,18196.25
+521,M,75-79,White,Not of Hispanic Origin,77379,"Tear,Initial_encounter,Tear,Initial_encounter,Gout,Elbow_contracture,Tophi,Gout,Tophi,Plica_syndrome,Chondromalacia,Hypertension,Hypercholesterolemia,Nicotine_dependence,Hernia",Health Maintenance Organization (HMO),931.5,72,0,21408.5
+522,F,70-74,Black,Not of Hispanic Origin,77088,"Arthritis,Hyperlipidemia,Hypertension,Thyroid_disorder,Sleep_apnea,Gastroesophageal_reflux,Obesity,Stroke,Infarction,Drug_therapy",Health Maintenance Organization (HMO),1992.75,27606,0,54806.75
+523,F,55-59,White,Not of Hispanic Origin,77377,"Stenosis,Claudication,Radiculopathy,Claudication,Scoliosis,Claudication,Postlaminectomy_syndrome,Hypertension,Thyroid_disorder,Nicotine_dependence,Drug_therapy",Point of Service (POS),1995,102746,0,156484
+524,M,65-69,Black,Not of Hispanic Origin,77386,"Abdomen_strain,Hypertension,Hyperlipidemia,Nicotine_dependence,Allergy",Health Maintenance Organization (HMO),0.25,0,0,4244.25
+525,M,50-54,White,Not of Hispanic Origin,77302,"Hernia,Hypertension,Hyperlipidemia,Nicotine_dependence,Drug_therapy",Medicaid,0.25,0,0,2545.25
+526,M,75-79,White,Not of Hispanic Origin,77302,"Tendon_strain,Muscle_strain,Foot_deformity,Hypertension,Diabetes,Gastroesophageal_reflux,Hypercholesterolemia,Sleep_apnea,Drug_therapy,Postprocedural_examination,Drug_therapy",Health Maintenance Organization (HMO),924.5,4169,0,27429.5
+527,F,65-69,White,Not of Hispanic Origin,77384,"Synovitis_tenosynovitis,Hypertension,Hyperlipidemia,Arthritis,Sleep_apnea",Point of Service (POS),645.5,572,0,13167.5
+528,M,70-74,White,Not of Hispanic Origin,77069,"Atherosclerosis,Hypertension,Body_pain,Myocardial_infarction,Hypertension,Hypercholesterolemia,Atherosclerosis,Drug_therapy",Medicare Part A,270.25,4633,0,30595.25
+529,F,50-54,White,Not of Hispanic Origin,77316,"Hypertension,Palpitations,Nicotine_dependence","Charity, Indigent or Unknown",0.5,0,0,10097.5
+530,M,40-44,White,Hispanic Origin,77373,"Postlaminectomy_syndrome,Stenosis,Intervertebral_disc_degeneration,Stenosis,Embolism,Drug_therapy",Health Maintenance Organization (HMO),173,0,0,6755
+531,M,70-74,White,Not of Hispanic Origin,77066,"Carpal_tunnel_syndrome,Hypertension,Gout,Atrial_fibrillation,Hypertension,Sleep_apnea,Embolism,Drug_therapy,Nicotine_dependence,Drug_therapy",Health Maintenance Organization (HMO),602.5,321,0,11974.5
+532,F,75-79,Asian or Pacific Islander,Not of Hispanic Origin,77388,"Arthritis,Hypertension,Hypercholesterolemia,Asthma,Drug_therapy",Health Maintenance Organization (HMO),1670,30576,0,57263
+533,F,65-69,White,Not of Hispanic Origin,77069,"Arthritis,Hypertension,Diabetes",Health Maintenance Organization (HMO),2106.25,32439,0,61771.25
+534,M,70-74,White,Not of Hispanic Origin,77373,"COVID-19,Body_pain,Hypertension,Hyperlipidemia,Diabetes,Stroke,Nicotine_dependence,Coagulation",Medicare Part A,484.5,0,0,15463.5
+535,M,40-44,White,Not of Hispanic Origin,77302,"Varicose_veins,Hypertension,Nicotine_dependence",Commercial Insurance,0,0,0,2545
+536,M,35-39,White,Not of Hispanic Origin,77379,"Hypertension,Asthma,Wheezing,Nicotine_dependence",Preferred Provider Organization (PPO),1,0,0,9850
+537,F,75-79,White,Not of Hispanic Origin,77384,"Epistaxis,Hypertension,Hyperlipidemia,Allergy",Medicare Part A,2,0,0,2843
+538,M,50-54,White,Not of Hispanic Origin,77304,"Wound,Cellulitis,Atherosclerosis,Hypertension,Diabetes,Hypercholesterolemia,Obesity",Point of Service (POS),181,0,0,2831
+539,F,50-54,White,Not of Hispanic Origin,77383,"Viral_infection,Altered_mental_status,Urinary_tract_infection,Dehydration,Hypertension,Hyperlipidemia,Hypercholesterolemia,Nicotine_dependence,COVID-19",Medicaid,1728.75,0,0,18986.75
+540,F,80-84,White,Not of Hispanic Origin,77384,"Contusion,Hypertension,Hypercholesterolemia,Nicotine_dependence",Medicare Part A,0,0,0,3665
+541,F,50-54,Black,Not of Hispanic Origin,77384,"Fever,Diabetes,Hypokalemia,Diabetes,Hypertension,COVID-19",Blue Cross/Blue Shield,1123.75,0,0,9798.75
+542,F,70-74,White,Not of Hispanic Origin,77386,"Sciatica,Hypertension,Allergy,Body_pain",Medicare Part A,1.25,0,0,4498.25
+543,M,60-64,White,Hispanic Origin,77386,"Atherosclerosis,Sleep_apnea,Hyperlipidemia,Diabetes,Hypertension,Fatty_liver,Arthritis,Nicotine_dependence,Drug_therapy",Health Maintenance Organization,101.25,1900,0,30923.25
+544,F,70-74,White,Not of Hispanic Origin,77358,"Kidney_failure,Hypotension,Dehydration,COVID-19,Hypertension,Gastroesophageal_reflux,Infarction,Stroke,Nicotine_dependence",Medicare Part A,924.75,0,0,12448.75
+545,F,50-54,White,Not of Hispanic Origin,77073,"Cough,Nasal_congestion,Fever,Hypertension,Nicotine_dependence,COVID-19",Preferred Provider Organization (PPO),1,0,0,5848
+546,M,75-79,White,Not of Hispanic Origin,77386,"Pneumonia,Diabetes,Hypertension,Hyperlipidemia,Thyroid_disorder,COVID-19,Allergy,Nicotine_dependence",Health Maintenance Organization (HMO),0,0,0,5319
+547,F,55-59,White,Not of Hispanic Origin,77356,"Body_pain,Hyperlipidemia,Hypertension,Thyroid_disorder,Allergy",Point of Service (POS),100,0,0,20411
+548,M,65-69,Other,Hispanic Origin,77037,"Cardiac_device_adjustment,Hypertension,Hyperlipidemia,Nicotine_dependence,Stroke,Infarction",Health Maintenance Organization (HMO),54.75,27463,0,50906.75
+549,F,55-59,White,Not of Hispanic Origin,77304,"Neuropathy,Carpal_tunnel_syndrome,Hypertension,Gastroesophageal_reflux,Sleep_apnea,Hyperlipidemia,Thyroid_disorder,Postprocedural_examination,Hormone_replacement_therapy,Drug_therapy",Medicaid,880.25,72,0,19659.25
+550,M,65-69,White,Not of Hispanic Origin,77320,"Arthritis,Hypertension,Hypercholesterolemia,Restless_legs_syndrome,Gastroesophageal_reflux,Hyperplasia,Neoplasm,Drug_therapy",Health Maintenance Organization (HMO),1760.5,27606,0,52959.5
+551,M,75-79,White,Not of Hispanic Origin,77384,"Kidney_failure,Hyperkalemia,Diabetes,Hypertension,Nicotine_dependence,Drug_therapy",Health Maintenance Organization (HMO),10,0,0,3782
+552,F,50-54,White,Not of Hispanic Origin,77304,"Nephritis,Fatty_liver,Hypertension,Hyperlipidemia,Allergy,Drug_therapy",Indemnity Insurance,1,0,0,5391
+553,F,70-74,White,Not of Hispanic Origin,77354,"Arthritis,Hyperlipidemia,Hypertension,Diabetes,Gastroesophageal_reflux,Dorsalgia,Body_pain,Obesity,Nicotine_dependence",Health Maintenance Organization (HMO),1815.25,41140,0,75410.25
+554,F,45-49,White,Hispanic Origin,77385,"Back_strain,Radiculopathy,Diabetes,Hypercholesterolemia,Hypertension,Drug_therapy",Preferred Provider Organization (PPO),160.25,0,0,5998.25
+555,F,50-54,Asian or Pacific Islander,Not of Hispanic Origin,77014,"Arthritis,Hypertension,Obesity,Drug_therapy",Point of Service (POS),1832,28333,0,56289
+556,F,85-89,Other,Not of Hispanic Origin,77356,"Effusion,Asthma,Hypertension,Mitral_valve_insufficiency",Medicare Part A,0,0,0,1030
+557,F,65-69,Other,Hispanic Origin,77339,"Arthritis,Hypertension,Hypercholesterolemia,Thyroid_disorder,Liver_disease,Fatty_liver,Obesity",Health Maintenance Organization (HMO),1850.5,28333,0,58092.97
+558,F,65-69,White,Not of Hispanic Origin,77447,"Body_pain,Arthritis,Hypertension,Hyperlipidemia,Nicotine_dependence,Drug_therapy",Medicare Part A,172.75,0,0,6142.75
+559,M,45-49,White,Not of Hispanic Origin,77356,"Body_pain,Diabetes,Gastroesophageal_reflux,Hyperlipidemia,Hypertension,Thyroid_disorder,COVID-19",Health Maintenance Organization (HMO),0.5,0,0,8989.5
+560,M,80-84,White,Not of Hispanic Origin,77375,"Atrial_fibrillation,Hypertension,Atherosclerosis,Hyperlipidemia,Sleep_apnea,Stroke,Infarction,Heart_disease,Postprocedural_examination,Drug_therapy",Medicare Part A,141.75,0,0,12814.75
+561,F,60-64,White,Not of Hispanic Origin,77354,"Sinusitis,Diabetes,Hypertension,Hypercholesterolemia,COVID-19,Allergy",Point of Service (POS),105,0,0,8959
+562,F,35-39,Black,Not of Hispanic Origin,77338,"Sciatica,Body_pain,Lupus,Body_pain,Allergy,Hypertension,Sleep_apnea,Infarction,Drug_therapy",Point of Service (POS),128.5,0,0,6651.5
+563,F,75-79,Other,Not of Hispanic Origin,77090,"Asthma,COPD,Hypertension,Edema,Nicotine_dependence",Health Maintenance Organization (HMO),0,0,0,7595
+564,F,50-54,White,Not of Hispanic Origin,77301,Tear,Point of Service (POS),765.25,36,0,20384.25
+565,F,55-59,White,Not of Hispanic Origin,77379,"Chondromalacia,Obesity,Hypertension,Sleep_apnea,Bronchitis,Obesity,Postprocedural_examination,Drug_therapy",Point of Service (POS),1497,28060,0,63820
+566,F,70-74,White,Not of Hispanic Origin,77356,"Mitral_valve_insufficiency,Parkinsons_disease,Gastroesophageal_reflux,Arthritis,Hypertension,Lymphedema,Edema,Weakness,Drug_therapy",Medicare Part A,235,0,0,13803
+567,M,50-54,White,Not of Hispanic Origin,77381,"Palpitations,Bundle_branch_block,Hypertension","Charity, Indigent or Unknown",0,0,0,793
+568,F,65-69,White,Not of Hispanic Origin,77070,"Constipation,Hypertension,Diabetes,Nicotine_dependence,Drug_therapy",Medicare Part A,0.25,0,0,2545.25
+569,M,65-69,White,Not of Hispanic Origin,77076,"Stenosis,Pulmonary_disease,Diabetes,Hypertension,Nicotine_dependence,COVID-19",Point of Service (POS),166.75,0,0,9810.75
+570,M,50-54,White,Not of Hispanic Origin,77381,"Hypertension,Anxiety,Rosacea",Commercial Insurance,0,0,0,2545
+571,F,80-84,White,Not of Hispanic Origin,77380,"Sick_sinus_syndrome,Hypertension,Varicose_veins,Drug_therapy,Hormone_replacement_therapy,Heart_disease,Drug_therapy",Medicare Part A,234.5,28566,0,60423.5
+572,M,60-64,Other,Not of Hispanic Origin,77065,"Arthritis,Hypertension,Asthma,Drug_therapy",Blue Cross/Blue Shield,2158.5,28333,0,60139.84
+573,F,45-49,White,Hispanic Origin,77354,"Sprain,Hypertension,Hypercholesterolemia,Nicotine_dependence,Drug_therapy",Health Maintenance Organization,1370,22490,0,53649
+574,M,90+,White,Not of Hispanic Origin,77304,"Atrioventricular_block,Antrioventricular_block ,Syncope,Hypertension,Atherosclerosis,Allergy",Medicare Part A,1334.25,0,0,14625.25
+575,F,80-84,White,Not of Hispanic Origin,77384,"Hypertension,Preprocedural_examination,Arthritis",Medicare Part A,0,0,0,1030
+576,M,50-54,Black,Not of Hispanic Origin,77301,"Extrapyramidal_disorder,Altered_mental_status,Enzyme_level_abnormal,Hypertension,Hypercholesterolemia,Nicotine_dependence,COVID-19",Point of Service (POS),57,0,0,25596
+577,M,45-49,White,Hispanic Origin,77505,"Body_pain,Tachycardia,Asthma,Gastroesophageal_reflux,Hypertension,Hyperlipidemia,Diabetes,Obesity,Allergy,COVID-19,Steroid_use",Commercial Insurance,872.25,0,0,11649.25
+578,M,80-84,Other,Not of Hispanic Origin,77302,"Pulmonary_disease,Hypertension,Atherosclerosis,Nicotine_dependence,COVID-19",Health Maintenance Organization (HMO),78,0,0,10516
+579,F,70-74,White,Not of Hispanic Origin,77356,"Arthritis,Diabetes,Hyperlipidemia,Hypertension,Obesity,Drug_therapy",Health Maintenance Organization (HMO),2071.25,28333,0,56619.25
+580,M,60-64,White,Not of Hispanic Origin,77378,"Atherosclerosis,Hypertension,Pulmonary_disease,Sleep_apnea,Drug_therapy",CHAMPUS,547.75,2319,0,32297.75
+581,F,70-74,White,Not of Hispanic Origin,77384,"Thyrotoxicosis,Thyroid_disorder,Hypertension,Allergy,Drug_therapy,COVID-19",Health Maintenance Organization (HMO),52.25,0,0,13015.25
+582,M,40-44,White,Not of Hispanic Origin,77303,"Headache,Diabetes,Hyperlipidemia,Hypertension,Nicotine_dependence,Obesity,Allergy,Drug_therapy",Medicaid,2205.5,0,0,12199.5
+583,F,50-54,White,Hispanic Origin,77302,"Body_pain,Hypertension,Diabetes,Obesity,Drug_therapy,Allergy","Charity, Indigent or Unknown",491.75,0,0,27734.75
+584,F,65-69,White,Hispanic Origin,77050,"Body_pain,Diabetes,Hypertension,Hypercholesterolemia,Allergy,Drug_therapy",Health Maintenance Organization (HMO),54.5,0,0,2599.5
+585,M,75-79,White,Not of Hispanic Origin,77386,"Contusion,Diabetes,Hypertension,Hyperlipidemia,Nicotine_dependence,Allergy,COVID-19",Medicare Part A,56.25,0,0,9268.25
+586,F,55-59,Black,Not of Hispanic Origin,77090,"COVID-19,Hypertension,Allergy",Point of Service (POS),0,0,0,4235
+587,F,50-54,Other,Hispanic Origin,77306,"Diabetes,Calculus,Abnormal_bleeding,Anemia,Hypertension,Hyperlipidemia,Drug_therapy","Charity, Indigent or Unknown",215.25,0,0,28840.25
+588,F,40-44,White,Not of Hispanic Origin,77327,"Colitis,Dehydration,Fecal_abnormality,Allergy,Hypertension,Hyperlipidemia,Pulmonary_disease",Indemnity Insurance,222,0,0,20815
+589,F,40-44,White,Not of Hispanic Origin,77316,"Myopathy,Hypertension,Nicotine_dependence,Allergy,Nicotine_dependence","Charity, Indigent or Unknown",0.5,0,0,11983.5
+590,F,60-64,White,Not of Hispanic Origin,77301,"Atherosclerosis,Hypertension,Diabetes,Nicotine_dependence,Hyperlipidemia,Vascular_disease,Occlusion,Stenosis,Gastroesophageal_reflux,Esophagitis,Drug_therapy,Postprocedural_examination,Drug_therapy",Health Maintenance Organization (HMO),182.75,3584,0,32463.75
+591,F,65-69,White,Not of Hispanic Origin,77304,"Anxiety,Urticaria,Allergy,Hypertension",Point of Service (POS),0.5,0,0,2545.5
+592,M,65-69,White,Not of Hispanic Origin,77318,"Appendicitis,Leukocytosis,Nicotine_dependence,Hypertension,Anorexia",Health Maintenance Organization (HMO),1309,0,0,21768
+593,M,75-79,Other,Hispanic Origin,77354,"Ear_infection,Diabetes,Hypertension,Drug_therapy",Medicare Part A,74.5,0,0,2930.5
+594,F,75-79,White,Not of Hispanic Origin,77360,"Menopausal_bleeding,Uterus_disorder,Hypertension,Allergy,Drug_therapy",Medicare Part A,0,0,0,2545
+595,M,80-84,White,Not of Hispanic Origin,77382,"Hypertension,Stenosis,Drug_therapy",Health Maintenance Organization (HMO),55.25,0,0,7078.25
+596,M,80-84,White,Not of Hispanic Origin,77304,"Cerebral_ischemia,Heart_disease,Aphasia,Fracture,Hypertension,Drug_therapy",Health Maintenance Organization (HMO),151,0,0,23125
+597,M,55-59,Other,Not of Hispanic Origin,77382,"Atherosclerosis,Angina,Hypertension,Hyperlipidemia,Fatty_liver,Drug_therapy",Point of Service (POS),158.75,1028,0,27653.75
+598,M,70-74,White,Hispanic Origin,77301,"Tear,Arthritis,Chondromalacia,Hypertension,Nicotine_dependence",Medicare Part A,843.5,36,0,15925.5
+599,F,80-84,Black,Not of Hispanic Origin,70520,"Atherosclerosis,Angina,Prosthetic_heart_valve,Drug_therapy,Atrial_fibrillation,Diabetes,Hypertension,Allergy,COVID-19",Medicare Part A,0,0,0,9004
+600,F,80-84,White,Hispanic Origin,75801,"Tear,Impingement,Shoulder_strain,Arthritis,Tendinitis,Chondromalacia,Thyroid_disorder,Hypertension,Hypercholesterolemia",Health Maintenance Organization (HMO),1137.75,72,0,18384.75
+601,F,65-69,White,Not of Hispanic Origin,77340,"Arthritis,Hypertension,Asthma,Thyroid_disorder,Sleep_apnea,Hormone_replacement_therapy,Drug_therapy",Health Maintenance Organization (HMO),1494.75,36966,0,69265.75
+602,F,65-69,White,Not of Hispanic Origin,77356,"Fracture,Trigger_finger,Hypertension,Gastroesophageal_reflux,Drug_therapy",Medicare Part A,1192.5,13669,0,34657.5
+603,M,65-69,White,Not of Hispanic Origin,77304,"Carpal_tunnel_syndrome,Hypertension,Drug_therapy",Health Maintenance Organization (HMO),606.75,72,0,13716.75
+604,F,40-44,White,Not of Hispanic Origin,77328,Hypertension,"Charity, Indigent or Unknown",0,0,0,793
+605,F,60-64,White,Not of Hispanic Origin,77355,"Embolism,Pulmonary_disease,Hypertension,Nicotine_dependence,COVID-19",Point of Service (POS),0,0,0,9185
+606,F,65-69,White,Not of Hispanic Origin,77044,"Fracture,Hypertension,Hypercholesterolemia,Nicotine_dependence,Drug_therapy",Health Maintenance Organization (HMO),1545.25,16364,0,58695.25
+607,M,80-84,White,Hispanic Origin,77356,"Ventricular_premature_contraction,Hypertension,Thyroid_disorder,Gastroesophageal_reflux,Atherosclerosis,Myocardial_infarction,Hyperlipidemia,Hyperplasia,Allergy,Stenosis,Nicotine_dependence",Health Maintenance Organization (HMO),58.75,27463,0,50910.75
+608,F,50-54,White,Not of Hispanic Origin,77379,"Body_pain,Hyponatremia,Diabetes,Hypertension,Allergy,COVID-19",Preferred Provider Organization (PPO),221,0,0,22421
+609,M,65-69,Black,Not of Hispanic Origin,77388,"Arthritis,Hypertension,Hyperlipidemia,Erectile_dysfunction,Nicotine_dependence,Obesity,Artificial_hip_joint,Drug_therapy",Health Maintenance Organization (HMO),1661.5,37647,0,73806.5
+610,F,75-79,White,Not of Hispanic Origin,77073,"Headache,Hypertension",Medicare Part A,0,0,0,4003
+611,M,45-49,White,Not of Hispanic Origin,77379,"Abnormal_cardiovascular_function,Body_pain,Hypertension",Point of Service (POS),182.75,700,0,28537.75
+612,M,70-74,White,Not of Hispanic Origin,77388,"Stenosis,Hypertension,Radiculopathy,Prediabetes,Drug_therapy",Medicare Part A,1335.25,321,0,33456.25
+613,F,55-59,Black,Not of Hispanic Origin,77373,"Tear,Chondromalacia,Body_pain,Cervical_disc_displacement,Hypertension,Gastroesophageal_reflux,Esophagitis,Nicotine_dependence,Drug_therapy",Health Maintenance Organization,633.25,36,0,14550.25
+614,F,55-59,White,Not of Hispanic Origin,77382,"Meniscal_derangement,Chondromalacia,Fracture,Plica_syndrome,Arthritis,Gastroesophageal_reflux,Esophagitis,Hypercholesterolemia,Allergy,Hernia,Cervical_disc_disorder,ProteinC_resistance",Point of Service (POS),885.25,19908,0,37400.25
+615,F,60-64,White,Not of Hispanic Origin,77379,"Arthritis,Hypertension,Diabetes,Thyroid_disorder,Drug_therapy",Blue Cross/Blue Shield,1977.5,42425,0,70940.5
+616,M,75-79,White,Hispanic Origin,77382,"Arthritis,Chondromalacia,Hypertension,Hyperlipidemia,Hyperplasia,Gastroesophageal_reflux,Osteoporosis,Atherosclerosis,Drug_therapy","Charity, Indigent or Unknown",1590.75,50659,0,86353.12
+617,F,70-74,White,Not of Hispanic Origin,77386,"Arthritis,Chondromalacia,Atrial_fibrillation,Hypertension,Hypercholesterolemia,Thyroid_disorder,Nicotine_dependence,Drug_therapy",Medicare Part A,1906,42774,0,78799
+618,M,55-59,White,Not of Hispanic Origin,77365,"Stenosis,Claudication,Hypertension,Hypercholesterolemia,Drug_therapy,Nicotine_dependence",Preferred Provider Organization (PPO),1894.25,74545,0,115471.25
+619,M,80-84,White,Not of Hispanic Origin,77304,"Infarction,Kidney_failure,Atherosclerosis,Diabetes,Hypertension,Hypercholesterolemia",Medicare Part A,265,0,0,18426
+620,F,55-59,White,Not of Hispanic Origin,77316,"Tear,Chondromalacia,Arthritis,Hypertension,Sleep_apnea,Asthma",Medicaid,894.5,36,0,15170.5
+621,M,45-49,White,Not of Hispanic Origin,77301,"Body_pain,Asthma,Nicotine_dependence,Hypertension",Health Maintenance Organization (HMO),52.75,0,0,2878.75
+622,F,60-64,White,Not of Hispanic Origin,77302,"Atherosclerosis,Hypercholesterolemia,Hypertension,Myocardial_infarction,Heart_disease,Drug_therapy",Blue Cross/Blue Shield,282.75,21161,0,76556.75
+623,M,65-69,White,Not of Hispanic Origin,77357,"Hematuria,Hypertension,Diabetes,Body_pain,Nicotine_dependence",Health Maintenance Organization (HMO),0,0,0,18703
+624,F,60-64,White,Not of Hispanic Origin,77380,"Bursal_cyst,Radiculopathy,Claudication,Meningeal_adhesions,Hyperlipidemia,Hypertension,Diabetes,Sleep_apnea,Asthma,Thyroid_disorder,Atrial_fibrillation,Atrial_flutter",CHAMPUS,2061.25,2468,0,29737.25
+625,M,60-64,White,Not of Hispanic Origin,77066,"Stenosis,Cervical_disc_disorder,Radiculopathy,Osteophyte,Hypertension,Hypercholesterolemia,Hyposmolality,Hyponatremia,Drug_therapy,Arthrodesis,Nicotine_dependence",Point of Service (POS),2181,43021,0,89935.12
+626,F,55-59,White,Not of Hispanic Origin,77380,"Dizziness,Hypertension",Preferred Provider Organization (PPO),912.75,0,0,12056.75
+627,M,65-69,Other,Hispanic Origin,77377,"Body_pain,Hypertension,Drug_therapy",Health Maintenance Organization (HMO),0,0,0,5762
+628,F,80-84,White,Not of Hispanic Origin,77303,"Infarction,Embolism,Atrial_fibrillation,Hyperlipidemia,Hypertension,Bradycardia,Stenosis,Atherosclerosis,Claudication,Restless_legs_syndrome,Bundle_branch_block,Drug_therapy,Nicotine_dependence,Vascular_disease",Health Maintenance Organization (HMO),54.75,27463,0,50906.75
+629,F,90+,White,Not of Hispanic Origin,77304,"Arthritis,Hypertension,Nicotine_dependence",Medicare Part A,246,0,0,3698
+630,F,75-79,White,Not of Hispanic Origin,77328,"Carpal_tunnel_syndrome,Hypertension,Atrial_fibrillation,Diabetes,Thyroid_disorder,Postprocedural_examination,Drug_therapy,Insulin_use,Hormone_replacement_therapy,Drug_therapy",Health Maintenance Organization (HMO),497.25,321,0,12296.25
+631,M,65-69,White,Not of Hispanic Origin,77389,"Atrial_fibrillation,Hypertension,Gastroesophageal_reflux,Aortic_aneurysm,Drug_therapy",Medicare Part A,141.75,0,0,12224.75
+632,M,75-79,White,Not of Hispanic Origin,77356,"Bursitis,Hypertension",Health Maintenance Organization,1561.25,82026,0,120775.25
+633,F,65-69,White,Not of Hispanic Origin,77353,"Arthritis,Gastroesophageal_reflux,Hypertension,Thyroid_disorder,Asthma",Point of Service (POS),1722.5,43260,0,75557.5
+634,M,60-64,White,Not of Hispanic Origin,77304,"Stenosis,Claudication,Atrial_fibrillation,Sleep_apnea,Arthritis,Hypertension,COVID-19,Drug_therapy,Hyperlipidemia,Drug_therapy",Point of Service (POS),1543.75,977,0,28561.75
+635,M,55-59,White,Not of Hispanic Origin,77301,"Aortic_valve_rheumatic_disorders,Atherosclerotic,Hypertension,Diabetes,Hyperlipidemia,Sleep_apnea,Obesity,COVID-19,Obesity,Drug_therapy",Point of Service (POS),715.25,2681,0,46880.25
+636,F,65-69,White,Not of Hispanic Origin,77303,"Body_pain,Sprain,Body_pain,Diabetes,Hyperlipidemia,Hypertension,COVID-19,Hypoglycemic_drug_use,Drug_therapy",Point of Service (POS),304,0,0,11755
+637,M,60-64,White,Not of Hispanic Origin,77384,"Enthesopathy,Hypertension",Medicare Part A,0,0,0,2545
+638,F,65-69,Other,Hispanic Origin,88888,"Conjunctivitis,Hypertension,Drug_therapy","Charity, Indigent or Unknown",0,0,0,1266
+639,F,50-54,Black,Not of Hispanic Origin,77090,"Body_pain,Nausea,Hypertension,Diabetes,Abscess,Allergy,Drug_therapy",Health Maintenance Organization (HMO),907.25,0,0,21818.25
+640,M,50-54,White,Not of Hispanic Origin,77380,"Body_pain,Sjogren_syndrome,Leukemia,Hypertension,Thyroid_disorder,Drug_therapy,Allergy,Hormone_replacement_therapy,Drug_therapy",Health Maintenance Organization (HMO),0.25,0,0,9380.25
+641,M,60-64,White,Not of Hispanic Origin,77381,"Joint_disorders,Shoulder_strain,Contusion,Hypertension,Allergy",Preferred Provider Organization (PPO),0,0,0,2545
+642,F,60-64,Other,Hispanic Origin,77378,"Knee_injury ,Hypertension,Drug_therapy",Commercial Insurance,0,0,0,4201
+643,F,50-54,White,Not of Hispanic Origin,77365,"Bronchitis,Nicotine_dependence,Pulmonary_disease,Diabetes,Hypertension,Drug_therapy,COVID-19",Commercial Insurance,0,0,0,3205
+644,M,75-79,White,Not of Hispanic Origin,77384,"Laceration,Hypertension,Hypercholesterolemia,Asthma,Atherosclerotic,Gastroesophageal_reflux,Nicotine_dependence,Drug_therapy,Hormone_replacement_therapy",Medicare Part A,51.25,0,0,1731.25
+645,F,40-44,White,Not of Hispanic Origin,77373,"Hypertension,Asthma,Obesity,Allergy",Point of Service (POS),0.25,0,0,4532.25
+646,F,50-54,White,Not of Hispanic Origin,77365,"Diabetes,Dehydration,Asthma,Pulmonary_disease,Hypertension,Nicotine_dependence,Rash,Nicotine_dependence,Obesity,Tachycardia,Steroid_use,Drug_therapy",Commercial Insurance,1135.5,0,0,8499.5
+647,F,50-54,Black,Not of Hispanic Origin,77090,"Body_pain,Bundle_branch_block,Diabetes,Hypertension,Obesity,Allergy",Health Maintenance Organization (HMO),501.75,0,0,23004.75
+648,F,70-74,White,Not of Hispanic Origin,77380,Hypertension,Medicare Part A,0,0,0,793
+649,M,65-69,White,Not of Hispanic Origin,77316,"Hypertension,Ventricular_premature_contraction,Hyperlipidemia,Cerebral_aneurysm,Abnormal_cardiovascular_function",Medicare Part A,0,0,0,793
+650,F,50-54,White,Not of Hispanic Origin,77320,"Arthritis,Chondromalacia,Hypertension,Thyroid_disorder,Hypercholesterolemia,Nicotine_dependence",Blue Cross/Blue Shield,1705.75,33146,0,62533.75
+651,F,70-74,White,Not of Hispanic Origin,77372,"Fracture,Hypertension,Hypercholesterolemia,Gastroesophageal_reflux,Nicotine_dependence,Drug_therapy",Medicare Part A,926.25,13540,0,36317.25
+652,F,75-79,White,Not of Hispanic Origin,77302,"Palpitations,Hypertension",Medicare Part A,0,0,0,9065
+653,F,40-44,White,Not of Hispanic Origin,77306,"Body_pain,Hypertension,Diabetes,Thyroid_disorder,Allergy,Drug_therapy,Hormone_replacement_therapy,Drug_therapy,COVID-19",Health Maintenance Organization (HMO),215.75,0,0,16484.75
+654,M,65-69,White,Hispanic Origin,77090,"Arthritis,Hypertension,Hyperlipidemia,Parkinsons_disease,Atherosclerosis,Drug_therapy",Health Maintenance Organization (HMO),1510.5,37149,0,71208.5
+655,F,75-79,Black,Not of Hispanic Origin,77090,"Pacemaker_use,Sick_sinus_syndrome,Atherosclerotic,Hypertension,Alzheimers_disease,Dementia,Stroke,Infarction",Medicare Part A,94.5,107338,0,138158.5
+656,M,70-74,White,Not of Hispanic Origin,77532,"Tendinitis,Arthritis,Chondromalacia,Hypertension,Atherosclerosis,Hypercholesterolemia,Glaucoma,Postprocedural_examination,Drug_therapy",Health Maintenance Organization (HMO),1042,36,0,23601
+657,F,75-79,White,Not of Hispanic Origin,77382,"Abnormal_cardiovascular_function,Arthritis,Hyperlipidemia,Hypertension,Neoplasm,Drug_therapy",Medicare Part A,120,1779,0,30380
+658,F,75-79,White,Not of Hispanic Origin,77384,"Epistaxis,Hypertension,Hyperlipidemia,Allergy",Medicare Part A,0,0,0,2545
+659,F,45-49,White,Hispanic Origin,77073,"Abdominal_swelling,Hyperlipidemia,Hypertension,Drug_therapy",Point of Service (POS),61.75,0,0,6191.75
+660,M,75-79,White,Not of Hispanic Origin,77354,"Trigger_finger,Atherosclerotic,Hypertension,Diabetes,Hyperlipidemia,Gout,Obesity,Nicotine_dependence",Medicare Part A,137.25,36,0,8138.25
+661,F,65-69,White,Not of Hispanic Origin,77346,"Fracture,Hypertension,Restless_legs_syndrome,Osteoporosis,Arthritis,Thyroid_disorder,Sleep_apnea,Hormone_replacement_therapy,Drug_therapy",Indemnity Insurance,1496.5,111733,0,146885.5
+662,F,45-49,White,Not of Hispanic Origin,77328,"Arthritis,Hypertension,Nicotine_dependence,Drug_therapy",Health Maintenance Organization,2164.5,32142,0,57927.5
+663,M,65-69,White,Not of Hispanic Origin,77373,"Body_pain,Stenosis,Claudication,Arthrodesis,Hypertension,Nicotine_dependence, Nicotine_dependence",Medicare Part A,172.75,0,0,6754.75
+664,M,45-49,Other,Hispanic Origin,77381,"Pancreatitis,Diabetes,Alkalosis,Hypertension,Hyperlipidemia,COVID-19",Commercial Insurance,1553.75,0,0,29471.75
+665,M,75-79,White,Not of Hispanic Origin,74055,"Tendon_rupture,Hypertension,Drug_therapy",Medicare Part A,828.75,8986,0,34027.75
+666,M,70-74,White,Hispanic Origin,77357,"Arthritis,Hypertension,Hypercholesterolemia,Gastroesophageal_reflux,Hyperplasia,Nicotine_dependence,Artificial_knee_joint,Drug_therapy",Health Maintenance Organization (HMO),1696.5,31712,0,60992.97
+667,F,60-64,White,Hispanic Origin,77328,"Arthritis,Hyperlipidemia,Hypertension,Esophagitis,Diabetes,Tear,Drug_therapy,Hypoglycemic_drug_use,Steroid_use",Preferred Provider Organization (PPO),1259.25,38371,0,72695.25
+668,M,65-69,White,Not of Hispanic Origin,77318,"Aortic_valve_rheumatic_disorders,Hypertension,Kidney_disease,Thyroid_disorder,Atherosclerosis,Aortic_aneurysm,Drug_therapy,Nicotine_dependence",Medicare Part A,209.5,0,0,12957.5
+669,M,50-54,Asian or Pacific Islander,Not of Hispanic Origin,77380,"Angina,Hyperlipidemia,Hypertension,Diabetes,Hyposmolality,Hyponatremia,Sleep_apnea,Hemiplegia,Hemiparesis,Infarction,COVID-19,Drug_therapy",Indemnity Insurance,19.25,0,0,12437.98
+670,M,65-69,White,Not of Hispanic Origin,77304,"Atrial_fibrillation,Atrial_flutter,COVID-19,Hypertension,Sleep_apnea,Atherosclerotic,Hyperlipidemia,Nicotine_dependence,Drug_therapy",Health Maintenance Organization (HMO),141.75,0,0,10172.75
+671,F,55-59,White,Not of Hispanic Origin,77378,"Hypertension,Atrophy,Kidney_disease",Blue Cross/Blue Shield,0,0,0,4592
+672,F,75-79,White,Not of Hispanic Origin,77316,"Body_pain,Bypass_graft",Health Maintenance Organization (HMO),857.25,322,0,17109.25
+673,M,65-69,White,Not of Hispanic Origin,77378,"Atherosclerosis,Hypertension,Atrial_fibrillation,Bundle_branch_block,Drug_therapy",Medicare Part A,120,2407,0,19467
+674,M,60-64,White,Not of Hispanic Origin,77386,"Atherosclerosis,Hypertension,Sleep_apnea,Hyperlipidemia,Nicotine_dependence,Aspiration",Preferred Provider Organization (PPO),182.75,1207,0,30015.75
+675,M,55-59,White,Not of Hispanic Origin,77318,"Atrial_fibrillation,Hypertension,Hyperlipidemia,Sleep_apnea,Prediabetes,Hyperplasia,Nicotine_dependence,Drug_therapy",Point of Service (POS),141.75,0,0,10207.75
+676,F,80-84,White,Not of Hispanic Origin,77381,"Atrial_fibrillation,Hyperlipidemia,Arthritis,Dorsalgia,Hypertension,Drug_therapy",Health Maintenance Organization (HMO),141.75,0,0,10056.75
+677,F,65-69,White,Not of Hispanic Origin,77385,"Stenosis,Spondylosis,Atherosclerotic,Hypercholesterolemia,Antiphospholipid_syndrome,Vascular_disease,Asthma,Hypertension,Atherosclerosis,Postprocedural_examination,COVID-19",Point of Service (POS),1573,32601,0,70350.51
+678,M,70-74,White,Not of Hispanic Origin,78940,"Stenosis,Claudication,Postlaminectomy_syndrome,Spondylolisthesis,Claudication,Radiculopathy,Hypertension,Body_pain,Sciatica,Sleep_apnea",Medicare Part A,1687.75,136384,0,175657.75
+679,F,50-54,Black,Not of Hispanic Origin,77386,"Diabetes,Obesity,Nicotine_dependence,Hypertension",Health Maintenance Organization (HMO),917,0,0,6742
+680,M,60-64,White,Not of Hispanic Origin,77389,"Stenosis,Atrial_fibrillation,Hypertension,Diabetes,Hyperlipidemia,Gastroesophageal_reflux,Sleep_apnea,Gout,Drug_therapy",CHAMPUS,189.5,0,0,16058.5
+681,M,75-79,White,Not of Hispanic Origin,77365,"Arthritis,Prediabetes,Atherosclerosis,Hyperlipidemia,Hypertension,Myocardial_infarction,Drug_therapy,Nicotine_dependence,Atherosclerosis",Health Maintenance Organization (HMO),1795.5,27606,0,56876.5
+682,M,65-69,White,Not of Hispanic Origin,77389,"Wound,Hypertension,Nicotine_dependence",Veteran Administration Plan,0,0,0,1266
+683,M,65-69,White,Not of Hispanic Origin,77389,"Arthritis,Hypertension,Drug_therapy",Health Maintenance Organization (HMO),246,0,0,3479
+684,F,75-79,White,Not of Hispanic Origin,77381,"Stenosis,Hypertension,Nicotine_dependence",Health Maintenance Organization (HMO),154,0,0,10568
+685,F,70-74,White,Not of Hispanic Origin,77356,"Trigger_finger,Hypertension,Thyroid_disorder,Sleep_apnea,Obesity,Sjogren_syndrome,Infarction,Obesity,Arthrodesis,Postprocedural_examination",Medicare Part A,553.25,36,0,13617.25
+686,F,65-69,White,Hispanic Origin,77389,"Arthritis,Hypertension,Thyroid_disorder,Intervertebral_disc_degeneration,Claudication,Drug_therapy",Health Maintenance Organization,1799,32976,0,61779
+687,M,75-79,White,Hispanic Origin,77429,"Tear,Chondromalacia,Arthritis,Hypertension,Diabetes,Hyperlipidemia,Insulin_use,Drug_therapy",Medicare Part A,772.5,36,0,15379.5
+688,M,80-84,White,Not of Hispanic Origin,77357,"Body_pain,Asthma,Hyperlipidemia,Hypertension,Myocardial_infarction,Pneumonia,Nicotine_dependence",Health Maintenance Organization (HMO),0,0,0,8539
+689,F,50-54,Black,Not of Hispanic Origin,77091,"Arthritis,Hypertension,Tachycardia,Anemia,Drug_therapy",Point of Service (POS),2052.75,32249,0,58940.75
+690,F,60-64,White,Not of Hispanic Origin,77355,"Atrial_fibrillation,Mitral_valve_insufficiency,Hypertension,Gout,Nicotine_dependence,Heart_disease,Drug_therapy",Point of Service (POS),141.75,0,0,13430.75
+691,F,80-84,White,Not of Hispanic Origin,77301,"Cystitis,Hypomagnesemia,Syncope,Hypertension,Diabetes,Hyperlipidemia,Allergy,Drug_therapy,COVID-19",Health Maintenance Organization (HMO),2076.75,0,0,16339.75
+692,M,45-49,Asian or Pacific Islander,Not of Hispanic Origin,88888,"COVID-19,Hypertension,Tachycardia",Medicaid,0,0,0,4812
+693,F,50-54,White,Not of Hispanic Origin,77378,"Body_pain,Goiter,Hypertension,Diabetes,Nicotine_dependence, Nicotine_dependence,Allergy,Drug_therapy",Point of Service (POS),0.75,0,0,9119.75
+694,F,80-84,White,Not of Hispanic Origin,77301,"Body_pain,Hypertension,Migraine,Arthritis,Allergy,Drug_therapy",Health Maintenance Organization (HMO),51.75,0,0,9442.75
+695,F,45-49,Asian or Pacific Islander,Not of Hispanic Origin,77385,"Nausea,Dizziness,Leukocytosis,Diabetes,Obesity,Hypertension,Hypercholesterolemia",Preferred Provider Organization (PPO),1253.5,0,0,20852.5
+696,F,50-54,Asian or Pacific Islander,Not of Hispanic Origin,77385,"Hypertension,ECG_abnormal,Allergy",Preferred Provider Organization (PPO),0,0,0,6329
+697,F,60-64,Black,Not of Hispanic Origin,77301,"Body_pain,ECG_abnormal,Blood_chemistry_abnormal,Hypertension,Hyperlipidemia,Gastroesophageal_reflux,Obesity,COVID-19",Blue Cross/Blue Shield,1375.25,0,0,19844.25
+698,F,65-69,White,Not of Hispanic Origin,77378,"Arthritis,Hypertension,Asthma,ADHD,Drug_therapy",Health Maintenance Organization (HMO),2136.25,32976,0,60245.25
+699,M,70-74,White,Not of Hispanic Origin,77365,"Arthritis,Hypertension,Osteophyte,COVID-19,Drug_therapy",Health Maintenance Organization (HMO),1860.75,28333,0,58933.75
+700,F,55-59,White,Not of Hispanic Origin,77328,"Gastritis,Atherosclerotic,Gastroesophageal_reflux,Hypertension,Drug_therapy,Allergy",Point of Service (POS),430.75,0,0,18354.75
+701,M,45-49,Black,Not of Hispanic Origin,77373,"Arthritis,Hypertension,Nicotine_dependence,Drug_therapy",Point of Service (POS),2230.75,22111,0,53787.75
+702,F,65-69,White,Not of Hispanic Origin,77346,"Arthritis,Left_bundle-branch_block,Hypertension,Hypercholesterolemia,Gastroesophageal_reflux",Health Maintenance Organization (HMO),2012.25,30392,0,57650.25
+703,F,75-79,White,Not of Hispanic Origin,77316,"Body_pain,Hypoosmolality,Hyponatremia,Sacrococcygeal_disorders,Atherosclerotic,Atherosclerosis,Gastroesophageal_reflux,Hypercholesterolemia,Hyperlipidemia,Hypertension,Drug_therapy,Allergy",Health Maintenance Organization (HMO),162.5,0,0,11768.5
+704,F,65-69,White,Not of Hispanic Origin,77360,"Arthritis,Shoulder_strain,Pulmonary_disease,Hypercholesterolemia,Hypertension,Raynauds_syndrome,Prediabetes,Osteoporosis,Drug_therapy,Artificial_shoulder_joint,Artificial_hip_joint",Health Maintenance Organization (HMO),1383.75,85096,0,118265.75
+705,M,60-64,Black,Not of Hispanic Origin,77073,"Hemorrhage,Hypertension,Hyperlipidemia,Drug_therapy",Health Maintenance Organization,1222,0,0,19410
+706,M,45-49,White,Hispanic Origin,77302,"Diabetes,Ulcer,Hypertension,Allergy,Insulin_use,Hypoglycemic_drug_use,Drug_therapy",Health Maintenance Organization,1.25,0,0,5030.25
+707,M,55-59,White,Not of Hispanic Origin,77373,"Colitis,Melena,Gastroesophageal_reflux,Hypertension,Drug_therapy,COVID-19",Point of Service (POS),1316.5,0,0,22990.5
+708,F,60-64,Black,Not of Hispanic Origin,77379,"Hypertension,Asthma,Gastroesophageal_reflux",Blue Cross/Blue Shield,0,389,0,12654
+709,M,75-79,White,Not of Hispanic Origin,77306,"Arthritis,Hypertension,Hypercholesterolemia,Drug_therapy,Neoplasm",Medicare Part A,1762.5,38407,0,74803.88
+710,F,75-79,White,Not of Hispanic Origin,77345,"Arthritis,Atrial_fibrillation,Hypertension,Restless_legs_syndrome,Drug_therapy",Health Maintenance Organization (HMO),2304.75,32976,0,58158.75
+711,F,55-59,White,Not of Hispanic Origin,77318,"Rotator_strain,Hypertension,Impingement,COVID-19,Enthesopathy",Point of Service (POS),1534,6596,0,32338
+712,F,55-59,White,Not of Hispanic Origin,77076,"Effusion,Hypertension,Diabetes,Obesity,COVID-19,Insulin_use,Drug_therapy,Allergy",Health Maintenance Organization,0,0,0,3832
+713,M,60-64,White,Not of Hispanic Origin,77384,"Body_pain,Hypertension",Medicare Part A,0,0,0,2545
+714,F,75-79,White,Not of Hispanic Origin,77384,"Sprain,Hypertension,Hyperlipidemia,Thyroid_disorder,Hormone_replacement_therapy,Drug_therapy,Allergy",Health Maintenance Organization (HMO),52,0,0,3792
+715,M,60-64,White,Not of Hispanic Origin,77318,"Mitral_valve_insufficiency,Hypertension,Pneumonia,Nicotine_dependence,Heart_disease,Pulmonary_disease,Drug_therapy,Steroid_use",Blue Cross/Blue Shield,141.75,0,0,12691.75
+716,F,75-79,White,Not of Hispanic Origin,77389,"Atrial_fibrillation,Hypertension,Drug_therapy,Heart_disease",Medicare Part A,141.75,0,0,17847.75
+717,F,75-79,White,Not of Hispanic Origin,77373,"Asthma,Hypertension,Atherosclerosis","Charity, Indigent or Unknown",0,0,0,793
+718,M,45-49,White,Not of Hispanic Origin,77303,"Body_pain,Hypertension,Nicotine_dependence",Preferred Provider Organization (PPO),0,0,0,9680
+719,F,55-59,White,Not of Hispanic Origin,77327,"Arthritis,Chondromalacia,Hypertension,Hypercholesterolemia,Pulmonary_disease,Obesity,Nicotine_dependence,Drug_therapy",Medicaid,1605.25,33146,0,63775.25
+720,M,45-49,White,Not of Hispanic Origin,77320,"Edema,Hypertension,Asthma,Obesity",Preferred Provider Organization (PPO),50.75,0,0,11142.75
+721,M,60-64,White,Not of Hispanic Origin,77375,"Ear_infection,Atherosclerosis,Diabetes,Hypertension,Nicotine_dependence",Health Maintenance Organization,0,0,0,1266
+722,M,70-74,White,Not of Hispanic Origin,77356,"Atherosclerosis,Hypertension,Gastroesophageal_reflux,Sleep_apnea,Hyperlipidemia,Nicotine_dependence,COVID-19,Postprocedural_examination,Drug_therapy,Atrial_fibrillation",Medicare Part A,182.75,1092,0,29897.75
+723,M,70-74,White,Not of Hispanic Origin,77304,"Carpal_tunnel_syndrome,Hypertension,Gout,Obesity,Postprocedural_examination",Point of Service (POS),777.25,72,0,12305.25
+724,F,85-89,White,Not of Hispanic Origin,77384,"Stenosis,Spondylosis,Dorsopathy,Walking_difficulty,Hypertension,Nicotine_dependence,Drug_therapy",Medicare Part A,127.75,0,0,10541.75
+725,M,75-79,White,Not of Hispanic Origin,77389,"Atherosclerosis,Diabetes,Hyperlipidemia,Hypertension,Atrial_fibrillation,Aortic_valve_rheumatic_disorders,Heart_disease,Aortic_aneurysm,Varicose_veins,Infarction,Stroke,Drug_therapy",Health Maintenance Organization (HMO),182.75,2022,0,30830.75
+726,F,80-84,White,Not of Hispanic Origin,77302,"Atherosclerotic,Gastroesophageal_reflux,Osteoporosis,Hypercholesterolemia,Arthritis,Neuropathy,Hypertension,Neoplasm,Drug_therapy",Health Maintenance Organization (HMO),182.75,1779,0,30442.75
+727,M,85-89,White,Not of Hispanic Origin,77362,"Fracture,Effusion,Pulmonary_disease,Hypertension,Thyroid_disorder,Hypolipidemia,Hyperlipidemia,Gastroesophageal_reflux,Stroke,Infarction,Nicotine_dependence,Steroid_use,Drug_therapy",Health Maintenance Organization (HMO),3,0,0,9706
+728,M,65-69,Black,Not of Hispanic Origin,77301,"Body_pain,Hypertension,Hyperlipidemia,Diabetes,Infarction,Stroke,Nicotine_dependence,Hypoglycemic_drug_use,Drug_therapy",Health Maintenance Organization (HMO),0,0,0,7854
+729,F,40-44,White,Not of Hispanic Origin,77338,"Fracture,Hypertension,Rhinitis,Gastroesophageal_reflux,Sleep_apnea,Drug_therapy,Infarction",Blue Cross/Blue Shield,1500.75,14393,0,43668.75
+730,F,50-54,White,Not of Hispanic Origin,77388,"Cervical_disc_disorder,Radiculopathy,Spondylosis,Myelopathy,Hypertension,Arthritis,Obesity",Commercial Insurance,1940.5,24166,0,81173.75
+731,F,45-49,White,Not of Hispanic Origin,77354,"Hypertension,Headache,Diabetes,Thyroid_disorder,Hyperlipidemia,Drug_therapy,Hormone_replacement_therapy",Point of Service (POS),162.75,0,0,11034.75
+732,F,75-79,White,Not of Hispanic Origin,77384,"Hyperlipidemia,Hypertension,Amnesia",Medicare Part A,0,0,0,4772
+733,M,60-64,White,Not of Hispanic Origin,77381,"Abnormal_cardiovascular_function,Atherosclerosis,Stenosis,Aortic_aneurysm,Atherosclerosis,Hypertension,Hypercholesterolemia,Myocardial_infarction,Atherosclerosis,Neoplasm",Point of Service (POS),120,2101,0,30702
+734,M,60-64,White,Not of Hispanic Origin,77301,Contusion,Point of Service (POS),0,0,0,12790
+735,M,80-84,White,Not of Hispanic Origin,77375,"Body_pain,Atherosclerosis,Diabetes,Hypertension,Nicotine_dependence,Drug_therapy",Health Maintenance Organization (HMO),206,0,0,15224
+736,M,75-79,White,Not of Hispanic Origin,77356,"Atrial_fibrillation,Hypertension,Hyperlipidemia,Atherosclerosis,Drug_therapy",Medicare Part A,141.75,0,0,10074.75
+737,F,65-69,White,Not of Hispanic Origin,77373,"Urinary_tract_infection,Hematuria,Atrial_fibrillation,Hypertension,Obesity,Drug_therapy,Allergy,Drug_therapy",Medicare Part A,0,0,0,3262
+738,F,75-79,White,Hispanic Origin,77385,"Abscess,Hypertension,Diabetes,Drug_therapy,Nicotine_dependence",Health Maintenance Organization (HMO),0,0,0,2545
+739,M,65-69,White,Hispanic Origin,77372,"Conjunctivitis,Neuralgia,Diabetes,Hyperlipidemia,Hypertension,Drug_therapy",Health Maintenance Organization (HMO),0.25,0,0,2545.25
+740,F,65-69,White,Not of Hispanic Origin,77386,"Fracture,Injury,Hypertension,Immunization,Allergy",Point of Service (POS),239.25,0,0,8136.25
+741,F,60-64,White,Not of Hispanic Origin,77378,"Contusion,Diabetes,Neuropathy,COPD,Gastroesophageal_reflux,Hypercholesterolemia,Hypertension,Drug_therapy,Allergy,Narcotic_analgesic_use",Health Maintenance Organization,0.5,0,0,5119.5
+742,F,50-54,Black,Not of Hispanic Origin,77382,"Body_pain,Asthma,Hypertension,Drug_therapy,Allergy",Point of Service (POS),152.25,0,0,24102.25
+743,F,80-84,White,Not of Hispanic Origin,77304,"Body_pain,Hypertension,Thyroid_disorder,Hypercholesterolemia,Allergy,Nicotine_dependence",Medicare Part A,0,0,0,7094
+744,F,70-74,White,Hispanic Origin,77429,"Hypertension,Hyperlipidemia,Body_pain",Medicare Part A,20,1356,0,16580
+745,F,80-84,White,Not of Hispanic Origin,77381,"Atrial_fibrillation,Hypertension,Arthritis,Thyroid_disorder,Gastroesophageal_reflux,Lupus,Prosthetic_heart_valve,COVID-19,Drug_therapy,Hormone_replacement_therapy,Steroid_use",Health Maintenance Organization (HMO),233.75,0,0,12910.75
+746,M,55-59,White,Not of Hispanic Origin,77303,"Hypertension,Heart_disease,Circulatory_system_disease",Preferred Provider Organization (PPO),0,0,0,793
+747,M,75-79,White,Not of Hispanic Origin,77384,"Stenosis,Spinal_cord_disease,COVID-19,Hypertension,Hyperlipidemia,Drug_therapy",Preferred Provider Organization (PPO),2716,58159,0,145321.93
+748,F,50-54,Asian or Pacific Islander,Not of Hispanic Origin,77386,"Body_pain,Hypertension,Drug_therapy",Point of Service (POS),3.5,0,0,8542.5
+749,M,80-84,White,Not of Hispanic Origin,77384,"Arthritis,Edema,Hypertension,Hyperlipidemia,Nicotine_dependence,Drug_therapy",Health Maintenance Organization (HMO),1515.25,41016,0,71772.25
+750,F,75-79,White,Not of Hispanic Origin,77316,"Arthritis,Hypertension,Diabetes",Health Maintenance Organization (HMO),1316.5,49076,0,79541.5
+751,M,75-79,White,Not of Hispanic Origin,77379,"Mitral_valve_insufficiency,Stenosis,Syncope,Asthma,Hypertension,Hyperlipidemia,Gastroesophageal_reflux,Thyroid_disorder,Sleep_apnea,Neoplasm,Stroke,Infarction",Medicare Part A,141.75,0,0,12821.75
+752,F,50-54,White,Not of Hispanic Origin,77304,"Carpal_tunnel_syndrome,Upper_limb_malformation,Trigger_finger,Hypertension,Hypercholesterolemia,Drug_therapy",Preferred Provider Organization (PPO),855,72,0,14178
+753,F,85-89,White,Not of Hispanic Origin,77351,"Trigger_finger,Hypertension,Thyroid_disorder,Hypercholesterolemia,Asthma,Atrial_fibrillation,Body_pain,Arthritis,Osteoporosis,Nicotine_dependence",Medicare Part A,137.5,36,0,11722.5
+754,M,70-74,White,Not of Hispanic Origin,77433,"Atherosclerosis,Hypertension,Thyroid_disorder,Hyperplasia,Hyperlipidemia,Glaucoma,Dizziness,Drug_therapy,Hormone_replacement_therapy",Medicare Part A,361.25,24593,0,79996.25
+755,F,40-44,White,Hispanic Origin,77433,"Rotator_strain,Hypertension,Obesity,Drug_therapy",Point of Service (POS),1317.75,3740,0,25231.75
+756,F,65-69,White,Hispanic Origin,77373,"Arthritis,Hypertension,Hypercholesterolemia,Gastroesophageal_reflux,Insomnia,Thyroid_disorder,Diabetes,Neuropathy,Nicotine_dependence,Hormone_replacement_therapy,Drug_therapy",Health Maintenance Organization (HMO),2037.5,35901,0,75993.57
+757,M,45-49,Asian or Pacific Islander,Not of Hispanic Origin,77384,Hypertension,Point of Service (POS),0.75,0,0,4575.75
+758,M,55-59,White,Not of Hispanic Origin,77302,"Atherosclerosis,Bundle_branch_block,Hypertension,Glyceridemia,Gastroesophageal_reflux,Drug_therapy",Blue Cross/Blue Shield,282.75,1116,0,29879.75
+759,F,80-84,White,Not of Hispanic Origin,77380,"Bundle_branch_block,Atherosclerotic,Hypertension,Asthma,Hyperlipidemia,Hearing_loss,Atherosclerosis,Hormone_replacement_therapy,Drug_therapy",Health Maintenance Organization (HMO),120,2101,0,30702
+760,M,50-54,White,Not of Hispanic Origin,77365,"Bursitis,Hypertension,Hyperlipidemia,Nicotine_dependence,Tachycardia",Point of Service (POS),912,0,0,8459
+761,F,60-64,Black,Not of Hispanic Origin,77088,"Atherosclerosis,Angina,Hypertension,Hyperlipidemia,Hypercholesterolemia,Gout,Drug_therapy,Heart_disease",Blue Cross/Blue Shield,1282,14411,0,72692
+762,F,35-39,Black,Not of Hispanic Origin,77301,"Palpitations,Nausea,Diarrhea,Dizziness,Hypertension,Hyperlipidemia,Gastroesophageal_reflux,Asthma,Drug_therapy,Steroid_use,Allergy",Preferred Provider Organization (PPO),53,0,0,10377
+763,F,35-39,White,Not of Hispanic Origin,77384,"Headache,Body_pain,Hypertension,Nicotine_dependence,Drug_therapy",Medicaid,0.5,0,0,3832.5
+764,M,75-79,White,Not of Hispanic Origin,77388,"Atherosclerosis,Mitral_valve_insufficiency,Hyperlipidemia,Atrial_fibrillation,Hypertension,Nicotine_dependence,Postprocedural_examination,Heart_disease,Drug_therapy",Health Maintenance Organization (HMO),554.25,7760,0,47807.25
+765,F,70-74,White,Hispanic Origin,77379,"Hypertension,Skin_anesthesia,Heart_disease,Weakness",Medicare Part A,0,0,0,4772
+766,F,70-74,White,Not of Hispanic Origin,77320,"Cardiac_pulse_generator_breakdown,Hypertension,Atrial_fibrillation,Thyroid_disorder,Sleep_apnea,Hormone_replacement_therapy,Drug_therapy,COVID-19",Medicare Part A,20,37364,0,60480
+767,F,65-69,White,Not of Hispanic Origin,77356,"Hypertension,Hemangioma",Medicare Part A,180,0,0,7087
+768,F,65-69,White,Not of Hispanic Origin,77356,"Sciatica,Hypertension,Allergy",Medicare Part A,117.75,0,0,3823.75
+769,M,75-79,Asian or Pacific Islander,Not of Hispanic Origin,77318,"Fracture,Diabetes,Hypertension,Drug_therapy",Health Maintenance Organization (HMO),1381,110813,0,146871
+770,M,70-74,White,Not of Hispanic Origin,77354,"Arthritis,Hypertension,Diabetes,Hypercholesterolemia,Nicotine_dependence,Allergy,Drug_therapy",Health Maintenance Organization,110.5,0,0,3217.5
+771,F,80-84,White,Not of Hispanic Origin,77358,"Syncope,Tachycardia,Hypertension,Hyperlipidemia,Thyroid_disorder,Body_pain,Gastroesophageal_reflux,Infarction,Stroke,Drug_therapy",Medicare Part A,53.75,27463,0,50905.75
+772,M,75-79,White,Not of Hispanic Origin,77379,"Atrial_fibrillation,Hypertension,Hyperlipidemia,Atherosclerosis,Sleep_apnea,Drug_therapy",Medicare Part A,141.75,0,0,10114.75
+773,M,70-74,White,Not of Hispanic Origin,78940,"Tachycardia,Diabetes,Hypertension,Hyperlipidemia,Preprocedural_examination",Medicare Part A,0,0,0,2624
+774,F,70-74,White,Not of Hispanic Origin,77372,"Fracture,Hypertension,Hypercholesterolemia,Nicotine_dependence,Gastroesophageal_reflux,Postprocedural_examination,Drug_therapy",Medicare Part A,1179.25,4004,0,31623.25
+775,F,70-74,Other,Not of Hispanic Origin,77328,"Arthritis,Chondromalacia,Effusion,Hypertension,Hypercholesterolemia,Drug_therapy,Artificial_knee_joint,Radiation_exposure,Neoplasm",Health Maintenance Organization (HMO),1182,31584,0,57971
+776,F,55-59,White,Not of Hispanic Origin,77384,"Carpal_tunnel_syndrome,Hypertension,Nicotine_dependence,Hormone_replacement_therapy",Preferred Provider Organization (PPO),666.5,286,0,16609.5
+777,F,60-64,Asian or Pacific Islander,Hispanic Origin,77040,"Arthritis,Sepsis,Pyelonephritis,Hypertension,Diabetes,Hyperlipidemia,Fatty_liver,Drug_therapy,Obesity",Health Maintenance Organization,1819,27606,0,56428
+778,F,60-64,White,Hispanic Origin,77040,"Arthritis,Hypertension,Hyperlipidemia,Drug_therapy",Health Maintenance Organization,2115.25,28333,0,57080.25
+779,F,55-59,White,Not of Hispanic Origin,77301,"Arthritis,Hypertension",Blue Cross/Blue Shield,1874.25,60225,0,94859.25
+780,M,60-64,White,Not of Hispanic Origin,77088,"Arthritis,Hypertension,Atrial_fibrillation,Obesity,Sleep_apnea,Obesity,Drug_therapy",Health Maintenance Organization,1835.25,27606,0,53664.25
+781,M,60-64,White,Not of Hispanic Origin,77379,"Arthritis,Hypertension,Atherosclerosis,Drug_therapy",Preferred Provider Organization (PPO),1828,32010,0,59842.39
+782,M,70-74,White,Hispanic Origin,77388,"Arthritis,Hypertension,Hypercholesterolemia,Gastroesophageal_reflux,Sleep_apnea,Dorsalgia,Arthrodesis,Postprocedural_examination,Drug_therapy",Health Maintenance Organization (HMO),1904.75,27606,0,56015.75
+783,F,65-69,White,Not of Hispanic Origin,77060,"Arthropathy,Tear,Hypertension,Hyperlipidemia,Drug_therapy",Health Maintenance Organization (HMO),1520,64738,0,93610
+784,M,60-64,Black,Not of Hispanic Origin,77068,"Arthritis,Hypertension,Sleep_apnea,Hyperlipidemia,Thyroid_disorder,Obesity,Drug_therapy,Nicotine_dependence",Health Maintenance Organization,1848.5,31819,0,60356.5
+785,F,65-69,White,Not of Hispanic Origin,77060,"Arthritis,Hypertension,Hyperlipidemia,Body_pain,Drug_therapy",Health Maintenance Organization (HMO),2196,28333,0,55385
+786,F,65-69,White,Not of Hispanic Origin,77064,"Arthritis,Hypertension,Obesity,Drug_therapy",Point of Service (POS),1481,26314,0,52846
+787,M,60-64,White,Not of Hispanic Origin,77356,"Tear,Impingement,Hypertension,Gastroesophageal_reflux,Hyperlipidemia,Drug_therapy",Veteran Administration Plan,1034.75,8008,0,30975.75
+788,F,55-59,White,Hispanic Origin,77318,"Arthritis,Hypertension,Diabetes,Gastroesophageal_reflux,Hypercholesterolemia,Nicotine_dependence,Insulin_use,Drug_therapy",Health Maintenance Organization,1816.25,32737,0,61070.25
+789,F,80-84,White,Hispanic Origin,77039,"Arthritis,Hypertension,Bundle_branch_block,Diabetes,Hyperlipidemia,Drug_therapy,Insulin_use,Drug_therapy,Postprocedural_examination",Health Maintenance Organization (HMO),1610,26382,0,56302
+790,M,75-79,White,Not of Hispanic Origin,77354,"Arthritis,Varus_deformity,Atherosclerotic,Hypertension,Atrioventricular_block,Atrial_fibrillation,Thrombophilia,Sick_sinus_syndrome,Hypercholesterolemia,Drug_therapy",Health Maintenance Organization (HMO),1392.75,39961,0,72499.75
+791,M,60-64,White,Hispanic Origin,77382,"Radiculopathy,Diabetes,Hypertension,Nicotine_dependence,Drug_therapy",Blue Cross/Blue Shield,154,0,0,10568
+792,F,55-59,Black,Not of Hispanic Origin,77373,"Fracture,Hypertension,Body_pain,Diabetes,Asthma,Convulsions,Gastroesophageal_reflux,Allergy,Hypoglycemic_drug_use",Health Maintenance Organization (HMO),0.25,0,0,10199.25
+793,M,65-69,White,Hispanic Origin,77375,"COVID-19,Gastroesophageal_reflux,Atherosclerotic,Hypertension,Hyperlipidemia",Medicare Part A,54.75,0,0,9271.75
+794,F,75-79,White,Not of Hispanic Origin,77380,Hypertension,Medicare Part A,0,0,0,1030
+795,F,55-59,White,Not of Hispanic Origin,77365,"Radiculopathy,Asthma,Diabetes,Hypertension,Allergy,COVID-19,Steroid_use,Drug_therapy","Charity, Indigent or Unknown",0.5,0,0,2545.5
+796,F,60-64,White,Not of Hispanic Origin,77378,"Conjunctivitis,Vitritis,Anemia,Hypoxia,Sleep_apnea,Obesity,Hypertension,Diabetes,Neuropathy,Hypercholesterolemia,Gastroesophageal_reflux",Medicaid,0,0,0,2545
+797,M,60-64,White,Not of Hispanic Origin,77316,"Body_pain,Hypertension,Nicotine_dependence",Preferred Provider Organization (PPO),77.5,0,0,4351.5
+798,M,65-69,White,Not of Hispanic Origin,77346,"COVID-19,Hyponatremia,Hyposmolality,Kidney_disease,Plasma_protein_abnormal,Hypertension,Hyperlipidemia,Allergy",Health Maintenance Organization (HMO),0,0,0,9858
+799,F,65-69,White,Not of Hispanic Origin,77373,"Body_pain,Hypertension,Diabetes,Hyperlipidemia,Thyroid_disorder,Allergy,Drug_therapy,Hormone_replacement_therapy,Drug_therapy",Health Maintenance Organization (HMO),0.5,0,0,3707.5
+800,M,70-74,Black,Not of Hispanic Origin,77386,"Movement_disorder,Diabetes,Hypertension,Gastroesophageal_reflux,Nicotine_dependence,COVID-19,Drug_therapy",Health Maintenance Organization (HMO),328.75,0,0,13955.75
+801,F,45-49,Asian or Pacific Islander,Not of Hispanic Origin,77384,"Rash,Hypertension",Point of Service (POS),0,0,0,1266
+802,M,55-59,White,Not of Hispanic Origin,77355,"Diverticulitis,Hypertension,Hypercholesterolemia,Allergy,COVID-19",Point of Service (POS),228,0,0,23494
+803,F,65-69,Asian or Pacific Islander,Not of Hispanic Origin,88888,"Injury,Hypertension",Point of Service (POS),0,0,0,3295
+804,M,65-69,Black,Not of Hispanic Origin,77073,"Hypertension,Hyponatremia,Headache,Diarrhea,Hyperlipidemia,Nicotine_dependence,COVID-19",Health Maintenance Organization (HMO),20,0,0,6949
+805,M,65-69,Other,Hispanic Origin,77356,"Cough,Hypertension,Hyperlipidemia,Nicotine_dependence",Health Maintenance Organization (HMO),0,0,0,2545
+806,M,50-54,Other,Hispanic Origin,77385,"Diabetes,Ulcer,Diabetes,Cellulitis,Hypertension,Hyperlipidemia,Insulin_use,Drug_therapy,COVID-19",Point of Service (POS),2106.5,0,0,13344.5
+807,M,65-69,White,Not of Hispanic Origin,77334,"Tear,Shoulder_strain,Biceps_strain,Hypertension,Synovitis_tenosynovitis,Postprocedural_examination",Blue Cross/Blue Shield,1166.5,25089,0,51858.5
+808,F,55-59,White,Not of Hispanic Origin,77316,"Diverticulitis,Hypertension,Hyperlipidemia,Asthma,Thyroid_disorder,Allergy,Drug_therapy,Hormone_replacement_therapy",Point of Service (POS),1301,0,0,21865
+809,M,65-69,Other,Not of Hispanic Origin,77304,"Hypertension,Nicotine_dependence",Medicare Part A,0,0,0,1135
+810,F,65-69,Other,Hispanic Origin,77327,"Atherosclerosis,Asthma,Diabetes,Hypertension,Hypercholesterolemia,Drug_therapy",Medicare Part A,182.75,1001,0,29880.75
+811,M,45-49,White,Not of Hispanic Origin,77354,"Fracture,Hypertension,Hyperlipidemia,Sleep_apnea,Gastroesophageal_reflux,Hernia,Hormone_replacement_therapy,Drug_therapy",Health Maintenance Organization,1188.75,17274,0,46724.75
+812,M,55-59,White,Hispanic Origin,77303,"Pancreatitis,Hypertension,Hyperlipidemia,Diabetes,Nicotine_dependence,Drug_therapy",Blue Cross/Blue Shield,1012,0,0,20444
+813,F,65-69,Black,Not of Hispanic Origin,77016,"Nausea,Dehydration,Hypokalemia,Hernia,Hypertension,Hyperlipidemia,Thyroid_disorder,Allergy,Drug_therapy",Health Maintenance Organization (HMO),1442.25,0,0,25448.25
+814,F,50-54,Black,Not of Hispanic Origin,77393,"Tear,Impingement,Synovitis_tenosynovitis,Viral_infection,Hypertension,Diabetes,Hypercholesterolemia,Gastroesophageal_reflux,Arthritis,Drug_therapy",Point of Service (POS),1101.25,5126,0,29280.25
+815,M,60-64,White,Not of Hispanic Origin,77381,"Hypertension,Hyperlipidemia","Charity, Indigent or Unknown",0,0,0,793
+816,M,55-59,White,Not of Hispanic Origin,77318,"Atherosclerosis,Hypertension,Sleep_apnea,Drug_therapy",Point of Service (POS),163.75,2228,0,31075.75
+817,F,60-64,White,Hispanic Origin,77385,"Body_pain,Hypertension,Allergy",Commercial Insurance,53.25,0,0,8084.25
+818,F,80-84,White,Not of Hispanic Origin,77381,"Fracture,Carpal_tunnel_syndrome,Hand_injury,Arthritis,Hypertension,Drug_therapy",Health Maintenance Organization (HMO),697.5,808,0,15407.5
+819,F,60-64,White,Not of Hispanic Origin,77450,"Artificial_joint,Effusion,Body_pain,Prosthetic_device_pain,Postprocedural_examination,Pulmonary_disease,Gastroesophageal_reflux,Hypertension,Hyperlipidemia,Steroid_use,Drug_therapy",Blue Cross/Blue Shield,79,0,0,4870
+820,F,50-54,Black,Not of Hispanic Origin,77386,"Fracture,Hypertension,Allergy,Drug_therapy",CHAMPUS,0.5,0,0,3626.5
+821,M,40-44,White,Not of Hispanic Origin,77386,"Colitis,Dehydration,Hypertension,COVID-19",Preferred Provider Organization (PPO),603.75,0,0,23601.75
+822,F,75-79,White,Not of Hispanic Origin,77316,"Tear,Initial_encounter,Tear,Initial_encounter,Chondromalacia,Hypertension,Hypercholesterolemia,COPD,COVID-19,Artificial_hip_joint,Postprocedural_examination,Nicotine_dependence",Medicare Part A,496.5,36,0,13757.5
+823,F,70-74,White,Not of Hispanic Origin,77068,"Arthritis,Hypertension,Atherosclerosis,Myocardial_infarction,Diabetes,Thyroid_disorder,Hyperlipidemia,COVID-19,Bypass_graft,Drug_therapy,Insulin_use",Health Maintenance Organization (HMO),2020.25,32330,0,60446.25
+824,M,65-69,White,Not of Hispanic Origin,77386,"Arthritis,Hypertension,Sleep_apnea,Gastroesophageal_reflux,Drug_therapy,Artificial_knee_joint,Nicotine_dependence",Health Maintenance Organization,2066.75,31723,0,62172.75
+825,F,65-69,Black,Not of Hispanic Origin,77067,"Aseptic_necrosis,Arthritis,Body_pain,Hypertension,Diabetes,Hypercholesterolemia,Sleep_apnea,Obesity,Bariatric_surgery,Drug_therapy",Health Maintenance Organization (HMO),1786.25,32249,0,60196.25
+826,M,65-69,Black,Not of Hispanic Origin,77373,"Arthritis,Body_pain,Hypertension,Hyperlipidemia,Sleep_apnea,Hyperplasia,Postprocedural_examination,Nicotine_dependence,Drug_therapy,Steroid_use,Drug_therapy",Health Maintenance Organization (HMO),2081.25,32546,0,66212.25
+827,M,55-59,White,Not of Hispanic Origin,77375,"Arthritis,Hypertension,Hyperlipidemia,Obesity,Drug_therapy",Point of Service (POS),1734.25,31819,0,58897.25
+828,M,85-89,White,Not of Hispanic Origin,77318,"Atrial_fibrillation,Hypertension,Diabetes,Hyperplasia,Atherosclerosis,Arthritis,Sleep_apnea,Hyperlipidemia,Atrial_flutter,Bradycardia,Varicose_veins",Health Maintenance Organization (HMO),141.75,0,0,10474.75
+829,F,45-49,White,Not of Hispanic Origin,77386,"Ovarian_cyst,Gastroesophageal_reflux,Hypercholesterolemia,Hypertension,Nicotine_dependence,Drug_therapy",Commercial Insurance,253.75,0,0,21808.75
+830,F,45-49,Black,Not of Hispanic Origin,77088,"Body_pain,Nausea,Hypertension,Obesity,Drug_therapy",Medicaid,100,0,0,16077
+831,M,60-64,American Indian/Eskimo/Aleut,Not of Hispanic Origin,77327,"Fatty_liver,Neoplasm,Hypertension,Allergy,Nicotine_dependence",Health Maintenance Organization (HMO),429,0,0,15807
+832,M,50-54,White,Not of Hispanic Origin,77982,"Atrial_flutter,Body_pain,Diabetes,Hypertension,Hyperlipidemia,Obesity,Allergy",Preferred Provider Organization (PPO),975.25,0,0,11966.25
+833,F,65-69,Black,Not of Hispanic Origin,77066,"Atrial_fibrillation,Diabetes,Hyperlipidemia,Hypertension,Obesity,Drug_therapy,COVID-19",Preferred Provider Organization (PPO),2194,0,0,19841
+834,M,70-74,White,Not of Hispanic Origin,77433,"Myocardial_infarction,Infarction,Atrial_fibrillation,Atherosclerosis,Hypertension,Hyperlipidemia,COVID-19",Medicare Part A,65.5,0,0,10449.5
+835,M,70-74,Other,Not of Hispanic Origin,77073,"Contusion,Hypertension,Hyperlipidemia,Obesity",Point of Service (POS),0,0,0,7094
+836,M,80-84,White,Not of Hispanic Origin,77385,"Soft_tissue_disorder,Coagulation,Hypertension,Hypercholesterolemia,Nicotine_dependence,Allergy,Drug_therapy",Health Maintenance Organization (HMO),105,0,0,11188
+837,F,40-44,White,Not of Hispanic Origin,77356,"Vaginal_disorder,Cystitis,Hypertension,Nicotine_dependence,Drug_therapy",Medicaid,331.5,0,0,5132.5
+838,M,50-54,White,Not of Hispanic Origin,77303,"Hypertension,Dizziness,Nausea",Point of Service (POS),0,0,0,7311
+839,M,70-74,White,Not of Hispanic Origin,77382,"Atherosclerosis,Hypertension,Atrial_fibrillation,Infarction,Drug_therapy",Health Maintenance Organization (HMO),182.75,913,0,29647.75
+840,M,60-64,White,Not of Hispanic Origin,77356,"Tendon_rupture,Calcaneal_spur,Hypertension,Atrial_fibrillation,Gastroesophageal_reflux,Nicotine_dependence,Postprocedural_examination,Drug_therapy",Preferred Provider Organization (PPO),1056.75,393,0,17256.75
+841,F,60-64,White,Not of Hispanic Origin,77380,"Trigger_finger,Hypertension,Drug_therapy",Point of Service (POS),606,36,0,13724
+842,F,65-69,White,Not of Hispanic Origin,77354,"Stenosis,Radiculopathy,Spondylolisthesis,Hypertension,Diabetes,Hypercholesterolemia,Nicotine_dependence,Drug_therapy",Health Maintenance Organization (HMO),2023,114581,0,154081
+843,M,60-64,White,Not of Hispanic Origin,77384,"Body_pain,Hypertension,Nicotine_dependence",Health Maintenance Organization (HMO),0,0,0,601
+844,F,65-69,White,Not of Hispanic Origin,77354,"Sepsis,Pneumonia,Sepsis,Neoplasm,Pulmonary_disease,Dyspnea,Anemia,Hypertension,COVID-19,Drug_therapy",Health Maintenance Organization (HMO),876.75,0,0,15387.75
+845,F,35-39,White,Not of Hispanic Origin,77316,"Pneumonia,Lupus,Leukocytosis,Anemia,Hypertension,Asthma,Nicotine_dependence,Allergy",Health Maintenance Organization (HMO),1083,0,0,19240
+846,F,70-74,White,Not of Hispanic Origin,77385,"Contusion,Thyroid_disorder,Hypertension,Atrial_fibrillation,Gastroesophageal_reflux,Hyperlipidemia,Bradycardia,Obesity",Medicare Part A,108,0,0,12092
+847,F,65-69,White,Not of Hispanic Origin,77303,"Tachycardia,Palpitations,Hypertension,Atrial_fibrillation,Gastroesophageal_reflux,Allergy",Medicare Part A,152.5,0,0,16440.5
+848,M,45-49,White,Not of Hispanic Origin,77301,"Infection,Stent,Hypertension,Nicotine_dependence,Obesity,COVID-19,Allergy",Health Maintenance Organization (HMO),1415.75,0,0,22360.75
+849,M,65-69,White,Not of Hispanic Origin,77316,"Arthritis,Cardiovascular_disease,Sleep_apnea,Gastroesophageal_reflux,Gastritis",Medicare Part A,1821,40932,0,73393
+850,F,40-44,White,Not of Hispanic Origin,77316,"Intervertebral_disc_degeneration,Radiculopathy,Stenosis,Spondylosis,Nicotine_dependence,Hypertension,Obesity,Anemia,Obesity,Drug_therapy",Preferred Provider Organization (PPO),3392.75,649,0,58272.69
+851,M,80-84,White,Not of Hispanic Origin,77379,"Atherosclerosis,Occlusion,Atherosclerosis,Infarction,Hypertension,Hyperlipidemia,Diabetes,Nicotine_dependence,Drug_therapy,Hormone_replacement_therapy",Medicare Part A,157.75,1646,0,31413.75
+852,F,65-69,White,Not of Hispanic Origin,76513,"Radiculopathy,Claudication,Stenosis,Claudication,Radiculopathy,Claudication,Radiculopathy,Stenosis,Radiculopathy,Cervical_disc_displacement,Stenosis,Radiculopathy,Stenosis,Radiculopathy",Medicare Part A,296,0,0,22585
+853,F,50-54,Black,Not of Hispanic Origin,77303,"Arthritis,Deformity,Anemia,Hypertension,Drug_therapy,Breast_cancer",Medicare Part A,1506.25,38090,0,73601.25
+854,F,75-79,White,Not of Hispanic Origin,77364,"Body_pain,Diabetes,Hypertension,Hypercholesterolemia,Nicotine_dependence",Health Maintenance Organization,0,0,0,9835
+855,F,70-74,White,Not of Hispanic Origin,77447,"Body_pain,Hyperlipidemia,Hypertension","Charity, Indigent or Unknown",0,0,0,793
+856,F,60-64,White,Not of Hispanic Origin,77365,"Aseptic_necrosis,Hyponatremia,Thrombocytopenia,Hypertension,Myocardial_infarction,Allergy,Gastroesophageal_reflux,Esophagitis,Drug_therapy",Blue Cross/Blue Shield,0.5,0,0,6999.5
+857,M,70-74,White,Not of Hispanic Origin,77380,"Atherosclerosis,Occlusion,Atherosclerosis,Hypertension,Erectile_dysfunction,Drug_therapy",Health Maintenance Organization (HMO),232.75,2654,0,34294.75
+858,F,40-44,White,Not of Hispanic Origin,77005,"Headache,Hypertension,Diabetes,Obesity,Asthma,Allergy,Obesity",Medicare Part A,645.5,0,0,16107.5
+859,M,80-84,Other,Hispanic Origin,77382,"Laceration,Hypertension,Hyperlipidemia,Nicotine_dependence",Health Maintenance Organization,52.5,0,0,4222.5
+860,M,35-39,Other,Hispanic Origin,77389,"Body_pain,Diarrhea,Nausea,Diabetes,Hypertension,Obesity,Drug_therapy",Point of Service (POS),375.25,0,0,20300.25
+861,M,75-79,White,Not of Hispanic Origin,77384,"Hypertension,Anemia,Hyperlipidemia",Preferred Provider Organization (PPO),55.25,0,0,8162.25
+862,F,65-69,Black,Not of Hispanic Origin,77302,"Hypertension,Dizziness,Nausea,Hyperlipidemia",Health Maintenance Organization (HMO),62.25,0,0,6559.25
+863,M,75-79,White,Not of Hispanic Origin,77306,"Postprocedural_examination,Hypertension,Hyperlipidemia,Diabetes,Sleep_apnea,Atherosclerotic,COPD,Obesity,Insulin_use,Drug_therapy",Health Maintenance Organization (HMO),855,36,0,25320.47
+864,F,60-64,White,Not of Hispanic Origin,77831,"Hypertension,Body_pain,Headache,Diabetes,Digestive_tract_absence,Insulin_use",Preferred Provider Organization (PPO),163.5,0,0,15771.5
+865,M,80-84,White,Not of Hispanic Origin,75831,"Cystitis,Hematuria,Body_pain,Sciatica,Hypertension,Heart_disease,Hyperlipidemia,Nicotine_dependence,Postprocedural_examination",Medicare Part A,981.25,0,0,16376.25
+866,F,45-49,White,Not of Hispanic Origin,77378,"Calculus,Cystitis,Hypoosmolality,Hyponatremia,Anxiety,Allergy,Hypertension",Point of Service (POS),638.5,0,0,12885.5
+867,F,65-69,White,Not of Hispanic Origin,77356,"Sprain,Headache,Hypertension,Thyroid_disorder,Allergy",Medicare Part A,52.25,0,0,11252.25
+868,M,60-64,White,Hispanic Origin,77384,"Body_pain,Hypertension,Hyperlipidemia,Atrial_fibrillation,Diabetes,Asthma,Insulin_use",Health Maintenance Organization (HMO),586,0,0,9697
+869,F,60-64,White,Hispanic Origin,77327,"Cystitis,Hematuria,Hypertension,Diabetes,Allergy,Drug_therapy",Medicaid,334.25,0,0,4469.25
+870,M,55-59,White,Not of Hispanic Origin,77379,"Surgical_aftercare,Hypertension,Nicotine_dependence",Point of Service (POS),0,0,0,2545
+871,M,65-69,White,Not of Hispanic Origin,77386,"Body_pain,Hypercholesterolemia,Hypertension,Nicotine_dependence,Drug_therapy",Blue Cross/Blue Shield,100,0,0,19097
+872,F,50-54,White,Not of Hispanic Origin,77304,"Urinary_tract_infection,Hypertension,Diabetes,Atherosclerosis,Hyperlipidemia,Obesity,Allergy",Health Maintenance Organization,1214.75,0,0,23351.75
+873,M,60-64,Other,Hispanic Origin,77385,"Kidney_disease,Hypertension,Diabetes,Heart_disease,Hyperlipidemia,Obesity,Allergy,Drug_therapy,Insulin_use",CHAMPUS,52,0,0,4953
+874,M,55-59,White,Not of Hispanic Origin,77302,"Hypokalemia,Dizziness,Palpitations,Body_pain,Diabetes,Hypertension,Digestive_tract_absence,Postprocedural_examination",Point of Service (POS),1,0,0,8530
+875,F,60-64,White,Not of Hispanic Origin,77351,"Diverticulitis,Hypertension,Nicotine_dependence",Point of Service (POS),1299.5,0,0,22758.5
+876,F,60-64,White,Not of Hispanic Origin,77378,"Body_pain,Anemia,Pulmonary_disease,Hypertension,Gastroesophageal_reflux,Hypercholesterolemia,Diabetes,Neuropathy,Obesity,Allergy",Health Maintenance Organization,0,0,0,6014
+877,F,40-44,Black,Not of Hispanic Origin,77358,"Body_pain,Hyperlipidemia,Hypertension,Obesity,Nicotine_dependence,Obesity",Medicaid,0,0,0,4273
+878,M,55-59,White,Not of Hispanic Origin,77385,"Palpitations,Skin_anesthesia,Hypertension,Hyperlipidemia,Thyroid_disorder,Nicotine_dependence,Hormone_replacement_therapy,Drug_therapy",Preferred Provider Organization (PPO),0,0,0,9282
+879,M,35-39,White,Hispanic Origin,77067,"Heart_disease,Heart_failure,Diabetes,Dizziness,Allergy,Drug_therapy",Health Maintenance Organization,160.75,0,0,14008.75
+880,M,55-59,White,Not of Hispanic Origin,77379,"Surgical_aftercare,Hypertension,Nicotine_dependence",Point of Service (POS),0,0,0,1266
+881,F,50-54,White,Not of Hispanic Origin,77388,"Hypertension,Orbit_disorder,Nicotine_dependence,Allergy",Commercial Insurance,161.25,0,0,11793.25
+882,M,60-64,Other,Not of Hispanic Origin,75071,"Body_pain,Hypertension,Diabetes ",Blue Cross/Blue Shield,0,0,0,4252.4
+883,M,35-39,White,Not of Hispanic Origin,75071,"Palpitations,Hypertension,Anxiety",Commercial Insurance,36.4,0,0,5587.31
+884,F,55-59,Other,Not of Hispanic Origin,75070,"Cellulitis,Hypertension",Commercial Insurance,104.65,0,0,7057.41
+885,F,40-44,Other,Not of Hispanic Origin,75071,"Neck_strain,Hypertension",Blue Cross/Blue Shield,0,36.4,0,4536
+886,M,55-59,Other,Not of Hispanic Origin,75070,"Gastroenteritis,Colitis,Dehydration,Hypertension,Blood_chemistry_abnormal",Blue Cross/Blue Shield,444,0,0,10480.44
+887,M,70-74,White,Not of Hispanic Origin,75071,"Infarction,Dehydration,Dizziness,Hypertension",Commercial Insurance,1009.1,27.3,0,9278.92
+888,F,35-39,Other,Not of Hispanic Origin,75070,"Body_pain,Hypertension",Commercial Insurance,0,0,0,5175.23
+889,M,40-44,Other,Not of Hispanic Origin,75071,"Body_pain,Nausea,Diarrhea,Hypertension",Commercial Insurance,639.7,0,0,3542.48
+890,F,60-64,Other,Not of Hispanic Origin,75071,"Body_pain,Hypertension",Blue Cross/Blue Shield,0,0,0,5747.18
+891,F,45-49,White,Not of Hispanic Origin,75070,"Body_pain,Dyspnea,Hypertension,Blood_chemistry_abnormal",Blue Cross/Blue Shield,937.7,27.3,0,7495.85
+892,M,50-54,Other,Not of Hispanic Origin,75070,"Hernia,Body_pain,Hypertension",Commercial Insurance,1200.8,0,0,10896.36
+893,M,35-39,White,Hispanic Origin,75071,"Body_pain,Pyelonephritis,Dehydration,Lactic_dehydrogenase_elevation,Hypertension",Commercial Insurance,1116.3,0,0,11837.22
+894,F,40-44,White,Not of Hispanic Origin,75407,"Headache,Dyspnea,Nausea,Hypertension",Blue Cross/Blue Shield,682.6,0,0,7954.77
+895,F,40-44,Black,Not of Hispanic Origin,75407,"Embolism,Body_pain,Dyspnea,Hypertension",Blue Cross/Blue Shield,1367.4,0,0,10908.36
+896,M,35-39,Other,Not of Hispanic Origin,75173,"Body_pain,Hypertension",Blue Cross/Blue Shield,0,27.3,0,5537.93
+897,F,40-44,White,Hispanic Origin,75089,"Body_pain,Phlebitis,Thrombophlebitis,Hypertension,Diabetes ",Commercial Insurance,300,0,0,9461.98
+898,F,60-64,Other,Hispanic Origin,75071,"COVID-19,Body_pain,Dizziness,Headache,Fatigue,Hypertension",Commercial Insurance,63.7,27.3,0,5966.08
+899,M,55-59,Other,Not of Hispanic Origin,75071,"Dizziness,Hypertension",Commercial Insurance,0,0,0,5258.43
+900,F,40-44,Other,Not of Hispanic Origin,75409,"Back_strain,Sprain,Sciatica,Hypertension",Blue Cross/Blue Shield,247.3,0,0,2451.3
+901,F,45-49,Other,Not of Hispanic Origin,75070,"Body_pain,Hypertension",Commercial Insurance,648.8,0,0,10116.64
+902,F,55-59,Other,Not of Hispanic Origin,75070,"Body_pain,Palpitations,Dyspnea,Headache,Hypertension",Blue Cross/Blue Shield,6.5,0,0,3355.25
+903,M,55-59,Other,Not of Hispanic Origin,75407,"Headache,Influenza,Respiratory_infection,Dehydration,Diabetes,Hypertension",Commercial Insurance,142.5,0,0,5325.06
+904,M,50-54,White,Not of Hispanic Origin,75072,"Dizziness,Giddiness,Nausea,Dehydration,Hypertension",Blue Cross/Blue Shield,1197.2,0,0,9721.3
+905,F,45-49,Other,Not of Hispanic Origin,75454,Hypertension,Commercial Insurance,0,0,0,926.6
+906,F,45-49,White,Not of Hispanic Origin,75071,"Dizziness,Palpitations,Hypertension",Commercial Insurance,90.9,0,0,5902.28
+907,F,35-39,Other,Not of Hispanic Origin,75407,"Body_pain,Hypertension",Blue Cross/Blue Shield,270,0,0,5005.9
+908,M,40-44,White,Not of Hispanic Origin,75442,"Body_pain,Calculus,Hypertension",Blue Cross/Blue Shield,312.7,0,0,8029.96
+909,F,40-44,Other,Not of Hispanic Origin,75071,"Body_pain,Shoulder_lesion,Hypertension",Commercial Insurance,404,0,0,2608
+910,M,50-54,White,Not of Hispanic Origin,75072,"Hypertension,Paresthesia",Commercial Insurance,306.4,0,0,13637.66
+911,F,50-54,Black,Not of Hispanic Origin,75071,"Headache,Dyspnea,Hypertension,Nausea",Blue Cross/Blue Shield,1394.7,0,0,9848.2
+912,M,50-54,Black,Not of Hispanic Origin,75070,"Rash,Opioid_poisoning,Hypertension",Blue Cross/Blue Shield,27.3,0,0,953.9
+913,F,35-39,Other,Not of Hispanic Origin,75069,"COVID-19,Pneumonia,Dyspnea,Colitis,Headache,Hypertension,Hypokalemia",Blue Cross/Blue Shield,569.6,93.1,0,11360.07
+914,F,60-64,White,Not of Hispanic Origin,75495,"Migraine,Hypertension",Commercial Insurance,8128.6,0,0,11840.48
+915,F,70-74,Other,Not of Hispanic Origin,75071,"Body_pain,Diarrhea,Hypertension",Commercial Insurance,0,0,0,4156.68
+916,F,45-49,Other,Not of Hispanic Origin,75070,"Body_pain,Cough,Fever,Hypertension,Viral_infection",Commercial Insurance,436.8,0,0,6355.21
+917,M,50-54,Other,Not of Hispanic Origin,75071,"COVID-19,Headache,Fatigue,Hypertension",Blue Cross/Blue Shield,6.5,0,0,5334.73
+918,M,70-74,White,Not of Hispanic Origin,78676,"Urinary_sphincter_breakdown,Urinary_incontinence,Neoplasm,Hypertension,Drug_therapy",Medicare Part B,1006.5,80770.75,0,114619.5
+919,F,75-79,White,Not of Hispanic Origin,78701,"Arthritis,Hypertension,Hyperlipidemia,COPD,Steroid_use,Nicotine_dependence,Drug_therapy",Medicare Part B,4011,62914.5,0,139002.75
+920,F,70-74,Other,Not of Hispanic Origin,78734,"Arthritis,Diabetes,Hypertension,Hyperlipidemia,Sleep_apnea,Gastroesophageal_reflux,Thyroid_disorder,Depression,Allergy,Hormone_replacement_therapy,Drug_therapy",Health Maintenance Organization (HMO),11125.75,126394.25,0,196257.5
+921,F,75-79,White,Not of Hispanic Origin,78759,"Arthritis,Gastroesophageal_reflux,Hypertension,Thyroid_disorder,Hypotension,Hyperlipidemia,Diabetes,Drug_therapy",Medicare Part A,4833.75,125698.5,0,189417.25
+922,F,70-74,White,Not of Hispanic Origin,78717,"Arthritis,Hypertension,Gastroesophageal_reflux,Obesity,Nicotine_dependence",Medicare Part B,5710.75,112132.75,0,167735.75
+923,F,65-69,White,Not of Hispanic Origin,76537,"Arthritis,Hypertension,Sleep_apnea,Gastroesophageal_reflux,Asthma,Thyroid_disorder,Hormone_replacement_therapy,Drug_therapy",Workers Compensation Health Claim,5390,95330.75,0,155781.75
+924,M,80-84,White,Not of Hispanic Origin,78738,"Arthritis,Hypertension,Drug_therapy",Medicare Part B,3825.25,83168.5,0,145254
+925,M,70-74,White,Not of Hispanic Origin,78753,"Neoplasm,Hypertension,Diabetes,Gastroesophageal_reflux,Diabetes,Nicotine_dependence,Insulin_use,Drug_therapy,Obesity",Medicare Part A,256.25,0,0,28144
+926,M,70-74,Other,Hispanic Origin,78613,"Prostate_cancer,Prostatitis,Hypertension,Hyperlipidemia,Gastroesophageal_reflux,Drug_therapy,Erectile_dysfunction",Medicare Part A,3973,21092.5,0,93587.25
+927,F,75-79,White,Not of Hispanic Origin,78759,"Cirrhosis,Ascites,Effusion,Hepatic_failure,Hypertension,Hyperlipidemia,Diabetes,Anemia,Kidney_disease",Medicare Part B,2379.5,264.5,0,6122.25
+928,F,75-79,White,Not of Hispanic Origin,78759,"Effusion,Cirrhosis,Ascites,Encephalopathy,Anemia,Hypertension,Hyperlipidemia,Kidney_disease,Nausea,Pancreatic_cyst,Liver_disease",Medicare Part B,2396.75,132.25,0,4439.75
+929,F,75-79,White,Not of Hispanic Origin,76527,"Arthritis,Hypertension,Diabetes,Hyperlipidemia,Drug_therapy",Health Maintenance Organization (HMO),5536.75,97419.5,0,162816.25
+930,F,80-84,Black,Not of Hispanic Origin,78741,"Arthritis,Hypertension,Drug_therapy",Health Maintenance Organization (HMO),3811,57596.5,0,120936.25
+931,F,75-79,White,Not of Hispanic Origin,78613,"Arthritis,Hypertension,Gout,Thyroid_disorder,Celiac_disease,Hormone_replacement_therapy,Drug_therapy",Medicare Part B,5664.38,107930.25,0,178938.13
+932,M,70-74,White,Not of Hispanic Origin,78636,"Arthritis,Hypertension,Gastroesophageal_reflux,Esophagitis,Nicotine_dependence,Drug_therapy",Medicare Part B,2346.25,97124,0,147897
+933,M,70-74,Other,Not of Hispanic Origin,78735,"Arthritis,Flail_joint,Sleep_apnea,Gastroesophageal_reflux,Hypertension,Nicotine_dependence,Drug_therapy",Medicare Part B,3888.08,127145.25,0,191035.33
+934,F,75-79,White,Not of Hispanic Origin,78733,"Arthritis,Hypertension,Hypercholesterolemia,Obesity",Health Maintenance Organization (HMO),3059,101880.75,0,163109.25
+935,M,75-79,White,Not of Hispanic Origin,78633,"Arthritis,Hypertension,Atherosclerosis,Carotid_artery_aneurysm,Hyperlipidemia,Atherosclerotic,Cardiomyopathy,Sleep_apnea,Nicotine_dependence,Drug_therapy",Medicare Part B,2182.5,0,0,49518.75
+936,F,70-74,White,Not of Hispanic Origin,78665,"Arthritis,Hypertension,Hyperlipidemia,Thyroid_disorder,Diabetes,Gastroesophageal_reflux,Obesity,Nicotine_dependence,Hormone_replacement_therapy,Drug_therapy,Obesity",Medicare Part B,4591.75,79798,0,145005
+937,F,75-79,White,Not of Hispanic Origin,78731,"Elbow_contracture,Upper_limb_malformation,Prosthetic_device_pain,Atherosclerotic,Hypertension,Thyroid_disorder,Drug_therapy,Hormone_replacement_therapy",Medicare Part B,3044.63,5489,0,59905.88
+938,M,70-74,White,Not of Hispanic Origin,78657,"Arthritis,Hypertension,Atrial_fibrillation,Hyperlipidemia,Thyroid_disorder,Drug_therapy,Postprocedural_examination,Hormone_replacement_therapy",Medicare Part B,5634.25,124197.75,0,188578
+939,M,55-59,White,Not of Hispanic Origin,78759,"Kidney_disease,Hypertension,Diabetes,Hyperlipidemia,Nicotine_dependence,Genital_disease,Digestive_system_disease,Drug_therapy",Blue Cross/Blue Shield,3740.5,2131.5,0,70396.25
+940,M,65-69,White,Not of Hispanic Origin,78731,"Hip_prosthesis_loosening,Hypertension,Hyperlipidemia,Nicotine_dependence",Health Maintenance Organization,4531.75,171463.5,0,254809.5
+941,M,65-69,White,Not of Hispanic Origin,78633,"Prosthetic_materials_erosion,Urinary_incontinence,Sleep_apnea,Hypertension,Neoplasm,Drug_therapy",Medicare Part B,738,4392.25,0,31014.25
+942,F,45-49,White,Not of Hispanic Origin,78734,"Polyp,Dysplasia",Health Maintenance Organization,661.25,46.5,0,15407.5
+943,F,65-69,White,Not of Hispanic Origin,78750,"Dysplasia,Noninflammatory_venom,Leiomyoma,Uterus_disorder,Hypertension,Atrial_fibrillation,Mitral_valve_insufficiency,Drug_therapy,Bariatric_surgery,Drug_therapy",Blue Cross/Blue Shield,4818.75,22581.75,0,81381.5
+944,M,65-69,White,Not of Hispanic Origin,78739,"Arthritis,Anemia,Atherosclerosis,Hypertension,Hyperlipidemia,Sleep_apnea,Nocturia,Thrombocytopenia,Drug_therapy",Medicare Part B,4617.89,142249.25,0,214552.89
+945,M,75-79,White,Not of Hispanic Origin,78617,"Hyperplasia,Neoplasm,Hyperlipidemia,Gastroesophageal_reflux,Hypertension,Neoplasm,Nicotine_dependence,Drug_therapy",Health Maintenance Organization (HMO),902.25,13000.5,0,36598.25
+946,M,65-69,Other,Not of Hispanic Origin,78613,"Hyperplasia,Diabetes,Blood_chemistry_abnormal,Hypertension,Gastroesophageal_reflux,Allergy,Drug_therapy",Health Maintenance Organization (HMO),2285.5,14522.75,0,44857.25
+947,F,70-74,White,Not of Hispanic Origin,78745,"Tear,Impingement,Enthesopathy,Labrum_lesion,Arthritis,Chordromalacia,Gastroesophageal_reflux,Hypertension,Drug_therapy",Medicare Part A,2230.5,24324.5,0,81626.25
+948,M,40-44,Other,Hispanic Origin,78753,"Hypertension,ECG_abnormal",Other Non-federal Programs,0,0,0,4562.5
+949,F,80-84,American Indian/Eskimo/Aleut,Not of Hispanic Origin,78754,"Arthritis,Neuropathy,Diabetes,Neuropathy,Hypertension,Depression,Drug_therapy,Insulin_use,Hypoglycemic_drug_use,Drug_therapy",Health Maintenance Organization (HMO),4684.25,129887.75,0,189250.25
+950,M,45-49,White,Not of Hispanic Origin,78619,"Hyperlipidemia,Hypertension,Anxiety,Spondylolisthesis,Claudication,Drug_therapy",Blue Cross/Blue Shield,0,0,0,2534
+951,F,60-64,Black,Not of Hispanic Origin,78761,"Arthritis,Hypertension,Asthma,Drug_therapy",Blue Cross/Blue Shield,4579.5,124357.5,0,197336.75
+952,M,65-69,Black,Not of Hispanic Origin,78729,"Hypertension,Arthritis,Artificial_joint,Drug_therapy",Medicare Part B,0,0,0,1377.5
+953,F,80-84,White,Not of Hispanic Origin,78610,"Arthritis,Hypertension,Thyroid_disorder,Palpitations,Anemia,Drug_therapy,Hormone_replacement_therapy",Medicare Part A,4319.25,127776.25,0,192737
+954,M,80-84,Other,Not of Hispanic Origin,78735,"Arthritis,Hypertension,Hyperlipidemia,Prediabetes,Hyperplasia,Drug_therapy,Digestive_system_disease,Drug_therapy",Medicare Part A,4589.75,118846.75,0,183519.5
+955,M,75-79,American Indian/Eskimo/Aleut,Not of Hispanic Origin,78676,"Hyperplasia,Hypertension,Diabetes,Esophagitis,Hyponatremia,Drug_therapy",Veteran Administration Plan,2329,14522.75,0,42672.75
+956,M,50-54,Asian or Pacific Islander,Not of Hispanic Origin,78759,"Calculus,Hypertension",Blue Cross/Blue Shield,1074.5,1480,0,34663.5
+957,M,55-59,White,Not of Hispanic Origin,76522,"Fracture,Hypertension,Obesity,Drug_therapy",CHAMPUS,450,189,0,23133.25
+958,F,65-69,Other,Not of Hispanic Origin,78759,"Arthritis,Hypertension,Hyperlipidemia,Nicotine_dependence,Drug_therapy",Medicare Part B,3517,122713.25,0,203559.5
+959,F,70-74,White,Not of Hispanic Origin,78726,"Hydronephrosis,Hypertension,Gastroesophageal_reflux,Obesity,Drug_therapy",Health Maintenance Organization (HMO),1304.01,6624.5,0,39201.76
+960,F,85-89,White,Not of Hispanic Origin,78613,"Colitis,Pulmonary_disease,Atrial_fibrillation,Hypertension,Obesity,Urinary_tract_infection,Drug_therapy,Steroid_use,Obesity",Medicare Part B,3349,3737.5,0,30660.25
+961,F,50-54,White,Not of Hispanic Origin,78641,"Contusion,Hypertension,Diabetes,Drug_therapy",Blue Cross/Blue Shield,1784.75,351.75,0,19216.75
+962,F,75-79,Black,Not of Hispanic Origin,78753,"Hypertension,Hyperlipidemia,Diabetes,Kidney_disease,Drug_therapy",Medicare Part A,0,0,0,2131.25
+963,F,80-84,Black,Not of Hispanic Origin,78748,"Arthritis,Sleep_apnea,Gastroesophageal_reflux,Obesity,Allergy,Hypertension",Medicare Part A,5985.88,107813.25,0,164776.63
+964,M,80-84,White,Not of Hispanic Origin,78755,"Heart_disease,Hypertension,Diabetes,Drug_therapy",Medicare Part B,7490.25,0,0,35710
+965,F,85-89,White,Not of Hispanic Origin,78613,"Body_pain,Hypertension,Drug_therapy",Medicare Part B,27,0,0,5014
+966,F,40-44,American Indian/Eskimo/Aleut,Not of Hispanic Origin,78758,"Headache,Hypertension,Fever,COVID-19",Other Non-federal Programs,256.75,0,0,11197.75
+967,F,40-44,White,Not of Hispanic Origin,78759,"Body_pain,Tachycardia,Hypertension,Drug_therapy",Blue Cross/Blue Shield,651,0,0,10064
+968,M,80-84,White,Not of Hispanic Origin,78755,"Skin_anesthesia,Hypertension,Drug_therapy",Medicare Part B,0,0,0,5825
+969,M,65-69,White,Not of Hispanic Origin,78726,"Preprocedural_examination,ECG_abnormal,Hypertension,Infarction",Health Maintenance Organization (HMO),133.25,0,0,7033.25
+970,M,65-69,Black,Not of Hispanic Origin,78753,"COVID-19,Diarrhea,Cough,Fever,Hypertension,Diabetes ",Health Maintenance Organization (HMO),94.75,0,0,4444
+971,M,55-59,White,Not of Hispanic Origin,78613,"Hypertension,Atherosclerosis",Indemnity Insurance,0,0,0,8380.5
+972,F,80-84,White,Not of Hispanic Origin,78758,"Dizziness,Hypertension,Urinary_tract_infection,Drug_therapy",Medicare Part A,112.5,0,0,13171.25
+973,F,65-69,White,Not of Hispanic Origin,78642,"High_micturition_frequency,Urinary_incontinence,Sleep_apnea,Gastroesophageal_reflux,Hypertension",Medicare Part B,4800.5,0,0,18020
+974,M,70-74,White,Not of Hispanic Origin,78660,"Kidney_disease,Neoplasm,Sleep_apnea,Hypertension,Diabetes,Urinary_implant,Nicotine_dependence,Drug_therapy",Medicare Part A,2377.5,8206,0,55290.25
+975,M,70-74,White,Not of Hispanic Origin,78730,"Kidney_disease,Gastroesophageal_reflux,Hypertension,Nicotine_dependence",Medicare Part B,1381.5,0,0,23101
+976,F,70-74,Other,Not of Hispanic Origin,78621,"Hyperlipidemia,Hypertension,Anxiety,Depression,Stenosis,Drug_therapy",Medicare Part B,0,0,0,2687.75
+977,M,35-39,Black,Not of Hispanic Origin,78602,"Carpal_tunnel_syndrome,Upper_limb_malformation,Sleep_apnea,Hypertension,Obesity,Drug_therapy",Blue Cross/Blue Shield,1023.25,373.75,0,30962.75
+978,M,55-59,White,Not of Hispanic Origin,78660,"Kidney_failure,Hypertension,Headache",Blue Cross/Blue Shield,0,0,0,4989.25
+979,F,35-39,White,Not of Hispanic Origin,78660,"Cystitis,Hypertension,Gastroesophageal_reflux,Drug_therapy",CHAMPUS,972.5,0,0,30004
+980,M,55-59,White,Not of Hispanic Origin,78665,"Arthritis,Atherosclerosis,Hypertension,Hyperlipidemia,Drug_therapy,Bypass_graft",Health Maintenance Organization,3974.5,97278.5,0,168729.25
+981,F,65-69,White,Not of Hispanic Origin,78731,"Urinary_incontinence,Hypertension,Drug_therapy",Medicare Part B,661.75,10961.5,0,40186.5
+982,M,55-59,Black,Not of Hispanic Origin,78747,"Prostate_cancer,Hypertension,Abdominal_adhesions,Drug_therapy",Blue Cross/Blue Shield,2071.75,26902.25,0,90710.75
+983,M,65-69,White,Not of Hispanic Origin,78628,"Odontogenic_cyst,Hypertension,Diabetes,Hyperlipidemia,Sinusitis,Sleep_apnea,Kidney_failure,Sleep_apnea,Obesity,Insulin_use,Drug_therapy",Health Maintenance Organization (HMO),2566.51,3029.75,0,45434.01
+984,M,55-59,White,Not of Hispanic Origin,78729,"Hypertension,Tricuspid_insufficiency,Hypokalemia,Anemia,Neuropathy,Mental_disorder,Drug_therapy",Point of Service (POS),6607.25,0,0,34576.5
+985,M,75-79,Other,Hispanic Origin,78727,"Arthritis,Tendon_disorder,Hypertension,Hyperlipidemia,Atherosclerosis,Bypass_graft,Nicotine_dependence,Drug_therapy",Medicare Part B,4247.75,143001.5,0,199100.25
+986,M,60-64,White,Not of Hispanic Origin,78759,"Syncope,Urinary_incontinence,Edema,Atherosclerosis,Myocardial_infarction,Diabetes,Neuropathy,Hypertension,Atrial_fibrillation,Hyperlipidemia,Stenosis","Charity, Indigent or Unknown",2359,0,0,43993.5
+987,F,80-84,Other,Hispanic Origin,78759,"Diabetes,Hypertension,COVID-19",Medicare Part A,0,0,0,3797.5
+988,M,60-64,Black,Not of Hispanic Origin,78727,"Neoplasm,Nicotine_dependence,Hypertension,Drug_therapy",Exclusive Provider Organization (EPO),450,12805.5,0,31756
+989,F,80-84,Other,Hispanic Origin,78641,"Neoplasm,Hypertension,Breast_lump,Nicotine_dependence,Gastroesophageal_reflux,Esophagitis",Medicare Part B,2215.75,30435.5,0,53186.5
+990,M,70-74,White,Not of Hispanic Origin,78730,"Kidney_disease,Urinary_retention,Hypertension,Nicotine_dependence,Drug_therapy",Medicare Part B,1042,0,0,21446
+991,F,80-84,White,Not of Hispanic Origin,78750,"Arthritis,Hypertension,Obesity,Artificial_knee_joint,Drug_therapy",Medicare Part A,3462,97540.25,0,153677.75
+992,F,70-74,White,Not of Hispanic Origin,78750,"Hernia,Hypertension,Drug_therapy",Medicare Part B,1683,19634.75,0,63543.5
+993,M,60-64,White,Not of Hispanic Origin,78734,"Hematuria,Bladder_disorder,Urinary_retention,Urethral_stricture,Dehydration,Hypertension,Postprocedural_examination,Drug_therapy",Health Maintenance Organization,7063.75,2766,0,45309.5
+994,M,50-54,Black,Not of Hispanic Origin,78729,"Body_pain,Anxiety,Hypertension,Hyperlipidemia,Nicotine_dependence",Blue Cross/Blue Shield,883.75,0,0,17262.75
+995,F,80-84,Other,Hispanic Origin,78726,"Body_pain,Gastroesophageal_reflux,Hypertension,Thyroid_disorder,Neoplasm,Drug_therapy,Hormone_replacement_therapy,Drug_therapy",Medicare Part B,350.5,0,0,23218.5
+996,M,75-79,White,Not of Hispanic Origin,78759,"Heart_disease,Stenosis,Hypertension,Hyperplasia,Hyperlipidemia,Drug_therapy",Blue Cross/Blue Shield,589.25,0,0,22602
+997,F,90+,White,Not of Hispanic Origin,78729,"Urinary_tract_infection,Encephalopathy,Diabetes,Parkinsons_disease,Dementia,Hypertension,Thyroid_disorder,Hypokalemia,Sjogren_syndrome,Do_not_resuscitate",Health Maintenance Organization (HMO),22453.75,0,0,73250
+998,M,80-84,White,Not of Hispanic Origin,78729,"Encephalopathy,Agitation,Kidney_failure,Alzheimers_disease,Hypertension,Gout,Diabetes,Thyroid_disorder,Hypomagnesemia,Hyperlipidemia,Drug_therapy",Medicare Part A,14936.5,0,0,49440.5
+999,F,45-49,White,Not of Hispanic Origin,78660,"Hemorrhoids,Hypertension,Anemia,Obesity,Digestive_system_disease",Other Non-federal Programs,309.75,0,0,8352.25
+1000,M,65-69,White,Not of Hispanic Origin,787,"Body_pain,Hypertension,Sleep_apnea,Kidney_failure,Edema,Calculus,Drug_therapy,COVID-19",Medicare Part B,24471,0,0,96395.5
+1001,M,60-64,White,Not of Hispanic Origin,78724,"Body_pain,Hypertension,Nicotine_dependence","Charity, Indigent or Unknown",531.5,0,0,9992
+1002,M,75-79,White,Not of Hispanic Origin,78729,"Laceration,Edema,Hypertension,Diabetes,Nervous_system_disease",Medicare Part A,1165.5,0,0,16204
+1003,M,50-54,White,Not of Hispanic Origin,78759,"Body_pain,Hypertension,Drug_therapy",Health Maintenance Organization,14.75,0,0,5805.5
+1004,F,85-89,White,Not of Hispanic Origin,78717,"Hypertension,Nausea,COVID-19,Drug_therapy,Circulatory_system_disease,Atherosclerosis",Medicare Part B,30.25,0,0,9848.25
+1005,F,50-54,White,Not of Hispanic Origin,78665,"Dizziness,Diabetes,Hypertension",Medicaid,0,0,0,5074.25
+1006,F,60-64,White,Not of Hispanic Origin,78758,"Body_pain,Hypertension,Hypercholesterolemia,Nicotine_dependence",Veteran Administration Plan,368,0,0,6074.75
+1007,M,65-69,Other,Hispanic Origin,78641,"Hyperplasia,Hypertension,Gastroesophageal_reflux,Anxiety,Drug_therapy",Medicare Part B,2308.5,11323.25,0,34922
+1008,F,75-79,Black,Not of Hispanic Origin,78613,"Dizziness,Hypertension,Drug_therapy",Medicare Part A,120.5,0,0,4855.5
+1009,F,35-39,White,Not of Hispanic Origin,78641,"Body_pain,Hypertension,Anxiety,Drug_therapy",Point of Service (POS),0,0,0,3654.75
+1010,F,70-74,White,Not of Hispanic Origin,78634,"Arthritis,COVID-19,Body_pain,Sleep_apnea,Hypertension,Hyperlipidemia,Drug_therapy",Medicare Part B,8267.5,96437.75,0,165055.5
+1011,M,40-44,Black,Not of Hispanic Origin,78613,"Hypertension,Drug_therapy",Health Maintenance Organization,239,0,0,10177.75
+1012,F,50-54,White,Not of Hispanic Origin,78750,"Hypertension,COVID-19",Other Non-federal Programs,86.75,0,0,5586.75
+1013,M,35-39,White,Not of Hispanic Origin,78613,Hypertension,Point of Service (POS),0,0,0,4574.5
+1014,M,35-39,Black,Not of Hispanic Origin,78723,"Gastroenteritis,Colitis,Diabetes,Hypertension,Hyperlipidemia,Kidney_failure,Nicotine_dependence,Insulin_use,Drug_therapy",Other Non-federal Programs,7065.75,0,0,28503.25
+1015,F,60-64,White,Not of Hispanic Origin,78753,"Body_pain,Hypertension,Coagulation,Drug_therapy",Other Non-federal Programs,350,0,0,6505
+1016,M,35-39,White,Not of Hispanic Origin,78754,"Body_pain,Hypertension,COVID-19_vaccination","Charity, Indigent or Unknown",80.25,0,0,3677
+1017,F,45-49,Black,Not of Hispanic Origin,78754,"Body_pain,Hypertension,Antrioventricular_block,Drug_therapy",Commercial Insurance,0,0,0,3648.5
+1018,M,50-54,White,Not of Hispanic Origin,78619,"Hyperplasia,Hypertension,Hyperlipidemia,Diabetes,Thyroid_disorder,Hematuria,Drug_therapy,Hormone_replacement_therapy",Veteran Administration Plan,2413.5,13374.25,0,59896.75
+1019,F,65-69,White,Not of Hispanic Origin,78759,"Hypertension,Nicotine_dependence",Health Maintenance Organization (HMO),16.25,0,0,3892
+1020,M,45-49,White,Not of Hispanic Origin,78653,"Calculus,Cystitis,Hypertension,Obesity,Drug_therapy",Blue Cross/Blue Shield,2167,6807.25,0,53945.75
+1021,F,70-74,White,Not of Hispanic Origin,78750,"Cystitis,Urinary_incontinence,Hypertension,Obesity,Nicotine_dependence,Urinary_tract_infection,Drug_therapy",Medicare Part A,874.5,0,0,28988
+1022,F,75-79,Black,Not of Hispanic Origin,78758,"COVID-19,COPD,Atherosclerotic,Diabetes,Hypertension,Nicotine_dependence,Insulin_use,Drug_therapy",Medicare Part B,2005.75,373.75,0,11444.25
+1023,M,35-39,Black,Not of Hispanic Origin,78724,"Body_pain,Hypertension,Drug_therapy","Charity, Indigent or Unknown",2.5,0,0,4577
+1024,M,50-54,Asian or Pacific Islander,Not of Hispanic Origin,78726,"Infarction,Hypertension,Kidney_failure,Diabetes,Drug_therapy",Blue Cross/Blue Shield,6115.5,0,0,30565.25
+1025,M,65-69,Black,Not of Hispanic Origin,76549,"Calculus,Atrial_fibrillation,COPD,Hypertension,Respiratory_failure,Stroke,Infarction,Genital_organ_absence,Oxygen_dependence",Health Maintenance Organization (HMO),569.5,9511.75,0,39461
+1026,M,65-69,White,Not of Hispanic Origin,78653,"Arthritis,Hypertension,Prediabetes,Blood_chemistry_abnormal,Hyperlipidemia,Sleep_apnea,Drug_therapy",Health Maintenance Organization (HMO),5423,105423.5,0,170699.25
+1027,F,75-79,White,Not of Hispanic Origin,78752,"Arthritis,Hypertension,Bladder_disorder,Neuropathy,Depression,Allergy,Cataract,Obesity,Nicotine_dependence,Drug_therapy",Health Maintenance Organization (HMO),5326.75,90128.25,0,158240.5
+1028,F,55-59,White,Not of Hispanic Origin,78759,"Hypertension,COVID-19_vaccination",Health Maintenance Organization,17,0,0,5121.5
+1029,F,50-54,White,Not of Hispanic Origin,78733,"Leiomyoma,Polyp,Leiomyoma,Stenosis,Hypertension,Drug_therapy",Blue Cross/Blue Shield,512.75,0,0,13311
